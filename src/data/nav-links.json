@@ -973,29 +973,6 @@
     "status": "active"
   },
   {
-    "id": "cnipa-patent-search",
-    "name": "专利检索及分析",
-    "url": "https://pss-system.cnipa.gov.cn/",
-    "category": "知识产权",
-    "subcategory": "专利",
-    "description": "国家知识产权局相关专利检索及分析系统。",
-    "tags": [
-      "官方",
-      "专利",
-      "检索分析"
-    ],
-    "official": true,
-    "pricing": "free",
-    "recommended": true,
-    "useCases": [
-      "专利检索",
-      "专利布局",
-      "竞品分析"
-    ],
-    "priority": 6,
-    "status": "active"
-  },
-  {
     "id": "baiten",
     "name": "佰腾网",
     "url": "https://www.baiten.cn/",
@@ -1014,30 +991,6 @@
       "专利分析"
     ],
     "priority": 10,
-    "status": "active"
-  },
-  {
-    "id": "chatgpt",
-    "name": "ChatGPT",
-    "url": "https://chatgpt.com/",
-    "category": "AI 工具",
-    "subcategory": "通用 AI",
-    "description": "用于法律研究辅助、文书初稿、结构化分析和 AI 工作流设计。",
-    "tags": [
-      "AI",
-      "写作",
-      "工作流"
-    ],
-    "official": false,
-    "pricing": "partial",
-    "recommended": true,
-    "useCases": [
-      "文书初稿",
-      "法律分析",
-      "知识整理",
-      "Skill 设计"
-    ],
-    "priority": 1,
     "status": "active"
   },
   {
@@ -1061,29 +1014,6 @@
       "资料摘要"
     ],
     "priority": 2,
-    "status": "active"
-  },
-  {
-    "id": "metaso",
-    "name": "秘塔 AI 搜索",
-    "url": "https://metaso.cn/",
-    "category": "AI 工具",
-    "subcategory": "AI 搜索",
-    "description": "AI 搜索工具，适合快速查找公开资料和形成资料线索。",
-    "tags": [
-      "AI",
-      "搜索",
-      "资料检索"
-    ],
-    "official": false,
-    "pricing": "partial",
-    "recommended": true,
-    "useCases": [
-      "资料检索",
-      "文章选题",
-      "背景研究"
-    ],
-    "priority": 3,
     "status": "active"
   },
   {
@@ -1129,97 +1059,6 @@
       "法律分析"
     ],
     "priority": 5,
-    "status": "active"
-  },
-  {
-    "id": "cursor",
-    "name": "Cursor",
-    "url": "https://cursor.com/",
-    "category": "AI 工具",
-    "subcategory": "AI 编程",
-    "description": "AI 编程工具，适合开发、修改和维护网站或工作流项目。",
-    "tags": [
-      "AI",
-      "编程",
-      "开发"
-    ],
-    "official": false,
-    "pricing": "partial",
-    "recommended": false,
-    "useCases": [
-      "网站开发",
-      "代码修改",
-      "项目维护"
-    ],
-    "priority": 6,
-    "status": "active"
-  },
-  {
-    "id": "deepl",
-    "name": "DeepL 翻译",
-    "url": "https://www.deepl.com/translator",
-    "category": "AI 工具",
-    "subcategory": "通用 AI",
-    "description": "高质量 AI 翻译工具，适合法律文书翻译。",
-    "tags": [
-      "AI",
-      "翻译",
-      "免费"
-    ],
-    "official": false,
-    "pricing": "partial",
-    "recommended": true,
-    "useCases": [
-      "法律翻译",
-      "文书翻译"
-    ],
-    "priority": 7,
-    "status": "active"
-  },
-  {
-    "id": "wps",
-    "name": "WPS",
-    "url": "https://www.wps.cn/",
-    "category": "效率工具",
-    "subcategory": "协作办公",
-    "description": "国产办公软件，支持文档、表格、演示和 PDF 处理。",
-    "tags": [
-      "办公",
-      "文档",
-      "PDF"
-    ],
-    "official": false,
-    "pricing": "partial",
-    "recommended": true,
-    "useCases": [
-      "文书处理",
-      "合同编辑",
-      "表格制作"
-    ],
-    "priority": 1,
-    "status": "active"
-  },
-  {
-    "id": "feishu-doc",
-    "name": "飞书文档",
-    "url": "https://www.feishu.cn/",
-    "category": "效率工具",
-    "subcategory": "协作办公",
-    "description": "在线协作文档和知识管理平台。",
-    "tags": [
-      "协作",
-      "文档",
-      "知识库"
-    ],
-    "official": false,
-    "pricing": "partial",
-    "recommended": false,
-    "useCases": [
-      "团队协作",
-      "知识管理",
-      "文档协作"
-    ],
-    "priority": 2,
     "status": "active"
   },
   {
@@ -1286,28 +1125,6 @@
       "法律期刊"
     ],
     "priority": 5,
-    "status": "active"
-  },
-  {
-    "id": "fadada",
-    "name": "法大大",
-    "url": "https://www.fadada.com/",
-    "category": "法律科技",
-    "subcategory": "电子合同",
-    "description": "电子合同签署和电子签名服务平台。",
-    "tags": [
-      "电子合同",
-      "电子签名",
-      "SaaS"
-    ],
-    "official": false,
-    "pricing": "paid",
-    "recommended": false,
-    "useCases": [
-      "电子签约",
-      "合同管理"
-    ],
-    "priority": 1,
     "status": "active"
   },
   {
