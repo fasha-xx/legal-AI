@@ -60,9 +60,9 @@
     "order": 10
   },
   {
-    "name": "法律科技",
-    "slug": "legal-tech",
-    "description": "电子合同、电子存证、法律科技产品、律师系统。",
+    "name": "电子存证",
+    "slug": "e-evidence",
+    "description": "电子合同、电子存证、区块链存证等法律科技工具。",
     "order": 11
   },
   {

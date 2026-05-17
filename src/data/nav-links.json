@@ -1131,7 +1131,7 @@
     "id": "tst",
     "name": "可信时间戳",
     "url": "https://www.tsa.cn/",
-    "category": "法律科技",
+    "category": "电子存证",
     "subcategory": "电子存证",
     "description": "电子证据固化和时间戳认证服务。",
     "tags": [
@@ -1154,7 +1154,7 @@
     "id": "justice-chain",
     "name": "天平链",
     "url": "https://www.tianpinglian.com/",
-    "category": "法律科技",
+    "category": "电子存证",
     "subcategory": "电子存证",
     "description": "北京互联网法院主导的区块链电子证据平台。",
     "tags": [
