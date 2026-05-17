@@ -1,0 +1,56 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import { getCollection } from 'astro:content';
+
+const articles = (await getCollection('articles')).sort(
+  (a, b) => b.data.published.localeCompare(a.data.published)
+);
+const categories = [...new Set(articles.map(a => a.data.category))];
+---
+
+<Layout title="法律文章 - 法律实务与 AI 技能库" description="法律实务文章，涵盖知识产权、合同审查、AI 应用等领域。">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-10">
+    <h1 class="text-2xl font-bold text-primary">法律文章</h1>
+    <p class="text-secondary mt-2">法律实务文章、AI 应用经验和工作流方法论。</p>
+
+    <div class="flex flex-wrap gap-2 mt-6">
+      <button class="art-cat-btn text-sm px-3 py-1 rounded-full bg-primary text-white" data-cat="">全部</button>
+      {categories.map(cat => (
+        <button class="art-cat-btn text-sm px-3 py-1 rounded-full bg-gray-100 text-gray-600 hover:bg-gray-200" data-cat={cat}>{cat}</button>
+      ))}
+    </div>
+
+    <div id="article-grid" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 mt-6">
+      {articles.map(a => (
+        <div class="article-card" data-cat={a.data.category}>
+          <ArticleCard
+            title={a.data.title}
+            slug={a.data.slug}
+            description={a.data.description}
+            category={a.data.category}
+            tags={a.data.tags}
+            published={a.data.published}
+          />
+        </div>
+      ))}
+    </div>
+  </div>
+</Layout>
+
+<script>
+  document.querySelectorAll('.art-cat-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const cat = (btn as HTMLElement).dataset.cat;
+      document.querySelectorAll('.art-cat-btn').forEach(b => {
+        b.className = b === btn
+          ? 'art-cat-btn text-sm px-3 py-1 rounded-full bg-primary text-white'
+          : 'art-cat-btn text-sm px-3 py-1 rounded-full bg-gray-100 text-gray-600 hover:bg-gray-200';
+      });
+      document.querySelectorAll('.article-card').forEach(card => {
+        const el = card as HTMLElement;
+        el.style.display = !cat || el.dataset.cat === cat ? '' : 'none';
+      });
+    });
+  });
+</script>

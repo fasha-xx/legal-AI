@@ -1,0 +1,25 @@
+---
+interface Props {
+  title: string;
+  slug: string;
+  description: string;
+  category: string;
+  tags: string[];
+  version: string;
+  updated: string;
+}
+
+const { title, slug, description, category, tags, updated } = Astro.props;
+---
+
+<a href={`/skills/${slug}`} class="block bg-white rounded-lg border border-gray-100 p-5 hover:shadow-md transition-shadow">
+  <span class="text-xs text-secondary">{category}</span>
+  <h3 class="font-semibold text-primary mt-1">{title}</h3>
+  <p class="text-sm text-gray-600 mt-2 line-clamp-2">{description}</p>
+  <div class="flex flex-wrap gap-1.5 mt-3">
+    {tags.map(tag => (
+      <span class="text-xs bg-cyan-50 text-cyan-700 px-2 py-0.5 rounded">{tag}</span>
+    ))}
+  </div>
+  <p class="text-xs text-gray-400 mt-3">更新于 {updated}</p>
+</a>

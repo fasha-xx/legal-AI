@@ -1,0 +1,55 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import SkillCard from '../../components/SkillCard.astro';
+import { getCollection } from 'astro:content';
+
+const skills = await getCollection('skills');
+const categories = [...new Set(skills.map(s => s.data.category))];
+---
+
+<Layout title="AI 技能 - 法律实务与 AI 技能库" description="法律工作流 AI Skill，涵盖专利分析、审查意见答复、合同审查等场景。">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-10">
+    <h1 class="text-2xl font-bold text-primary">AI 技能</h1>
+    <p class="text-secondary mt-2">法律工作流 AI Skill，用于辅助专利分析、合同审查、文书起草等实务场景。</p>
+
+    <div class="flex flex-wrap gap-2 mt-6">
+      <button class="skill-cat-btn text-sm px-3 py-1 rounded-full bg-primary text-white" data-cat="">全部</button>
+      {categories.map(cat => (
+        <button class="skill-cat-btn text-sm px-3 py-1 rounded-full bg-gray-100 text-gray-600 hover:bg-gray-200" data-cat={cat}>{cat}</button>
+      ))}
+    </div>
+
+    <div id="skill-grid" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 mt-6">
+      {skills.map(s => (
+        <div class="skill-card" data-cat={s.data.category}>
+          <SkillCard
+            title={s.data.title}
+            slug={s.data.slug}
+            description={s.data.description}
+            category={s.data.category}
+            tags={s.data.tags}
+            version={s.data.version}
+            updated={s.data.updated}
+          />
+        </div>
+      ))}
+    </div>
+  </div>
+</Layout>
+
+<script>
+  document.querySelectorAll('.skill-cat-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const cat = (btn as HTMLElement).dataset.cat;
+      document.querySelectorAll('.skill-cat-btn').forEach(b => {
+        b.className = b === btn
+          ? 'skill-cat-btn text-sm px-3 py-1 rounded-full bg-primary text-white'
+          : 'skill-cat-btn text-sm px-3 py-1 rounded-full bg-gray-100 text-gray-600 hover:bg-gray-200';
+      });
+      document.querySelectorAll('.skill-card').forEach(card => {
+        const el = card as HTMLElement;
+        el.style.display = !cat || el.dataset.cat === cat ? '' : 'none';
+      });
+    });
+  });
+</script>

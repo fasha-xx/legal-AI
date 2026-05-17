@@ -1,0 +1,38 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const articles = await getCollection('articles');
+  return articles.map(article => ({
+    params: { slug: article.data.slug },
+    props: { article },
+  }));
+}
+
+const { article } = Astro.props;
+const { Content } = await render(article);
+---
+
+<Layout title={`${article.data.title} - 法律文章`} description={article.data.description}>
+  <div class="max-w-4xl mx-auto px-4 sm:px-6 py-10">
+    <a href="/articles" class="text-sm text-secondary hover:text-primary">&larr; 返回文章列表</a>
+    <h1 class="text-2xl font-bold text-primary mt-4">{article.data.title}</h1>
+    <p class="text-secondary mt-2">{article.data.description}</p>
+    <div class="flex flex-wrap gap-2 mt-3">
+      <span class="text-xs bg-gray-100 text-gray-600 px-2 py-0.5 rounded">{article.data.category}</span>
+      {article.data.tags.map(tag => (
+        <span class="text-xs bg-gray-100 text-gray-600 px-2 py-0.5 rounded">{tag}</span>
+      ))}
+      <span class="text-xs text-gray-400">发布于 {article.data.published} · 更新于 {article.data.updated}</span>
+    </div>
+    <hr class="my-6 border-gray-100" />
+    <article class="prose max-w-none">
+      <Content />
+    </article>
+    <hr class="my-6 border-gray-100" />
+    <p class="text-xs text-gray-400">
+      免责声明：本站内容仅供学习、研究和实务参考，不构成正式法律意见。任何具体案件或项目均应结合完整事实、证据材料及现行法律规定，由专业人员进行判断。
+    </p>
+  </div>
+</Layout>

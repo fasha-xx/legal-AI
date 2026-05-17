@@ -1,0 +1,68 @@
+---
+import Layout from '../layouts/Layout.astro';
+import NavCard from '../components/NavCard.astro';
+import navLinks from '../data/nav-links.json';
+
+const categories = [...new Set(navLinks.map(l => l.category))];
+---
+
+<Layout title="律师导航 - 法律实务与 AI 技能库" description="律师常用网站导航，涵盖法律法规、案例检索、企业查询、知识产权等领域。">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-10">
+    <h1 class="text-2xl font-bold text-primary">律师导航</h1>
+    <p class="text-secondary mt-2">律师常用网站导航，快速进入法律检索、案例检索、企业查询等平台。</p>
+
+    <!-- Search + Filter -->
+    <div class="mt-6 flex flex-col sm:flex-row gap-3">
+      <input
+        id="search-input"
+        type="text"
+        placeholder="搜索网站名称或描述..."
+        class="flex-1 border border-gray-200 rounded-lg px-4 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary"
+      />
+      <select
+        id="category-select"
+        class="border border-gray-200 rounded-lg px-4 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary"
+      >
+        <option value="">全部分类</option>
+        {categories.map(cat => <option value={cat}>{cat}</option>)}
+      </select>
+    </div>
+
+    <!-- Cards -->
+    <div id="nav-grid" class="grid sm:grid-cols-2 gap-4 mt-6">
+      {navLinks.map(link => (
+        <div class="nav-card" data-name={link.name} data-desc={link.description} data-cat={link.category}>
+          <NavCard {...link} />
+        </div>
+      ))}
+    </div>
+    <p id="no-results" class="hidden text-center text-secondary py-12">未找到匹配结果</p>
+  </div>
+</Layout>
+
+<script>
+  const searchInput = document.getElementById('search-input') as HTMLInputElement;
+  const categorySelect = document.getElementById('category-select') as HTMLSelectElement;
+  const cards = document.querySelectorAll('.nav-card');
+  const noResults = document.getElementById('no-results');
+
+  function filterCards() {
+    const query = searchInput.value.toLowerCase();
+    const cat = categorySelect.value;
+    let visible = 0;
+    cards.forEach(card => {
+      const el = card as HTMLElement;
+      const name = el.dataset.name?.toLowerCase() || '';
+      const desc = el.dataset.desc?.toLowerCase() || '';
+      const cardCat = el.dataset.cat || '';
+      const matchSearch = !query || name.includes(query) || desc.includes(query);
+      const matchCat = !cat || cardCat === cat;
+      el.style.display = matchSearch && matchCat ? '' : 'none';
+      if (matchSearch && matchCat) visible++;
+    });
+    noResults?.classList.toggle('hidden', visible > 0);
+  }
+
+  searchInput?.addEventListener('input', filterCards);
+  categorySelect?.addEventListener('change', filterCards);
+</script>

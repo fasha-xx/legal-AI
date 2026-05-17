@@ -1,0 +1,38 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const skills = await getCollection('skills');
+  return skills.map(skill => ({
+    params: { slug: skill.data.slug },
+    props: { skill },
+  }));
+}
+
+const { skill } = Astro.props;
+const { Content } = await render(skill);
+---
+
+<Layout title={`${skill.data.title} - AI 技能`} description={skill.data.description}>
+  <div class="max-w-4xl mx-auto px-4 sm:px-6 py-10">
+    <a href="/skills" class="text-sm text-secondary hover:text-primary">&larr; 返回技能列表</a>
+    <h1 class="text-2xl font-bold text-primary mt-4">{skill.data.title}</h1>
+    <p class="text-secondary mt-2">{skill.data.description}</p>
+    <div class="flex flex-wrap gap-2 mt-3">
+      <span class="text-xs bg-gray-100 text-gray-600 px-2 py-0.5 rounded">{skill.data.category}</span>
+      {skill.data.tags.map(tag => (
+        <span class="text-xs bg-cyan-50 text-cyan-700 px-2 py-0.5 rounded">{tag}</span>
+      ))}
+      <span class="text-xs text-gray-400">v{skill.data.version} · 更新于 {skill.data.updated}</span>
+    </div>
+    <hr class="my-6 border-gray-100" />
+    <article class="prose max-w-none">
+      <Content />
+    </article>
+    <hr class="my-6 border-gray-100" />
+    <p class="text-xs text-gray-400">
+      免责声明：AI 输出仅用于辅助分析，不构成正式法律意见。任何具体案件均应由专业人员结合完整事实和法律规定进行判断。
+    </p>
+  </div>
+</Layout>

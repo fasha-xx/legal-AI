@@ -1,0 +1,24 @@
+---
+interface Props {
+  title: string;
+  slug: string;
+  description: string;
+  category: string;
+  tags: string[];
+  published: string;
+}
+
+const { title, slug, description, category, tags, published } = Astro.props;
+---
+
+<a href={`/articles/${slug}`} class="block bg-white rounded-lg border border-gray-100 p-5 hover:shadow-md transition-shadow">
+  <span class="text-xs text-secondary">{category}</span>
+  <h3 class="font-semibold text-primary mt-1">{title}</h3>
+  <p class="text-sm text-gray-600 mt-2 line-clamp-2">{description}</p>
+  <div class="flex flex-wrap gap-1.5 mt-3">
+    {tags.map(tag => (
+      <span class="text-xs bg-gray-100 text-gray-600 px-2 py-0.5 rounded">{tag}</span>
+    ))}
+  </div>
+  <p class="text-xs text-gray-400 mt-3">{published}</p>
+</a>

@@ -1,0 +1,192 @@
+[
+  {
+    "name": "国家法律法规数据库",
+    "url": "https://flk.npc.gov.cn/",
+    "category": "法律法规",
+    "description": "查询法律、行政法规、监察法规、地方性法规等官方法律文本。",
+    "tags": [
+      "官方",
+      "免费",
+      "法规检索"
+    ],
+    "official": true,
+    "free": true,
+    "useCases": [
+      "法规检索",
+      "法律意见书",
+      "法律文章"
+    ],
+    "priority": 1
+  },
+  {
+    "name": "中国政府网",
+    "url": "https://www.gov.cn/",
+    "category": "政府监管",
+    "description": "查询国务院政策文件、部门动态和政策解读。",
+    "tags": [
+      "官方",
+      "免费",
+      "政策"
+    ],
+    "official": true,
+    "free": true,
+    "useCases": [
+      "政策检索",
+      "合规研究",
+      "文章写作"
+    ],
+    "priority": 2
+  },
+  {
+    "name": "中国裁判文书网",
+    "url": "https://wenshu.court.gov.cn/",
+    "category": "裁判文书",
+    "description": "查询公开裁判文书，用于案例检索和类案研究。",
+    "tags": [
+      "官方",
+      "免费",
+      "裁判文书"
+    ],
+    "official": true,
+    "free": true,
+    "useCases": [
+      "类案检索",
+      "诉讼策略",
+      "法律研究"
+    ],
+    "priority": 1
+  },
+  {
+    "name": "人民法院案例库",
+    "url": "https://rmfyalk.court.gov.cn/",
+    "category": "案例检索",
+    "description": "查询指导性案例、参考案例及类案裁判规则。",
+    "tags": [
+      "官方",
+      "免费",
+      "案例"
+    ],
+    "official": true,
+    "free": true,
+    "useCases": [
+      "类案检索",
+      "法律意见书",
+      "诉讼策略"
+    ],
+    "priority": 1
+  },
+  {
+    "name": "国家企业信用信息公示系统",
+    "url": "https://www.gsxt.gov.cn/",
+    "category": "企业查询",
+    "description": "查询企业登记信息、年报信息、行政处罚等企业信用信息。",
+    "tags": [
+      "官方",
+      "免费",
+      "企业查询"
+    ],
+    "official": true,
+    "free": true,
+    "useCases": [
+      "主体资格核查",
+      "合同审查",
+      "尽职调查"
+    ],
+    "priority": 1
+  },
+  {
+    "name": "信用中国",
+    "url": "https://www.creditchina.gov.cn/",
+    "category": "企业查询",
+    "description": "查询信用信息、行政处罚、严重失信主体等信息。",
+    "tags": [
+      "官方",
+      "免费",
+      "信用查询"
+    ],
+    "official": true,
+    "free": true,
+    "useCases": [
+      "企业尽调",
+      "合规审查",
+      "主体风险核查"
+    ],
+    "priority": 2
+  },
+  {
+    "name": "中国执行信息公开网",
+    "url": "https://zxgk.court.gov.cn/",
+    "category": "诉讼执行",
+    "description": "查询被执行人、失信被执行人、限制消费等执行公开信息。",
+    "tags": [
+      "官方",
+      "免费",
+      "执行"
+    ],
+    "official": true,
+    "free": true,
+    "useCases": [
+      "执行查询",
+      "诉前调查",
+      "交易风险核查"
+    ],
+    "priority": 1
+  },
+  {
+    "name": "国家知识产权局",
+    "url": "https://www.cnipa.gov.cn/",
+    "category": "知识产权",
+    "description": "查询知识产权政策、通知、公告和公共服务入口。",
+    "tags": [
+      "官方",
+      "免费",
+      "知识产权"
+    ],
+    "official": true,
+    "free": true,
+    "useCases": [
+      "专利研究",
+      "商标研究",
+      "政策查询"
+    ],
+    "priority": 1
+  },
+  {
+    "name": "专利业务办理系统",
+    "url": "https://cponline.cnipa.gov.cn/",
+    "category": "知识产权",
+    "description": "办理专利申请、缴费、手续及相关专利业务。",
+    "tags": [
+      "官方",
+      "专利",
+      "业务办理"
+    ],
+    "official": true,
+    "free": true,
+    "useCases": [
+      "专利申请",
+      "专利缴费",
+      "专利手续"
+    ],
+    "priority": 1
+  },
+  {
+    "name": "ChatGPT",
+    "url": "https://chatgpt.com/",
+    "category": "AI 工具",
+    "description": "用于法律研究辅助、文书初稿、结构化分析和 AI 工作流设计。",
+    "tags": [
+      "AI",
+      "写作",
+      "工作流"
+    ],
+    "official": false,
+    "free": false,
+    "useCases": [
+      "文书初稿",
+      "法律分析",
+      "知识整理"
+    ],
+    "priority": 1
+  }
+]

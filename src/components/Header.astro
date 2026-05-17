@@ -1,0 +1,56 @@
+---
+const navItems = [
+  { href: '/', label: '首页' },
+  { href: '/nav', label: '律师导航' },
+  { href: '/skills', label: 'AI 技能' },
+  { href: '/articles', label: '法律文章' },
+  { href: '/about', label: '关于' },
+];
+
+const currentPath = Astro.url.pathname;
+---
+
+<header class="bg-white border-b border-gray-100 sticky top-0 z-50">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6">
+    <div class="flex items-center justify-between h-16">
+      <a href="/" class="text-lg font-semibold text-primary">法律实务与 AI 技能库</a>
+      <nav class="hidden md:flex items-center gap-6">
+        {navItems.map(item => (
+          <a
+            href={item.href}
+            class:list={[
+              'text-sm transition-colors',
+              currentPath === item.href
+                ? 'text-primary font-medium'
+                : 'text-secondary hover:text-primary'
+            ]}
+          >{item.label}</a>
+        ))}
+      </nav>
+      <button id="mobile-menu-btn" class="md:hidden p-2 text-secondary" aria-label="菜单">
+        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
+        </svg>
+      </button>
+    </div>
+    <div id="mobile-menu" class="hidden md:hidden pb-4">
+      {navItems.map(item => (
+        <a
+          href={item.href}
+          class:list={[
+            'block py-2 text-sm',
+            currentPath === item.href
+              ? 'text-primary font-medium'
+              : 'text-secondary hover:text-primary'
+          ]}
+        >{item.label}</a>
+      ))}
+    </div>
+  </div>
+</header>
+
+<script>
+  const btn = document.getElementById('mobile-menu-btn');
+  const menu = document.getElementById('mobile-menu');
+  btn?.addEventListener('click', () => menu?.classList.toggle('hidden'));
+</script>
