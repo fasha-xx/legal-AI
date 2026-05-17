@@ -1,4 +1,4 @@
----
+1|---
 import Layout from '../layouts/Layout.astro';
 import ArticleCard from '../components/ArticleCard.astro';
 import SkillCard from '../components/SkillCard.astro';
@@ -17,7 +17,7 @@ const articles = (await getCollection('articles')).slice(0, 3);
         一个面向法律从业者的工具导航、实务文章与 AI 工作流技能库。
       </p>
       <div class="flex flex-wrap justify-center gap-4 mt-8">
-        <a href={`${base}/nav`} class="bg-primary text-white px-6 py-2.5 rounded-lg hover:bg-primary-light transition-colors">进入律师导航</a>
+        <a href={`${base}/nav`} class="bg-primary text-white px-6 py-2.5 rounded-lg hover:bg-primary-light transition-colors">进入法律导航</a>
         <a href={`${base}/skills`} class="bg-white text-primary border border-primary px-6 py-2.5 rounded-lg hover:bg-surface transition-colors">查看 AI 技能</a>
         <a href={`${base}/articles`} class="bg-white text-primary border border-primary px-6 py-2.5 rounded-lg hover:bg-surface transition-colors">阅读法律文章</a>
       </div>
@@ -26,7 +26,7 @@ const articles = (await getCollection('articles')).slice(0, 3);
 
   <section class="max-w-6xl mx-auto px-4 sm:px-6 py-12">
     <p class="text-secondary text-center max-w-3xl mx-auto">
-      本站用于沉淀律师常用网站导航、法律实务文章和 AI 技能方法论，关注知识产权、合同风控、企业合规、人工智能与数据合规等方向。内容仅供学习、研究和实务参考，不构成正式法律意见。
+      本站用于沉淀法律常用网站导航、法律实务文章和 AI 技能方法论，关注知识产权、合同风控、企业合规、人工智能与数据合规等方向。内容仅供学习、研究和实务参考，不构成正式法律意见。
     </p>
   </section>
 
@@ -64,6 +64,7 @@ const articles = (await getCollection('articles')).slice(0, 3);
   </section>
 
   <section class="max-w-6xl mx-auto px-4 sm:px-6 py-12 text-center">
-    <a href={`${base}/nav`} class="text-primary hover:underline">查看全部律师导航 &rarr;</a>
+    <a href={`${base}/nav`} class="text-primary hover:underline">查看全部法律导航 &rarr;</a>
   </section>
 </Layout>
+

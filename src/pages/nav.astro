@@ -1,4 +1,4 @@
----
+1|---
 import Layout from '../layouts/Layout.astro';
 import NavCard from '../components/NavCard.astro';
 import navLinks from '../data/nav-links.json';
@@ -15,11 +15,11 @@ const sortedLinks = [...navLinks].sort((a, b) => {
 const allTags = [...new Set(navLinks.flatMap(l => l.tags))].sort();
 ---
 
-<Layout title="律师导航 - 法律实务与 AI 技能库" description="律师常用网站导航，涵盖法规案例、企业查询、诉讼执行、知识产权、AI 工具等领域。">
+<Layout title="法律导航 - 法律实务与 AI 技能库" description="法律常用网站导航，涵盖法规案例、企业查询、诉讼执行、知识产权、AI 工具等领域。">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 py-8">
     <!-- Header -->
     <div class="mb-6">
-      <h1 class="text-2xl font-bold text-primary">律师导航</h1>
+      <h1 class="text-2xl font-bold text-primary">法律导航</h1>
       <p class="text-secondary mt-1 text-sm">收录法律检索、企业查询、诉讼执行、知识产权、AI 工具和律师效率工具等常用入口，帮助法律从业者快速进入实务工作流。</p>
     </div>
 
@@ -222,3 +222,4 @@ const allTags = [...new Set(navLinks.flatMap(l => l.tags))].sort();
   // Search
   searchInput?.addEventListener('input', filterCards);
 </script>
+
