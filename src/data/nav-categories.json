@@ -1,0 +1,74 @@
+[
+  {
+    "name": "常用推荐",
+    "slug": "recommended",
+    "description": "律师日常最高频使用的网站入口。",
+    "order": 1
+  },
+  {
+    "name": "法规案例",
+    "slug": "laws-cases",
+    "description": "法规、司法解释、案例、裁判文书和法律数据库。",
+    "order": 2
+  },
+  {
+    "name": "工商主体",
+    "slug": "business-entities",
+    "description": "企业主体、社会组织、信用代码和工商信息查询。",
+    "order": 3
+  },
+  {
+    "name": "资本市场",
+    "slug": "capital-market",
+    "description": "交易所、上市公司公告、证监会、基金业协会等。",
+    "order": 4
+  },
+  {
+    "name": "涉诉信用",
+    "slug": "litigation-credit",
+    "description": "被执行、失信、公告、破产、行政处罚等。",
+    "order": 5
+  },
+  {
+    "name": "资产信息",
+    "slug": "asset-info",
+    "description": "动产抵押、土地、矿业权、司法拍卖、备案域名等。",
+    "order": 6
+  },
+  {
+    "name": "资质许可",
+    "slug": "qualification",
+    "description": "金融、建筑、特种设备、排污许可、认证认可等。",
+    "order": 7
+  },
+  {
+    "name": "知识产权",
+    "slug": "intellectual-property",
+    "description": "专利、商标、版权、专利代理、海外 IP 查询。",
+    "order": 8
+  },
+  {
+    "name": "AI 工具",
+    "slug": "ai-tools",
+    "description": "通用 AI、法律 AI、AI 搜索、AI 写作、AI 编程。",
+    "order": 9
+  },
+  {
+    "name": "效率工具",
+    "slug": "productivity",
+    "description": "协作办公、知识管理、可视化、翻译写作、文件检索。",
+    "order": 10
+  },
+  {
+    "name": "法律科技",
+    "slug": "legal-tech",
+    "description": "电子合同、电子存证、法律科技产品、律师系统。",
+    "order": 11
+  },
+  {
+    "name": "法律媒体",
+    "slug": "legal-media",
+    "description": "法律公众号、个人网站、法律实务自媒体、行业观察。",
+    "order": 12
+  }
+]

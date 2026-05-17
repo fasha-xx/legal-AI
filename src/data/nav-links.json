@@ -1,27 +1,198 @@
 [
   {
+    "id": "court-online-service",
+    "name": "人民法院在线服务网",
+    "url": "https://zxfw.court.gov.cn/",
+    "category": "常用推荐",
+    "subcategory": "高频入口",
+    "description": "全国统一法院网上立案、文书送达、案件沟通等诉讼服务入口。",
+    "tags": [
+      "官方",
+      "法院",
+      "立案",
+      "高频"
+    ],
+    "official": true,
+    "pricing": "free",
+    "recommended": true,
+    "useCases": [
+      "网上立案",
+      "案件沟通",
+      "文书送达"
+    ],
+    "priority": 1,
+    "status": "active"
+  },
+  {
+    "id": "national-law-db",
     "name": "国家法律法规数据库",
     "url": "https://flk.npc.gov.cn/",
-    "category": "法律法规",
-    "description": "查询法律、行政法规、监察法规、地方性法规等官方法律文本。",
+    "category": "常用推荐",
+    "subcategory": "官方优先",
+    "description": "官方免费法律法规数据库，适合查询法律、行政法规、地方性法规等正式文本。",
     "tags": [
       "官方",
       "免费",
-      "法规检索"
+      "法规检索",
+      "高频"
     ],
     "official": true,
-    "free": true,
+    "pricing": "free",
+    "recommended": true,
     "useCases": [
       "法规检索",
       "法律意见书",
-      "法律文章"
+      "文章写作"
     ],
-    "priority": 1
+    "priority": 2,
+    "status": "active"
   },
   {
+    "id": "gsxt",
+    "name": "国家企业信用信息公示系统",
+    "url": "https://www.gsxt.gov.cn/",
+    "category": "常用推荐",
+    "subcategory": "官方优先",
+    "description": "企业登记、年报、行政处罚等企业信用信息的官方查询入口。",
+    "tags": [
+      "官方",
+      "企业查询",
+      "主体核查",
+      "高频"
+    ],
+    "official": true,
+    "pricing": "free",
+    "recommended": true,
+    "useCases": [
+      "合同审查",
+      "主体核查",
+      "尽职调查"
+    ],
+    "priority": 3,
+    "status": "active"
+  },
+  {
+    "id": "rmfyalk",
+    "name": "人民法院案例库",
+    "url": "https://rmfyalk.court.gov.cn/",
+    "category": "常用推荐",
+    "subcategory": "官方优先",
+    "description": "最高人民法院建设的权威案例库，适合检索指导性案例和参考案例。",
+    "tags": [
+      "官方",
+      "案例",
+      "类案检索"
+    ],
+    "official": true,
+    "pricing": "free",
+    "recommended": true,
+    "useCases": [
+      "类案检索",
+      "诉讼策略",
+      "法律意见书"
+    ],
+    "priority": 4,
+    "status": "active"
+  },
+  {
+    "id": "zhixing-info",
+    "name": "中国执行信息公开网",
+    "url": "https://zxgk.court.gov.cn/",
+    "category": "常用推荐",
+    "subcategory": "官方优先",
+    "description": "查询被执行人、失信被执行人、限制消费等执行公开信息。",
+    "tags": [
+      "官方",
+      "执行",
+      "失信",
+      "高频"
+    ],
+    "official": true,
+    "pricing": "free",
+    "recommended": true,
+    "useCases": [
+      "诉前调查",
+      "执行查询",
+      "交易风险核查"
+    ],
+    "priority": 5,
+    "status": "active"
+  },
+  {
+    "id": "wenshu",
+    "name": "中国裁判文书网",
+    "url": "https://wenshu.court.gov.cn/",
+    "category": "法规案例",
+    "subcategory": "裁判文书",
+    "description": "最高人民法院建设的裁判文书公开平台，适合检索公开裁判文书。",
+    "tags": [
+      "官方",
+      "免费",
+      "裁判文书"
+    ],
+    "official": true,
+    "pricing": "free",
+    "recommended": true,
+    "useCases": [
+      "类案检索",
+      "诉讼策略",
+      "法律研究"
+    ],
+    "priority": 1,
+    "status": "active"
+  },
+  {
+    "id": "contract-template-samr",
+    "name": "合同示范文本库",
+    "url": "https://htsfwb.samr.gov.cn/",
+    "category": "法规案例",
+    "subcategory": "合同文本",
+    "description": "国家市场监督管理总局相关合同示范文本库，可参考各类合同示范文本。",
+    "tags": [
+      "官方",
+      "合同",
+      "模板"
+    ],
+    "official": true,
+    "pricing": "free",
+    "recommended": true,
+    "useCases": [
+      "合同起草",
+      "合同审查",
+      "文本参考"
+    ],
+    "priority": 2,
+    "status": "active"
+  },
+  {
+    "id": "court-litigation-docs",
+    "name": "诉讼文书样式",
+    "url": "https://www.court.gov.cn/",
+    "category": "法规案例",
+    "subcategory": "诉讼文书",
+    "description": "最高人民法院官网发布的诉讼文书样式，可用于诉讼文书格式参考。",
+    "tags": [
+      "官方",
+      "诉讼文书",
+      "模板"
+    ],
+    "official": true,
+    "pricing": "free",
+    "recommended": true,
+    "useCases": [
+      "诉讼文书",
+      "格式参考",
+      "立案准备"
+    ],
+    "priority": 3,
+    "status": "active"
+  },
+  {
+    "id": "gov-cn",
     "name": "中国政府网",
     "url": "https://www.gov.cn/",
-    "category": "政府监管",
+    "category": "法规案例",
+    "subcategory": "法规数据库",
     "description": "查询国务院政策文件、部门动态和政策解读。",
     "tags": [
       "官方",
@@ -29,132 +200,715 @@
       "政策"
     ],
     "official": true,
-    "free": true,
+    "pricing": "free",
+    "recommended": false,
     "useCases": [
       "政策检索",
       "合规研究",
       "文章写作"
     ],
-    "priority": 2
+    "priority": 4,
+    "status": "active"
   },
   {
-    "name": "中国裁判文书网",
-    "url": "https://wenshu.court.gov.cn/",
-    "category": "裁判文书",
-    "description": "查询公开裁判文书，用于案例检索和类案研究。",
-    "tags": [
-      "官方",
-      "免费",
-      "裁判文书"
-    ],
-    "official": true,
-    "free": true,
-    "useCases": [
-      "类案检索",
-      "诉讼策略",
-      "法律研究"
-    ],
-    "priority": 1
-  },
-  {
-    "name": "人民法院案例库",
-    "url": "https://rmfyalk.court.gov.cn/",
-    "category": "案例检索",
-    "description": "查询指导性案例、参考案例及类案裁判规则。",
+    "id": "court-case-lib",
+    "name": "中国司法案例网",
+    "url": "http://anli.court.gov.cn/",
+    "category": "法规案例",
+    "subcategory": "案例数据库",
+    "description": "司法案例研究院运营的案例检索平台。",
     "tags": [
       "官方",
       "免费",
       "案例"
     ],
     "official": true,
-    "free": true,
+    "pricing": "free",
+    "recommended": false,
     "useCases": [
-      "类案检索",
-      "法律意见书",
-      "诉讼策略"
+      "案例检索",
+      "类案研究"
     ],
-    "priority": 1
+    "priority": 5,
+    "status": "active"
   },
   {
-    "name": "国家企业信用信息公示系统",
-    "url": "https://www.gsxt.gov.cn/",
-    "category": "企业查询",
-    "description": "查询企业登记信息、年报信息、行政处罚等企业信用信息。",
+    "id": "pkulaw",
+    "name": "北大法宝",
+    "url": "https://www.pkulaw.com/",
+    "category": "法规案例",
+    "subcategory": "商业数据库",
+    "description": "老牌法律数据库，覆盖法规、案例、期刊、专题等法律信息。",
+    "tags": [
+      "商业",
+      "付费",
+      "法律数据库"
+    ],
+    "official": false,
+    "pricing": "paid",
+    "recommended": false,
+    "useCases": [
+      "法规检索",
+      "案例检索",
+      "法律研究"
+    ],
+    "priority": 10,
+    "status": "active"
+  },
+  {
+    "id": "wkinfo",
+    "name": "威科先行",
+    "url": "https://law.wkinfo.com.cn/",
+    "category": "法规案例",
+    "subcategory": "商业数据库",
+    "description": "商业法律数据库，覆盖法规、案例、实务内容和专题研究。",
+    "tags": [
+      "商业",
+      "付费",
+      "法律数据库"
+    ],
+    "official": false,
+    "pricing": "paid",
+    "recommended": false,
+    "useCases": [
+      "法律检索",
+      "实务研究",
+      "法规案例查询"
+    ],
+    "priority": 11,
+    "status": "active"
+  },
+  {
+    "id": "creditchina",
+    "name": "信用中国",
+    "url": "https://www.creditchina.gov.cn/",
+    "category": "工商主体",
+    "subcategory": "信用查询",
+    "description": "查询行政处罚、严重失信、经营异常、政府采购失信等信用信息。",
     "tags": [
       "官方",
+      "信用",
+      "行政处罚"
+    ],
+    "official": true,
+    "pricing": "free",
+    "recommended": true,
+    "useCases": [
+      "企业尽调",
+      "合同审查",
+      "合规审查"
+    ],
+    "priority": 1,
+    "status": "active"
+  },
+  {
+    "id": "cods",
+    "name": "统一社会信用代码查询",
+    "url": "https://www.cods.org.cn/",
+    "category": "工商主体",
+    "subcategory": "内地主体",
+    "description": "全国组织机构统一社会信用代码数据服务中心提供的代码查询入口。",
+    "tags": [
+      "官方",
+      "信用代码",
+      "主体核查"
+    ],
+    "official": true,
+    "pricing": "free",
+    "recommended": true,
+    "useCases": [
+      "主体核查",
+      "文书信息校验",
+      "合同审查"
+    ],
+    "priority": 2,
+    "status": "active"
+  },
+  {
+    "id": "chinanpo",
+    "name": "中国社会组织政务服务平台",
+    "url": "https://chinanpo.mca.gov.cn/",
+    "category": "工商主体",
+    "subcategory": "社会组织",
+    "description": "全国社会组织官方信息查询入口。",
+    "tags": [
+      "官方",
+      "社会组织",
+      "主体查询"
+    ],
+    "official": true,
+    "pricing": "free",
+    "recommended": false,
+    "useCases": [
+      "社会组织核查",
+      "主体资格核查"
+    ],
+    "priority": 3,
+    "status": "active"
+  },
+  {
+    "id": "qichacha",
+    "name": "企查查",
+    "url": "https://www.qcc.com/",
+    "category": "工商主体",
+    "subcategory": "商业查询",
+    "description": "第三方企业信息查询工具，适合辅助查看工商、司法、知识产权、股权结构等信息。",
+    "tags": [
+      "商业",
+      "企业查询",
+      "部分付费"
+    ],
+    "official": false,
+    "pricing": "partial",
+    "recommended": true,
+    "useCases": [
+      "企业尽调",
+      "主体核查",
+      "风险初筛"
+    ],
+    "priority": 10,
+    "status": "active"
+  },
+  {
+    "id": "tianyancha",
+    "name": "天眼查",
+    "url": "https://www.tianyancha.com/",
+    "category": "工商主体",
+    "subcategory": "商业查询",
+    "description": "第三方企业信息查询工具，可辅助查询工商、司法、股权、知识产权等信息。",
+    "tags": [
+      "商业",
+      "企业查询",
+      "部分付费"
+    ],
+    "official": false,
+    "pricing": "partial",
+    "recommended": false,
+    "useCases": [
+      "企业尽调",
+      "风险初筛",
+      "主体查询"
+    ],
+    "priority": 11,
+    "status": "active"
+  },
+  {
+    "id": "qixin",
+    "name": "启信宝",
+    "url": "https://www.qixin.com/",
+    "category": "工商主体",
+    "subcategory": "商业查询",
+    "description": "查询企业工商信息、股东结构、司法风险等企业信用数据。",
+    "tags": [
+      "商业",
+      "企业查询"
+    ],
+    "official": false,
+    "pricing": "partial",
+    "recommended": false,
+    "useCases": [
+      "企业尽调",
+      "主体核查"
+    ],
+    "priority": 12,
+    "status": "active"
+  },
+  {
+    "id": "aiqicha",
+    "name": "爱企查",
+    "url": "https://aiqicha.baidu.com/",
+    "category": "工商主体",
+    "subcategory": "商业查询",
+    "description": "百度旗下企业信息查询平台。",
+    "tags": [
+      "商业",
       "免费",
       "企业查询"
     ],
-    "official": true,
-    "free": true,
+    "official": false,
+    "pricing": "free",
+    "recommended": false,
     "useCases": [
-      "主体资格核查",
-      "合同审查",
+      "企业查询",
+      "主体核查"
+    ],
+    "priority": 13,
+    "status": "active"
+  },
+  {
+    "id": "csrc",
+    "name": "中国证券监督管理委员会",
+    "url": "http://www.csrc.gov.cn/",
+    "category": "资本市场",
+    "subcategory": "监管机构",
+    "description": "证监会官网，查询证券市场监管政策、公告和行政处罚。",
+    "tags": [
+      "官方",
+      "证监会",
+      "监管"
+    ],
+    "official": true,
+    "pricing": "free",
+    "recommended": true,
+    "useCases": [
+      "证券监管",
+      "行政处罚",
+      "合规研究"
+    ],
+    "priority": 1,
+    "status": "active"
+  },
+  {
+    "id": "szse",
+    "name": "深圳证券交易所",
+    "url": "https://www.szse.cn/",
+    "category": "资本市场",
+    "subcategory": "交易所",
+    "description": "深交所官网，查询上市公司公告、交易规则和市场数据。",
+    "tags": [
+      "官方",
+      "交易所",
+      "上市公司"
+    ],
+    "official": true,
+    "pricing": "free",
+    "recommended": true,
+    "useCases": [
+      "上市公司查询",
+      "信息披露",
+      "证券研究"
+    ],
+    "priority": 2,
+    "status": "active"
+  },
+  {
+    "id": "sse",
+    "name": "上海证券交易所",
+    "url": "https://www.sse.com.cn/",
+    "category": "资本市场",
+    "subcategory": "交易所",
+    "description": "上交所官网，查询上市公司公告、科创板信息等。",
+    "tags": [
+      "官方",
+      "交易所",
+      "上市公司"
+    ],
+    "official": true,
+    "pricing": "free",
+    "recommended": true,
+    "useCases": [
+      "上市公司查询",
+      "信息披露"
+    ],
+    "priority": 3,
+    "status": "active"
+  },
+  {
+    "id": "bse",
+    "name": "北京证券交易所",
+    "url": "https://www.bse.cn/",
+    "category": "资本市场",
+    "subcategory": "交易所",
+    "description": "北交所官网，查询北交所上市公司和市场信息。",
+    "tags": [
+      "官方",
+      "交易所",
+      "北交所"
+    ],
+    "official": true,
+    "pricing": "free",
+    "recommended": false,
+    "useCases": [
+      "北交所查询",
+      "中小企业"
+    ],
+    "priority": 4,
+    "status": "active"
+  },
+  {
+    "id": "cninfo",
+    "name": "巨潮资讯网",
+    "url": "http://www.cninfo.com.cn/",
+    "category": "资本市场",
+    "subcategory": "信息披露",
+    "description": "上市公司信息披露平台，查询公告、年报和财务数据。",
+    "tags": [
+      "官方",
+      "信息披露",
+      "上市公司"
+    ],
+    "official": true,
+    "pricing": "free",
+    "recommended": true,
+    "useCases": [
+      "公告查询",
+      "年报分析",
       "尽职调查"
     ],
-    "priority": 1
+    "priority": 5,
+    "status": "active"
   },
   {
-    "name": "信用中国",
-    "url": "https://www.creditchina.gov.cn/",
-    "category": "企业查询",
-    "description": "查询信用信息、行政处罚、严重失信主体等信息。",
+    "id": "amac",
+    "name": "中国证券投资基金业协会",
+    "url": "https://www.amac.org.cn/",
+    "category": "资本市场",
+    "subcategory": "基金证券",
+    "description": "基金业协会官网，查询私募基金管理人、基金产品等信息。",
+    "tags": [
+      "官方",
+      "基金",
+      "私募"
+    ],
+    "official": true,
+    "pricing": "free",
+    "recommended": true,
+    "useCases": [
+      "私募查询",
+      "基金合规"
+    ],
+    "priority": 6,
+    "status": "active"
+  },
+  {
+    "id": "court-announcement",
+    "name": "人民法院公告网",
+    "url": "https://rmfygg.court.gov.cn/",
+    "category": "涉诉信用",
+    "subcategory": "法院公告",
+    "description": "查询法院公告、开庭公告、裁判文书公告等。",
     "tags": [
       "官方",
       "免费",
-      "信用查询"
+      "公告"
     ],
     "official": true,
-    "free": true,
+    "pricing": "free",
+    "recommended": true,
     "useCases": [
-      "企业尽调",
-      "合规审查",
-      "主体风险核查"
+      "公告查询",
+      "诉讼跟踪"
     ],
-    "priority": 2
+    "priority": 1,
+    "status": "active"
   },
   {
-    "name": "中国执行信息公开网",
-    "url": "https://zxgk.court.gov.cn/",
-    "category": "诉讼执行",
-    "description": "查询被执行人、失信被执行人、限制消费等执行公开信息。",
+    "id": "pccz",
+    "name": "全国企业破产重整案件信息网",
+    "url": "http://pccz.court.gov.cn/",
+    "category": "涉诉信用",
+    "subcategory": "破产重整",
+    "description": "查询破产重整、破产清算案件信息和公告。",
     "tags": [
       "官方",
       "免费",
-      "执行"
+      "破产"
     ],
     "official": true,
-    "free": true,
+    "pricing": "free",
+    "recommended": true,
     "useCases": [
-      "执行查询",
-      "诉前调查",
-      "交易风险核查"
+      "破产案件",
+      "债权申报"
     ],
-    "priority": 1
+    "priority": 2,
+    "status": "active"
   },
   {
+    "id": "xzcf",
+    "name": "行政处罚文书网",
+    "url": "https://www.xzcfwss.cn/",
+    "category": "涉诉信用",
+    "subcategory": "行政处罚",
+    "description": "查询各级行政机关行政处罚决定书。",
+    "tags": [
+      "官方",
+      "免费",
+      "行政处罚"
+    ],
+    "official": true,
+    "pricing": "free",
+    "recommended": true,
+    "useCases": [
+      "行政处罚查询",
+      "合规审查"
+    ],
+    "priority": 3,
+    "status": "active"
+  },
+  {
+    "id": "tingshen",
+    "name": "中国庭审公开网",
+    "url": "https://tingshen.court.gov.cn/",
+    "category": "涉诉信用",
+    "subcategory": "执行信息",
+    "description": "观看庭审直播和回放，了解庭审过程。",
+    "tags": [
+      "官方",
+      "免费",
+      "庭审"
+    ],
+    "official": true,
+    "pricing": "free",
+    "recommended": false,
+    "useCases": [
+      "庭审观摩",
+      "案例研究"
+    ],
+    "priority": 4,
+    "status": "active"
+  },
+  {
+    "id": "court-assets",
+    "name": "人民法院诉讼资产网",
+    "url": "https://www.rmfysszc.gov.cn/",
+    "category": "涉诉信用",
+    "subcategory": "执行信息",
+    "description": "查询司法拍卖、诉讼资产处置信息。",
+    "tags": [
+      "官方",
+      "司法拍卖",
+      "资产处置"
+    ],
+    "official": true,
+    "pricing": "free",
+    "recommended": false,
+    "useCases": [
+      "司法拍卖",
+      "资产处置"
+    ],
+    "priority": 5,
+    "status": "active"
+  },
+  {
+    "id": "movable-finance",
+    "name": "动产融资统一登记公示系统",
+    "url": "https://www.zhongdengwang.org.cn/",
+    "category": "资产信息",
+    "subcategory": "动产担保",
+    "description": "查询动产和权利担保登记信息。",
+    "tags": [
+      "官方",
+      "动产",
+      "担保"
+    ],
+    "official": true,
+    "pricing": "free",
+    "recommended": true,
+    "useCases": [
+      "动产抵押",
+      "担保查询",
+      "尽职调查"
+    ],
+    "priority": 1,
+    "status": "active"
+  },
+  {
+    "id": "land-info",
+    "name": "全国土地估价监管系统",
+    "url": "http://jggl.mnr.gov.cn/",
+    "category": "资产信息",
+    "subcategory": "土地信息",
+    "description": "查询土地估价机构和估价师信息。",
+    "tags": [
+      "官方",
+      "土地",
+      "估价"
+    ],
+    "official": true,
+    "pricing": "free",
+    "recommended": false,
+    "useCases": [
+      "土地估价",
+      "资产核查"
+    ],
+    "priority": 2,
+    "status": "active"
+  },
+  {
+    "id": "mining-rights",
+    "name": "全国矿业权人勘查开采信息公示系统",
+    "url": "https://kyqg.mnr.gov.cn/",
+    "category": "资产信息",
+    "subcategory": "矿业权",
+    "description": "查询矿业权人勘查开采信息。",
+    "tags": [
+      "官方",
+      "矿业权",
+      "勘查"
+    ],
+    "official": true,
+    "pricing": "free",
+    "recommended": false,
+    "useCases": [
+      "矿业权查询",
+      "资产核查"
+    ],
+    "priority": 3,
+    "status": "active"
+  },
+  {
+    "id": "cbirc",
+    "name": "中国银保监会许可证查询",
+    "url": "http://www.cbirc.gov.cn/",
+    "category": "资质许可",
+    "subcategory": "金融许可",
+    "description": "查询银行业、保险业金融机构许可证信息。",
+    "tags": [
+      "官方",
+      "金融",
+      "许可"
+    ],
+    "official": true,
+    "pricing": "free",
+    "recommended": true,
+    "useCases": [
+      "金融合规",
+      "资质核查"
+    ],
+    "priority": 1,
+    "status": "active"
+  },
+  {
+    "id": "mohurd",
+    "name": "全国建筑市场监管公共服务平台",
+    "url": "https://jzsc.mohurd.gov.cn/",
+    "category": "资质许可",
+    "subcategory": "建筑资质",
+    "description": "查询建筑业企业资质、注册人员等信息。",
+    "tags": [
+      "官方",
+      "建筑",
+      "资质"
+    ],
+    "official": true,
+    "pricing": "free",
+    "recommended": true,
+    "useCases": [
+      "资质核查",
+      "建筑合规"
+    ],
+    "priority": 2,
+    "status": "active"
+  },
+  {
+    "id": "sewage-permit",
+    "name": "全国排污许可证管理信息平台",
+    "url": "http://permit.mee.gov.cn/",
+    "category": "资质许可",
+    "subcategory": "排污许可",
+    "description": "查询排污许可证信息。",
+    "tags": [
+      "官方",
+      "环保",
+      "排污"
+    ],
+    "official": true,
+    "pricing": "free",
+    "recommended": false,
+    "useCases": [
+      "环保合规",
+      "排污查询"
+    ],
+    "priority": 3,
+    "status": "active"
+  },
+  {
+    "id": "cnca",
+    "name": "中国合格评定国家认可委员会",
+    "url": "http://www.cnas.org.cn/",
+    "category": "资质许可",
+    "subcategory": "认证认可",
+    "description": "查询认证认可信息。",
+    "tags": [
+      "官方",
+      "认证",
+      "认可"
+    ],
+    "official": true,
+    "pricing": "free",
+    "recommended": false,
+    "useCases": [
+      "认证查询",
+      "资质核查"
+    ],
+    "priority": 4,
+    "status": "active"
+  },
+  {
+    "id": "innocom",
+    "name": "高新技术企业认定管理工作网",
+    "url": "https://www.innocom.gov.cn/",
+    "category": "资质许可",
+    "subcategory": "认证认可",
+    "description": "查询高新技术企业认定信息和政策。",
+    "tags": [
+      "官方",
+      "高新认定",
+      "企业资质"
+    ],
+    "official": true,
+    "pricing": "free",
+    "recommended": false,
+    "useCases": [
+      "高新认定",
+      "企业资质"
+    ],
+    "priority": 5,
+    "status": "active"
+  },
+  {
+    "id": "cnipa",
     "name": "国家知识产权局",
     "url": "https://www.cnipa.gov.cn/",
     "category": "知识产权",
-    "description": "查询知识产权政策、通知、公告和公共服务入口。",
+    "subcategory": "官方入口",
+    "description": "国家知识产权局官网，适合查询政策、通知、公告和公共服务入口。",
     "tags": [
       "官方",
-      "免费",
-      "知识产权"
+      "知识产权",
+      "政策"
     ],
     "official": true,
-    "free": true,
+    "pricing": "free",
+    "recommended": true,
     "useCases": [
       "专利研究",
       "商标研究",
       "政策查询"
     ],
-    "priority": 1
+    "priority": 1,
+    "status": "active"
   },
   {
+    "id": "cnipa-patent-query",
+    "name": "中国及多国专利审查信息查询",
+    "url": "https://cpquery.cnipa.gov.cn/",
+    "category": "知识产权",
+    "subcategory": "专利",
+    "description": "查询中国、欧洲、日本、韩国、美国等专利审查信息。",
+    "tags": [
+      "官方",
+      "专利",
+      "审查信息"
+    ],
+    "official": true,
+    "pricing": "free",
+    "recommended": true,
+    "useCases": [
+      "专利检索",
+      "审查信息查询",
+      "专利分析"
+    ],
+    "priority": 2,
+    "status": "active"
+  },
+  {
+    "id": "cnipa-patent-online",
     "name": "专利业务办理系统",
     "url": "https://cponline.cnipa.gov.cn/",
     "category": "知识产权",
+    "subcategory": "专利",
     "description": "办理专利申请、缴费、手续及相关专利业务。",
     "tags": [
       "官方",
@@ -162,18 +916,112 @@
       "业务办理"
     ],
     "official": true,
-    "free": true,
+    "pricing": "free",
+    "recommended": true,
     "useCases": [
       "专利申请",
       "专利缴费",
       "专利手续"
     ],
-    "priority": 1
+    "priority": 3,
+    "status": "active"
   },
   {
+    "id": "cnipa-trademark",
+    "name": "中国商标网",
+    "url": "https://sbj.cnipa.gov.cn/",
+    "category": "知识产权",
+    "subcategory": "商标",
+    "description": "商标查询、商标公告、商标网上服务等官方入口。",
+    "tags": [
+      "官方",
+      "商标",
+      "查询"
+    ],
+    "official": true,
+    "pricing": "free",
+    "recommended": true,
+    "useCases": [
+      "商标查询",
+      "品牌保护",
+      "商标申请"
+    ],
+    "priority": 4,
+    "status": "active"
+  },
+  {
+    "id": "ccopyright",
+    "name": "中国版权保护中心",
+    "url": "https://www.ccopyright.com.cn/",
+    "category": "知识产权",
+    "subcategory": "版权",
+    "description": "版权登记和版权相关公共服务入口。",
+    "tags": [
+      "官方",
+      "版权",
+      "登记"
+    ],
+    "official": true,
+    "pricing": "free",
+    "recommended": false,
+    "useCases": [
+      "作品登记",
+      "版权保护",
+      "版权查询"
+    ],
+    "priority": 5,
+    "status": "active"
+  },
+  {
+    "id": "cnipa-patent-search",
+    "name": "专利检索及分析",
+    "url": "https://pss-system.cnipa.gov.cn/",
+    "category": "知识产权",
+    "subcategory": "专利",
+    "description": "国家知识产权局相关专利检索及分析系统。",
+    "tags": [
+      "官方",
+      "专利",
+      "检索分析"
+    ],
+    "official": true,
+    "pricing": "free",
+    "recommended": true,
+    "useCases": [
+      "专利检索",
+      "专利布局",
+      "竞品分析"
+    ],
+    "priority": 6,
+    "status": "active"
+  },
+  {
+    "id": "baiten",
+    "name": "佰腾网",
+    "url": "https://www.baiten.cn/",
+    "category": "知识产权",
+    "subcategory": "第三方检索",
+    "description": "专利检索和分析平台。",
+    "tags": [
+      "商业",
+      "专利检索"
+    ],
+    "official": false,
+    "pricing": "partial",
+    "recommended": false,
+    "useCases": [
+      "专利检索",
+      "专利分析"
+    ],
+    "priority": 10,
+    "status": "active"
+  },
+  {
+    "id": "chatgpt",
     "name": "ChatGPT",
     "url": "https://chatgpt.com/",
     "category": "AI 工具",
+    "subcategory": "通用 AI",
     "description": "用于法律研究辅助、文书初稿、结构化分析和 AI 工作流设计。",
     "tags": [
       "AI",
@@ -181,12 +1029,374 @@
       "工作流"
     ],
     "official": false,
-    "free": false,
+    "pricing": "partial",
+    "recommended": true,
     "useCases": [
       "文书初稿",
       "法律分析",
-      "知识整理"
+      "知识整理",
+      "Skill 设计"
     ],
-    "priority": 1
+    "priority": 1,
+    "status": "active"
+  },
+  {
+    "id": "kimi",
+    "name": "Kimi",
+    "url": "https://kimi.moonshot.cn/",
+    "category": "AI 工具",
+    "subcategory": "通用 AI",
+    "description": "适合长文本阅读、资料整理和中文语境下的文档分析。",
+    "tags": [
+      "AI",
+      "长文本",
+      "中文"
+    ],
+    "official": false,
+    "pricing": "partial",
+    "recommended": true,
+    "useCases": [
+      "长文档阅读",
+      "文章整理",
+      "资料摘要"
+    ],
+    "priority": 2,
+    "status": "active"
+  },
+  {
+    "id": "metaso",
+    "name": "秘塔 AI 搜索",
+    "url": "https://metaso.cn/",
+    "category": "AI 工具",
+    "subcategory": "AI 搜索",
+    "description": "AI 搜索工具，适合快速查找公开资料和形成资料线索。",
+    "tags": [
+      "AI",
+      "搜索",
+      "资料检索"
+    ],
+    "official": false,
+    "pricing": "partial",
+    "recommended": true,
+    "useCases": [
+      "资料检索",
+      "文章选题",
+      "背景研究"
+    ],
+    "priority": 3,
+    "status": "active"
+  },
+  {
+    "id": "doubao",
+    "name": "豆包",
+    "url": "https://www.doubao.com/",
+    "category": "AI 工具",
+    "subcategory": "通用 AI",
+    "description": "中文 AI 工具，适合写作、问答、资料整理等基础场景。",
+    "tags": [
+      "AI",
+      "中文",
+      "写作"
+    ],
+    "official": false,
+    "pricing": "partial",
+    "recommended": false,
+    "useCases": [
+      "资料整理",
+      "写作辅助",
+      "问答"
+    ],
+    "priority": 4,
+    "status": "active"
+  },
+  {
+    "id": "tongyi",
+    "name": "通义千问",
+    "url": "https://tongyi.aliyun.com/",
+    "category": "AI 工具",
+    "subcategory": "通用 AI",
+    "description": "阿里云 AI 助手，支持文档分析和写作辅助。",
+    "tags": [
+      "AI",
+      "国产",
+      "写作"
+    ],
+    "official": false,
+    "pricing": "partial",
+    "recommended": false,
+    "useCases": [
+      "文书辅助",
+      "法律分析"
+    ],
+    "priority": 5,
+    "status": "active"
+  },
+  {
+    "id": "cursor",
+    "name": "Cursor",
+    "url": "https://cursor.com/",
+    "category": "AI 工具",
+    "subcategory": "AI 编程",
+    "description": "AI 编程工具，适合开发、修改和维护网站或工作流项目。",
+    "tags": [
+      "AI",
+      "编程",
+      "开发"
+    ],
+    "official": false,
+    "pricing": "partial",
+    "recommended": false,
+    "useCases": [
+      "网站开发",
+      "代码修改",
+      "项目维护"
+    ],
+    "priority": 6,
+    "status": "active"
+  },
+  {
+    "id": "deepl",
+    "name": "DeepL 翻译",
+    "url": "https://www.deepl.com/translator",
+    "category": "AI 工具",
+    "subcategory": "通用 AI",
+    "description": "高质量 AI 翻译工具，适合法律文书翻译。",
+    "tags": [
+      "AI",
+      "翻译",
+      "免费"
+    ],
+    "official": false,
+    "pricing": "partial",
+    "recommended": true,
+    "useCases": [
+      "法律翻译",
+      "文书翻译"
+    ],
+    "priority": 7,
+    "status": "active"
+  },
+  {
+    "id": "wps",
+    "name": "WPS",
+    "url": "https://www.wps.cn/",
+    "category": "效率工具",
+    "subcategory": "协作办公",
+    "description": "国产办公软件，支持文档、表格、演示和 PDF 处理。",
+    "tags": [
+      "办公",
+      "文档",
+      "PDF"
+    ],
+    "official": false,
+    "pricing": "partial",
+    "recommended": true,
+    "useCases": [
+      "文书处理",
+      "合同编辑",
+      "表格制作"
+    ],
+    "priority": 1,
+    "status": "active"
+  },
+  {
+    "id": "feishu-doc",
+    "name": "飞书文档",
+    "url": "https://www.feishu.cn/",
+    "category": "效率工具",
+    "subcategory": "协作办公",
+    "description": "在线协作文档和知识管理平台。",
+    "tags": [
+      "协作",
+      "文档",
+      "知识库"
+    ],
+    "official": false,
+    "pricing": "partial",
+    "recommended": false,
+    "useCases": [
+      "团队协作",
+      "知识管理",
+      "文档协作"
+    ],
+    "priority": 2,
+    "status": "active"
+  },
+  {
+    "id": "yuque",
+    "name": "语雀",
+    "url": "https://www.yuque.com/",
+    "category": "效率工具",
+    "subcategory": "知识管理",
+    "description": "知识管理和笔记工具，适合沉淀专业知识库。",
+    "tags": [
+      "知识库",
+      "笔记",
+      "协作"
+    ],
+    "official": false,
+    "pricing": "partial",
+    "recommended": false,
+    "useCases": [
+      "知识沉淀",
+      "团队文档"
+    ],
+    "priority": 3,
+    "status": "active"
+  },
+  {
+    "id": "processon",
+    "name": "ProcessOn",
+    "url": "https://www.processon.com/",
+    "category": "效率工具",
+    "subcategory": "可视化",
+    "description": "在线作图工具，支持流程图、思维导图、组织架构图等。",
+    "tags": [
+      "可视化",
+      "流程图",
+      "思维导图"
+    ],
+    "official": false,
+    "pricing": "partial",
+    "recommended": false,
+    "useCases": [
+      "案件分析",
+      "流程梳理",
+      "方案展示"
+    ],
+    "priority": 4,
+    "status": "active"
+  },
+  {
+    "id": "cnki",
+    "name": "中国知网",
+    "url": "https://www.cnki.net/",
+    "category": "效率工具",
+    "subcategory": "本地检索",
+    "description": "中文学术期刊、学位论文、会议论文等学术资源检索。",
+    "tags": [
+      "商业",
+      "学术"
+    ],
+    "official": false,
+    "pricing": "paid",
+    "recommended": false,
+    "useCases": [
+      "学术研究",
+      "法律期刊"
+    ],
+    "priority": 5,
+    "status": "active"
+  },
+  {
+    "id": "fadada",
+    "name": "法大大",
+    "url": "https://www.fadada.com/",
+    "category": "法律科技",
+    "subcategory": "电子合同",
+    "description": "电子合同签署和电子签名服务平台。",
+    "tags": [
+      "电子合同",
+      "电子签名",
+      "SaaS"
+    ],
+    "official": false,
+    "pricing": "paid",
+    "recommended": false,
+    "useCases": [
+      "电子签约",
+      "合同管理"
+    ],
+    "priority": 1,
+    "status": "active"
+  },
+  {
+    "id": "tst",
+    "name": "可信时间戳",
+    "url": "https://www.tsa.cn/",
+    "category": "法律科技",
+    "subcategory": "电子存证",
+    "description": "电子证据固化和时间戳认证服务。",
+    "tags": [
+      "存证",
+      "时间戳",
+      "电子证据"
+    ],
+    "official": false,
+    "pricing": "partial",
+    "recommended": true,
+    "useCases": [
+      "电子存证",
+      "证据固化",
+      "知产保护"
+    ],
+    "priority": 2,
+    "status": "active"
+  },
+  {
+    "id": "justice-chain",
+    "name": "天平链",
+    "url": "https://www.tianpinglian.com/",
+    "category": "法律科技",
+    "subcategory": "电子存证",
+    "description": "北京互联网法院主导的区块链电子证据平台。",
+    "tags": [
+      "区块链",
+      "存证",
+      "法院"
+    ],
+    "official": true,
+    "pricing": "free",
+    "recommended": false,
+    "useCases": [
+      "区块链存证",
+      "电子证据"
+    ],
+    "priority": 3,
+    "status": "active"
+  },
+  {
+    "id": "lawyers-china",
+    "name": "中国律师网",
+    "url": "https://www.acla.org.cn/",
+    "category": "法律媒体",
+    "subcategory": "行业资讯",
+    "description": "中华全国律师协会官网，查询律师行业信息和政策。",
+    "tags": [
+      "官方",
+      "律师",
+      "行业协会"
+    ],
+    "official": true,
+    "pricing": "free",
+    "recommended": true,
+    "useCases": [
+      "行业信息",
+      "律师政策"
+    ],
+    "priority": 1,
+    "status": "active"
+  },
+  {
+    "id": "court-gov",
+    "name": "中国法院网",
+    "url": "https://www.chinacourt.org/",
+    "category": "法律媒体",
+    "subcategory": "行业资讯",
+    "description": "最高人民法院主管的法治新闻网站。",
+    "tags": [
+      "官方",
+      "法治新闻",
+      "法院"
+    ],
+    "official": true,
+    "pricing": "free",
+    "recommended": false,
+    "useCases": [
+      "法治新闻",
+      "司法动态"
+    ],
+    "priority": 2,
+    "status": "active"
   }
 ]
