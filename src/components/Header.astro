@@ -1,10 +1,11 @@
 ---
+const base = (import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL.slice(0, -1) : import.meta.env.BASE_URL);
 const navItems = [
-  { href: '/', label: '首页' },
-  { href: '/nav', label: '律师导航' },
-  { href: '/skills', label: 'AI 技能' },
-  { href: '/articles', label: '法律文章' },
-  { href: '/about', label: '关于' },
+  { href: `${base}/`, label: '首页' },
+  { href: `${base}/nav`, label: '律师导航' },
+  { href: `${base}/skills`, label: 'AI 技能' },
+  { href: `${base}/articles`, label: '法律文章' },
+  { href: `${base}/about`, label: '关于' },
 ];
 
 const currentPath = Astro.url.pathname;
@@ -13,7 +14,7 @@ const currentPath = Astro.url.pathname;
 <header class="bg-white border-b border-gray-100 sticky top-0 z-50">
   <div class="max-w-6xl mx-auto px-4 sm:px-6">
     <div class="flex items-center justify-between h-16">
-      <a href="/" class="text-lg font-semibold text-primary">法律实务与 AI 技能库</a>
+      <a href={`${base}/`} class="text-lg font-semibold text-primary">法律实务与 AI 技能库</a>
       <nav class="hidden md:flex items-center gap-6">
         {navItems.map(item => (
           <a

@@ -4,12 +4,12 @@ import ArticleCard from '../components/ArticleCard.astro';
 import SkillCard from '../components/SkillCard.astro';
 import { getCollection } from 'astro:content';
 
+const base = (import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL.slice(0, -1) : import.meta.env.BASE_URL);
 const skills = (await getCollection('skills')).slice(0, 3);
 const articles = (await getCollection('articles')).slice(0, 3);
 ---
 
 <Layout>
-  <!-- Hero -->
   <section class="bg-gradient-to-b from-surface to-white py-16 sm:py-24">
     <div class="max-w-6xl mx-auto px-4 sm:px-6 text-center">
       <h1 class="text-3xl sm:text-4xl font-bold text-primary">法律实务与 AI 技能库</h1>
@@ -17,21 +17,19 @@ const articles = (await getCollection('articles')).slice(0, 3);
         一个面向法律从业者的工具导航、实务文章与 AI 工作流技能库。
       </p>
       <div class="flex flex-wrap justify-center gap-4 mt-8">
-        <a href="/nav" class="bg-primary text-white px-6 py-2.5 rounded-lg hover:bg-primary-light transition-colors">进入律师导航</a>
-        <a href="/skills" class="bg-white text-primary border border-primary px-6 py-2.5 rounded-lg hover:bg-surface transition-colors">查看 AI 技能</a>
-        <a href="/articles" class="bg-white text-primary border border-primary px-6 py-2.5 rounded-lg hover:bg-surface transition-colors">阅读法律文章</a>
+        <a href={`${base}/nav`} class="bg-primary text-white px-6 py-2.5 rounded-lg hover:bg-primary-light transition-colors">进入律师导航</a>
+        <a href={`${base}/skills`} class="bg-white text-primary border border-primary px-6 py-2.5 rounded-lg hover:bg-surface transition-colors">查看 AI 技能</a>
+        <a href={`${base}/articles`} class="bg-white text-primary border border-primary px-6 py-2.5 rounded-lg hover:bg-surface transition-colors">阅读法律文章</a>
       </div>
     </div>
   </section>
 
-  <!-- Intro -->
   <section class="max-w-6xl mx-auto px-4 sm:px-6 py-12">
     <p class="text-secondary text-center max-w-3xl mx-auto">
       本站用于沉淀律师常用网站导航、法律实务文章和 AI 技能方法论，关注知识产权、合同风控、企业合规、人工智能与数据合规等方向。内容仅供学习、研究和实务参考，不构成正式法律意见。
     </p>
   </section>
 
-  <!-- Recent Articles -->
   <section class="max-w-6xl mx-auto px-4 sm:px-6 py-8">
     <h2 class="text-xl font-semibold text-primary mb-6">最近更新文章</h2>
     <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
@@ -48,7 +46,6 @@ const articles = (await getCollection('articles')).slice(0, 3);
     </div>
   </section>
 
-  <!-- Featured Skills -->
   <section class="max-w-6xl mx-auto px-4 sm:px-6 py-8">
     <h2 class="text-xl font-semibold text-primary mb-6">精选 AI 技能</h2>
     <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
@@ -66,8 +63,7 @@ const articles = (await getCollection('articles')).slice(0, 3);
     </div>
   </section>
 
-  <!-- CTA -->
   <section class="max-w-6xl mx-auto px-4 sm:px-6 py-12 text-center">
-    <a href="/nav" class="text-primary hover:underline">查看全部律师导航 &rarr;</a>
+    <a href={`${base}/nav`} class="text-primary hover:underline">查看全部律师导航 &rarr;</a>
   </section>
 </Layout>

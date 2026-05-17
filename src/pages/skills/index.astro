@@ -40,15 +40,14 @@ const categories = [...new Set(skills.map(s => s.data.category))];
 <script>
   document.querySelectorAll('.skill-cat-btn').forEach(btn => {
     btn.addEventListener('click', () => {
-      const cat = (btn as HTMLElement).dataset.cat;
+      const cat = btn.dataset.cat;
       document.querySelectorAll('.skill-cat-btn').forEach(b => {
         b.className = b === btn
           ? 'skill-cat-btn text-sm px-3 py-1 rounded-full bg-primary text-white'
           : 'skill-cat-btn text-sm px-3 py-1 rounded-full bg-gray-100 text-gray-600 hover:bg-gray-200';
       });
       document.querySelectorAll('.skill-card').forEach(card => {
-        const el = card as HTMLElement;
-        el.style.display = !cat || el.dataset.cat === cat ? '' : 'none';
+        card.style.display = !cat || card.dataset.cat === cat ? '' : 'none';
       });
     });
   });

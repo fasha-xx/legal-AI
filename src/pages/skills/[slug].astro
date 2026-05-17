@@ -12,11 +12,12 @@ export async function getStaticPaths() {
 
 const { skill } = Astro.props;
 const { Content } = await render(skill);
+const base = (import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL.slice(0, -1) : import.meta.env.BASE_URL);
 ---
 
 <Layout title={`${skill.data.title} - AI 技能`} description={skill.data.description}>
   <div class="max-w-4xl mx-auto px-4 sm:px-6 py-10">
-    <a href="/skills" class="text-sm text-secondary hover:text-primary">&larr; 返回技能列表</a>
+    <a href={`${base}/skills`} class="text-sm text-secondary hover:text-primary">&larr; 返回技能列表</a>
     <h1 class="text-2xl font-bold text-primary mt-4">{skill.data.title}</h1>
     <p class="text-secondary mt-2">{skill.data.description}</p>
     <div class="flex flex-wrap gap-2 mt-3">

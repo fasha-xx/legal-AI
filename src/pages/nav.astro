@@ -11,7 +11,6 @@ const categories = [...new Set(navLinks.map(l => l.category))];
     <h1 class="text-2xl font-bold text-primary">律师导航</h1>
     <p class="text-secondary mt-2">律师常用网站导航，快速进入法律检索、案例检索、企业查询等平台。</p>
 
-    <!-- Search + Filter -->
     <div class="mt-6 flex flex-col sm:flex-row gap-3">
       <input
         id="search-input"
@@ -28,7 +27,6 @@ const categories = [...new Set(navLinks.map(l => l.category))];
       </select>
     </div>
 
-    <!-- Cards -->
     <div id="nav-grid" class="grid sm:grid-cols-2 gap-4 mt-6">
       {navLinks.map(link => (
         <div class="nav-card" data-name={link.name} data-desc={link.description} data-cat={link.category}>
@@ -41,8 +39,8 @@ const categories = [...new Set(navLinks.map(l => l.category))];
 </Layout>
 
 <script>
-  const searchInput = document.getElementById('search-input') as HTMLInputElement;
-  const categorySelect = document.getElementById('category-select') as HTMLSelectElement;
+  const searchInput = document.getElementById('search-input');
+  const categorySelect = document.getElementById('category-select');
   const cards = document.querySelectorAll('.nav-card');
   const noResults = document.getElementById('no-results');
 
@@ -51,7 +49,7 @@ const categories = [...new Set(navLinks.map(l => l.category))];
     const cat = categorySelect.value;
     let visible = 0;
     cards.forEach(card => {
-      const el = card as HTMLElement;
+      const el = card;
       const name = el.dataset.name?.toLowerCase() || '';
       const desc = el.dataset.desc?.toLowerCase() || '';
       const cardCat = el.dataset.cat || '';

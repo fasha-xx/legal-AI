@@ -41,15 +41,14 @@ const categories = [...new Set(articles.map(a => a.data.category))];
 <script>
   document.querySelectorAll('.art-cat-btn').forEach(btn => {
     btn.addEventListener('click', () => {
-      const cat = (btn as HTMLElement).dataset.cat;
+      const cat = btn.dataset.cat;
       document.querySelectorAll('.art-cat-btn').forEach(b => {
         b.className = b === btn
           ? 'art-cat-btn text-sm px-3 py-1 rounded-full bg-primary text-white'
           : 'art-cat-btn text-sm px-3 py-1 rounded-full bg-gray-100 text-gray-600 hover:bg-gray-200';
       });
       document.querySelectorAll('.article-card').forEach(card => {
-        const el = card as HTMLElement;
-        el.style.display = !cat || el.dataset.cat === cat ? '' : 'none';
+        card.style.display = !cat || card.dataset.cat === cat ? '' : 'none';
       });
     });
   });
