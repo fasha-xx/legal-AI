@@ -1,21 +1,15 @@
 ---
 interface Props {
-  id: string;
   name: string;
   url: string;
   category: string;
-  subcategory: string;
   description: string;
-  tags: string[];
   official: boolean;
   pricing: string;
   recommended: boolean;
-  useCases: string[];
-  priority: number;
-  status: string;
 }
 
-const { name, url, category, subcategory, description, tags, official, pricing, recommended } = Astro.props;
+const { name, url, category, description, official, pricing, recommended } = Astro.props;
 
 const pricingLabel: Record<string, { text: string; cls: string }> = {
   free: { text: '免费', cls: 'bg-green-50 text-green-700' },
@@ -28,32 +22,18 @@ const p = pricingLabel[pricing] || pricingLabel.unknown;
 
 <div class:list={[
   'bg-white rounded-lg border p-4 hover:shadow-md transition-shadow',
-  recommended ? 'border-cyan-200 ring-1 ring-cyan-50' : 'border-gray-100'
+  recommended ? 'border-cyan-200' : 'border-gray-100'
 ]}>
   <div class="flex items-start justify-between gap-3">
     <div class="flex-1 min-w-0">
-      <div class="flex items-center gap-1.5 flex-wrap mb-1">
+      <div class="flex items-center gap-1.5 mb-1">
         <h3 class="font-semibold text-primary text-sm truncate">{name}</h3>
-        {recommended && (
-          <span class="shrink-0 text-[10px] bg-cyan-50 text-cyan-700 px-1.5 py-0.5 rounded font-medium">推荐</span>
-        )}
-        {official && (
-          <span class="shrink-0 text-[10px] bg-blue-50 text-blue-700 px-1.5 py-0.5 rounded">官方</span>
-        )}
-        {p.text && (
-          <span class:list={['shrink-0 text-[10px] px-1.5 py-0.5 rounded', p.cls]}>{p.text}</span>
-        )}
-      </div>
-      <div class="flex items-center gap-1.5 text-[11px] text-gray-400 mb-1.5">
-        <span>{category}</span>
-        {subcategory && <span>· {subcategory}</span>}
+        {recommended && <span class="shrink-0 text-[10px] bg-cyan-50 text-cyan-700 px-1.5 py-0.5 rounded font-medium">推荐</span>}
+        {official && <span class="shrink-0 text-[10px] bg-blue-50 text-blue-700 px-1.5 py-0.5 rounded">官方</span>}
+        {p.text && <span class:list={['shrink-0 text-[10px] px-1.5 py-0.5 rounded', p.cls]}>{p.text}</span>}
       </div>
       <p class="text-xs text-gray-600 line-clamp-2 leading-relaxed">{description}</p>
-      <div class="flex flex-wrap gap-1 mt-2">
-        {tags.slice(0, 4).map(tag => (
-          <span class="text-[10px] bg-gray-50 text-gray-500 px-1.5 py-0.5 rounded">{tag}</span>
-        ))}
-      </div>
+      <span class="text-[11px] text-gray-400 mt-1.5 inline-block">{category}</span>
     </div>
     <a
       href={url}

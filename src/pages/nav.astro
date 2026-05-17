@@ -1,9 +1,8 @@
-1|---
+---
 import Layout from '../layouts/Layout.astro';
 import NavCard from '../components/NavCard.astro';
 import navLinks from '../data/nav-links.json';
 import navCategories from '../data/nav-categories.json';
-import navWorkflows from '../data/nav-workflows.json';
 
 // Sort: recommended first, then priority
 const sortedLinks = [...navLinks].sort((a, b) => {
@@ -11,114 +10,77 @@ const sortedLinks = [...navLinks].sort((a, b) => {
   return (a.priority ?? 99) - (b.priority ?? 99);
 });
 
-// Collect all unique tags
-const allTags = [...new Set(navLinks.flatMap(l => l.tags))].sort();
+const total = navLinks.length;
 ---
 
-<Layout title="法律导航 - 法律实务与 AI 技能库" description="法律常用网站导航，涵盖法规案例、企业查询、诉讼执行、知识产权、AI 工具等领域。">
+<Layout title="法律导航 - 法律实务与 AI 技能库" description="法律常用网站导航，涵盖法规案例、企业查询、知识产权、诉讼执行、AI 工具等领域。">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 py-8">
     <!-- Header -->
     <div class="mb-6">
-      <h1 class="text-2xl font-bold text-primary">法律导航</h1>
-      <p class="text-secondary mt-1 text-sm">收录法律检索、企业查询、诉讼执行、知识产权、AI 工具和律师效率工具等常用入口，帮助法律从业者快速进入实务工作流。</p>
+      <h1 class="text-2xl font-bold text-primary">法律常用网站导航</h1>
+      <p class="text-secondary mt-1 text-sm">收集法律检索、案例查询、企业查询、知识产权、诉讼执行、AI 工具等常用网站入口，方便快速查找和访问。</p>
     </div>
 
     <!-- Search -->
-    <div class="mb-4">
+    <div class="mb-5">
       <input
         id="nav-search"
         type="text"
-        placeholder="搜索网站名称、描述、标签..."
+        placeholder="搜索网站名称、用途或分类"
         class="w-full border border-gray-200 rounded-lg px-4 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary"
       />
     </div>
 
-    <!-- Tag quick filter -->
-    <div id="tag-bar" class="flex flex-wrap gap-1.5 mb-6">
-      <button class="tag-btn text-xs px-2.5 py-1 rounded-full bg-primary text-white" data-tag="">全部</button>
-      {allTags.map(tag => (
-        <button class="tag-btn text-xs px-2.5 py-1 rounded-full bg-gray-100 text-gray-600 hover:bg-gray-200 transition-colors" data-tag={tag}>{tag}</button>
-      ))}
-    </div>
-
     <!-- Main: sidebar + grid -->
     <div class="flex gap-6">
-      <!-- Left sidebar: categories -->
+      <!-- Left sidebar (desktop) -->
       <aside class="hidden lg:block w-48 shrink-0">
         <nav class="sticky top-20 space-y-0.5">
-          <button class="cat-btn w-full text-left text-sm px-3 py-2 rounded-lg bg-primary text-white font-medium" data-cat="">全部分类</button>
+          <button class="cat-btn w-full text-left text-sm px-3 py-2 rounded-lg bg-primary text-white font-medium" data-cat="">
+            全部 <span class="float-right text-xs text-white/70">{total}</span>
+          </button>
           {navCategories.map(cat => (
             <button class="cat-btn w-full text-left text-sm px-3 py-2 rounded-lg text-gray-600 hover:bg-gray-100 transition-colors" data-cat={cat.name}>
               {cat.name}
-              <span class="float-right text-xs text-gray-400 cat-count" data-cat-count={cat.name}>
-                {navLinks.filter(l => l.category === cat.name).length}
-              </span>
+              <span class="float-right text-xs text-gray-400">{navLinks.filter(l => l.category === cat.name).length}</span>
             </button>
           ))}
         </nav>
       </aside>
 
       <!-- Mobile category bar -->
-      <div class="lg:hidden flex gap-2 overflow-x-auto pb-2 mb-2 -mx-4 px-4">
+      <div class="lg:hidden flex gap-2 overflow-x-auto pb-2 mb-2 -mx-4 px-4 w-full">
         <button class="mobile-cat-btn shrink-0 text-xs px-3 py-1.5 rounded-full bg-primary text-white" data-cat="">全部</button>
         {navCategories.map(cat => (
           <button class="mobile-cat-btn shrink-0 text-xs px-3 py-1.5 rounded-full bg-gray-100 text-gray-600" data-cat={cat.name}>{cat.name}</button>
         ))}
       </div>
 
-      <!-- Right: cards grid -->
+      <!-- Cards grid -->
       <div class="flex-1 min-w-0">
         <div id="nav-grid" class="grid sm:grid-cols-2 xl:grid-cols-3 gap-3">
           {sortedLinks.map(link => (
             <div
               class="nav-card"
-              data-id={link.id}
               data-cat={link.category}
-              data-tags={JSON.stringify(link.tags)}
               data-name={link.name}
               data-desc={link.description}
-              data-usecases={JSON.stringify(link.useCases || [])}
             >
-              <NavCard {...link} />
+              <NavCard
+                name={link.name}
+                url={link.url}
+                category={link.category}
+                description={link.description}
+                official={link.official}
+                pricing={link.pricing}
+                recommended={link.recommended}
+              />
             </div>
           ))}
         </div>
         <p id="no-results" class="hidden text-center text-secondary py-12 text-sm">未找到匹配结果</p>
       </div>
     </div>
-
-    <!-- Workflows Section -->
-    <section class="mt-16 border-t border-gray-100 pt-10">
-      <h2 class="text-xl font-bold text-primary mb-2">场景化工作流</h2>
-      <p class="text-secondary text-sm mb-6">面向律师实务场景的多步骤工具组合，帮助快速进入工作流。</p>
-      <div class="grid sm:grid-cols-2 gap-4">
-        {navWorkflows.map(wf => (
-          <div class="bg-white rounded-lg border border-gray-100 p-5">
-            <h3 class="font-semibold text-primary text-sm">{wf.title}</h3>
-            <p class="text-xs text-gray-600 mt-1 mb-3">{wf.description}</p>
-            <ol class="space-y-2">
-              {wf.steps.map((step, i) => (
-                <li class="flex gap-2 text-xs">
-                  <span class="shrink-0 w-5 h-5 rounded-full bg-cyan-50 text-cyan-700 flex items-center justify-center font-medium">{i + 1}</span>
-                  <div>
-                    <span class="font-medium text-gray-800">{step.name}</span>
-                    <span class="text-gray-500"> — {step.purpose}</span>
-                  </div>
-                </li>
-              ))}
-            </ol>
-            {wf.relatedProduct && (
-              <p class="text-[11px] text-cyan-700 mt-3">关联技能：{wf.relatedProduct}</p>
-            )}
-            <div class="flex flex-wrap gap-1 mt-2">
-              {wf.tags.map(tag => (
-                <span class="text-[10px] bg-gray-50 text-gray-500 px-1.5 py-0.5 rounded">{tag}</span>
-              ))}
-            </div>
-          </div>
-        ))}
-      </div>
-    </section>
 
     <!-- Disclaimer -->
     <section class="mt-10 border-t border-gray-100 pt-6">
@@ -136,39 +98,26 @@ const allTags = [...new Set(navLinks.flatMap(l => l.tags))].sort();
   const searchInput = document.getElementById('nav-search') as HTMLInputElement;
   const cards = document.querySelectorAll('.nav-card');
   const noResults = document.getElementById('no-results');
-
   let activeCat = '';
-  let activeTag = '';
 
   function filterCards() {
     const query = (searchInput?.value || '').toLowerCase();
     let visible = 0;
-
     cards.forEach(card => {
       const el = card as HTMLElement;
       const cat = el.dataset.cat || '';
-      const tags: string[] = JSON.parse(el.dataset.tags || '[]');
       const name = (el.dataset.name || '').toLowerCase();
       const desc = (el.dataset.desc || '').toLowerCase();
-      const useCases: string[] = JSON.parse(el.dataset.usecases || '[]');
-
       const matchCat = !activeCat || cat === activeCat;
-      const matchTag = !activeTag || tags.includes(activeTag);
-      const matchSearch = !query
-        || name.includes(query)
-        || desc.includes(query)
-        || tags.some(t => t.toLowerCase().includes(query))
-        || useCases.some(u => u.toLowerCase().includes(query));
-
-      const show = matchCat && matchTag && matchSearch;
+      const matchSearch = !query || name.includes(query) || desc.includes(query) || cat.toLowerCase().includes(query);
+      const show = matchCat && matchSearch;
       el.style.display = show ? '' : 'none';
       if (show) visible++;
     });
-
     noResults?.classList.toggle('hidden', visible > 0);
   }
 
-  // Category buttons (desktop sidebar)
+  // Desktop category buttons
   document.querySelectorAll('.cat-btn').forEach(btn => {
     btn.addEventListener('click', () => {
       activeCat = (btn as HTMLElement).dataset.cat || '';
@@ -177,7 +126,6 @@ const allTags = [...new Set(navLinks.flatMap(l => l.tags))].sort();
           ? 'cat-btn w-full text-left text-sm px-3 py-2 rounded-lg bg-primary text-white font-medium'
           : 'cat-btn w-full text-left text-sm px-3 py-2 rounded-lg text-gray-600 hover:bg-gray-100 transition-colors';
       });
-      // Sync mobile buttons
       document.querySelectorAll('.mobile-cat-btn').forEach(b => {
         (b as HTMLElement).className = (b as HTMLElement).dataset.cat === activeCat
           ? 'mobile-cat-btn shrink-0 text-xs px-3 py-1.5 rounded-full bg-primary text-white'
@@ -187,7 +135,7 @@ const allTags = [...new Set(navLinks.flatMap(l => l.tags))].sort();
     });
   });
 
-  // Category buttons (mobile)
+  // Mobile category buttons
   document.querySelectorAll('.mobile-cat-btn').forEach(btn => {
     btn.addEventListener('click', () => {
       activeCat = (btn as HTMLElement).dataset.cat || '';
@@ -196,7 +144,6 @@ const allTags = [...new Set(navLinks.flatMap(l => l.tags))].sort();
           ? 'mobile-cat-btn shrink-0 text-xs px-3 py-1.5 rounded-full bg-primary text-white'
           : 'mobile-cat-btn shrink-0 text-xs px-3 py-1.5 rounded-full bg-gray-100 text-gray-600';
       });
-      // Sync desktop buttons
       document.querySelectorAll('.cat-btn').forEach(b => {
         (b as HTMLElement).className = (b as HTMLElement).dataset.cat === activeCat
           ? 'cat-btn w-full text-left text-sm px-3 py-2 rounded-lg bg-primary text-white font-medium'
@@ -206,20 +153,5 @@ const allTags = [...new Set(navLinks.flatMap(l => l.tags))].sort();
     });
   });
 
-  // Tag buttons
-  document.querySelectorAll('.tag-btn').forEach(btn => {
-    btn.addEventListener('click', () => {
-      activeTag = (btn as HTMLElement).dataset.tag || '';
-      document.querySelectorAll('.tag-btn').forEach(b => {
-        (b as HTMLElement).className = b === btn
-          ? 'tag-btn text-xs px-2.5 py-1 rounded-full bg-primary text-white'
-          : 'tag-btn text-xs px-2.5 py-1 rounded-full bg-gray-100 text-gray-600 hover:bg-gray-200 transition-colors';
-      });
-      filterCards();
-    });
-  });
-
-  // Search
   searchInput?.addEventListener('input', filterCards);
 </script>
-
