@@ -9,7 +9,7 @@ interface Props {
   recommended: boolean;
 }
 
-const { name, url, category, description, official, pricing, recommended } = Astro.props;
+const { name, url, category, description, official, pricing } = Astro.props;
 
 const pricingLabel: Record<string, { text: string; cls: string }> = {
   free: { text: '免费', cls: 'bg-green-50 text-green-700' },
@@ -20,26 +20,24 @@ const pricingLabel: Record<string, { text: string; cls: string }> = {
 const p = pricingLabel[pricing] || pricingLabel.unknown;
 ---
 
-<div class:list={[
-  'bg-white rounded-lg border p-4 hover:shadow-md transition-shadow',
-  recommended ? 'border-cyan-200' : 'border-gray-100'
-]}>
+<div class="bg-white rounded-lg border border-gray-100 p-4 hover:shadow-md transition-shadow">
+  <!-- Row 1: Title + Button -->
   <div class="flex items-start justify-between gap-3">
-    <div class="flex-1 min-w-0">
-      <div class="flex items-center gap-1.5 mb-1">
-        <h3 class="font-semibold text-primary text-sm truncate">{name}</h3>
-        {recommended && <span class="shrink-0 text-[10px] bg-cyan-50 text-cyan-700 px-1.5 py-0.5 rounded font-medium">推荐</span>}
-        {official && <span class="shrink-0 text-[10px] bg-blue-50 text-blue-700 px-1.5 py-0.5 rounded">官方</span>}
-        {p.text && <span class:list={['shrink-0 text-[10px] px-1.5 py-0.5 rounded', p.cls]}>{p.text}</span>}
-      </div>
-      <p class="text-xs text-gray-600 line-clamp-2 leading-relaxed">{description}</p>
-      <span class="text-[11px] text-gray-400 mt-1.5 inline-block">{category}</span>
-    </div>
+    <h3 class="font-bold text-primary text-sm leading-snug line-clamp-2 flex-1 min-w-0">{name}</h3>
     <a
       href={url}
       target="_blank"
       rel="noopener noreferrer"
-      class="shrink-0 text-xs bg-primary text-white px-3 py-1.5 rounded hover:bg-primary-light transition-colors mt-0.5"
+      class="shrink-0 text-xs bg-primary text-white px-3 py-1.5 rounded hover:bg-primary-light transition-colors"
     >访问</a>
   </div>
+  <!-- Row 2: Badges -->
+  <div class="flex items-center gap-1.5 mt-1.5">
+    {official && <span class="text-[10px] bg-blue-50 text-blue-700 px-1.5 py-0.5 rounded">官方</span>}
+    {p.text && <span class:list={['text-[10px] px-1.5 py-0.5 rounded', p.cls]}>{p.text}</span>}
+  </div>
+  <!-- Row 3: Description -->
+  <p class="text-xs text-gray-600 line-clamp-2 leading-relaxed mt-1.5">{description}</p>
+  <!-- Row 4: Category -->
+  <p class="text-[11px] text-gray-400 mt-2">{category}</p>
 </div>
