@@ -5,10 +5,12 @@ interface NewsItem {
   id: string;
   title: string;
   summary: string;
+  lawyerComment: string;
   source: string;
   date: string;
   category: string;
-  level: string;
+  tags: string[];
+  importance: string;
   url: string;
 }
 
@@ -18,7 +20,7 @@ const news: NewsItem[] = newsData;
 const dates = [...new Set(news.map(n => n.date))].sort((a, b) => b.localeCompare(a));
 const latestDate = dates[0];
 const highlights = news
-  .filter(n => n.date === latestDate && n.level === '重点')
+  .filter(n => n.date === latestDate && n.importance === 'high')
   .slice(0, 3);
 ---
 

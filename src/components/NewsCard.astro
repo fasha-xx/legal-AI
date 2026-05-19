@@ -2,48 +2,78 @@
 interface Props {
   title: string;
   summary: string;
+  lawyerComment: string;
   source: string;
   date: string;
   category: string;
-  level: string;
+  tags: string[];
+  importance: 'high' | 'medium' | 'low';
   url: string;
 }
 
-const { title, summary, source, date, category, level, url } = Astro.props;
+const { title, summary, lawyerComment, source, date, category, tags, importance, url } = Astro.props;
 
 const categoryColors: Record<string, string> = {
-  '法律法规': 'bg-blue-100 text-blue-700',
-  '司法案例': 'bg-purple-100 text-purple-700',
+  '政策法规': 'bg-blue-100 text-blue-700',
+  '司法动态': 'bg-purple-100 text-purple-700',
   '知识产权': 'bg-green-100 text-green-700',
-  'AI 合规': 'bg-orange-100 text-orange-700',
-  '数据合规': 'bg-cyan-100 text-cyan-700',
-  '企业合规': 'bg-indigo-100 text-indigo-700',
-  '监管政策': 'bg-red-100 text-red-700',
+  'AI 与数据合规': 'bg-orange-100 text-orange-700',
+  '数据合规': 'bg-orange-100 text-orange-700',
   '法律科技': 'bg-teal-100 text-teal-700',
+  '企业合规': 'bg-indigo-100 text-indigo-700',
+  '资本市场': 'bg-rose-100 text-rose-700',
   '律师行业': 'bg-gray-100 text-gray-700',
+  '知识产权': 'bg-green-100 text-green-700',
 };
 
 const catClass = categoryColors[category] || 'bg-gray-100 text-gray-700';
+
+const importanceStyles: Record<string, string> = {
+  high: 'bg-red-100 text-red-700',
+  medium: 'bg-amber-100 text-amber-700',
+  low: 'bg-gray-100 text-gray-500',
+};
+
+const importanceLabels: Record<string, string> = {
+  high: '重要',
+  medium: '一般',
+  low: '参考',
+};
+
+const impClass = importanceStyles[importance] || importanceStyles.medium;
+const impLabel = importanceLabels[importance] || '一般';
 ---
 
 <article class="bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md transition-shadow">
   <div class="flex items-center gap-2 mb-3">
     <span class={`text-xs px-2 py-0.5 rounded-full ${catClass}`}>{category}</span>
-    {level === '重点' && (
-      <span class="text-xs px-2 py-0.5 rounded-full bg-amber-100 text-amber-700 font-medium">重点</span>
-    )}
+    <span class={`text-xs px-2 py-0.5 rounded-full ${impClass}`}>{impLabel}</span>
   </div>
-  <h3 class="text-base font-semibold text-gray-900 mb-2 leading-snug">{title}</h3>
-  <p class="text-sm text-secondary mb-3 line-clamp-3">{summary}</p>
-  <div class="flex items-center justify-between">
+  <h3 class="text-base font-semibold text-gray-900 mb-2 leading-snug line-clamp-2">{title}</h3>
+  <p class="text-sm text-gray-600 mb-3 leading-relaxed">{summary}</p>
+  {lawyerComment && (
+    <div class="bg-blue-50 border-l-3 border-blue-400 pl-3 py-2 mb-3 rounded-r">
+      <p class="text-xs text-blue-800 leading-relaxed">
+        <span class="font-medium">律师视角：</span>{lawyerComment}
+      </p>
+    </div>
+  )}
+  {tags && tags.length > 0 && (
+    <div class="flex flex-wrap gap-1.5 mb-3">
+      {tags.map(tag => (
+        <span class="text-xs px-2 py-0.5 bg-gray-100 text-gray-500 rounded-full">{tag}</span>
+      ))}
+    </div>
+  )}
+  <div class="flex items-center justify-between pt-2 border-t border-gray-100">
     <span class="text-xs text-gray-400">{source} · {date}</span>
     <a
       href={url}
       target="_blank"
       rel="noopener noreferrer"
-      class="text-xs text-primary hover:text-primary-light transition-colors"
+      class="text-xs text-primary hover:text-primary-light transition-colors font-medium"
     >
-      阅读原文 &rarr;
+      查看原文 &rarr;
     </a>
   </div>
 </article>

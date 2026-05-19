@@ -1,0 +1,66 @@
+[
+  {
+    "name": "最高人民法院",
+    "url": "https://www.court.gov.cn/",
+    "rss": "https://www.court.gov.cn/rss.xml",
+    "category": "司法动态",
+    "type": "official",
+    "enabled": true
+  },
+  {
+    "name": "国家知识产权局",
+    "url": "https://www.cnipa.gov.cn/",
+    "rss": "https://www.cnipa.gov.cn/rss/",
+    "category": "知识产权",
+    "type": "official",
+    "enabled": true
+  },
+  {
+    "name": "中国政府网",
+    "url": "https://www.gov.cn/",
+    "rss": "https://www.gov.cn/rss/new.xml",
+    "category": "政策法规",
+    "type": "official",
+    "enabled": true
+  },
+  {
+    "name": "网信中国",
+    "url": "https://www.cac.gov.cn/",
+    "rss": "https://www.cac.gov.cn/rss/",
+    "category": "AI 与数据合规",
+    "type": "official",
+    "enabled": true
+  },
+  {
+    "name": "工信部",
+    "url": "https://www.miit.gov.cn/",
+    "rss": "https://www.miit.gov.cn/rss/",
+    "category": "政策法规",
+    "type": "official",
+    "enabled": true
+  },
+  {
+    "name": "市场监管总局",
+    "url": "https://www.samr.gov.cn/",
+    "rss": "https://www.samr.gov.cn/rss/",
+    "category": "企业合规",
+    "type": "official",
+    "enabled": true
+  },
+  {
+    "name": "司法部",
+    "url": "https://www.moj.gov.cn/",
+    "rss": "https://www.moj.gov.cn/rss/",
+    "category": "政策法规",
+    "type": "official",
+    "enabled": true
+  },
+  {
+    "name": "全国人大网",
+    "url": "https://www.npc.gov.cn/",
+    "rss": "https://www.npc.gov.cn/rss/",
+    "category": "政策法规",
+    "type": "official",
+    "enabled": true
+  }
+]

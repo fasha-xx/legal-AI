@@ -1,12 +1,29 @@
-1|---
+---
 import Layout from '../layouts/Layout.astro';
 import ArticleCard from '../components/ArticleCard.astro';
 import SkillCard from '../components/SkillCard.astro';
 import { getCollection } from 'astro:content';
+import newsData from '../data/daily-news.json';
 
 const base = (import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL.slice(0, -1) : import.meta.env.BASE_URL);
 const skills = (await getCollection('skills')).slice(0, 3);
 const articles = (await getCollection('articles')).slice(0, 3);
+
+// 最新 5 条资讯
+const latestNews = newsData
+  .sort((a, b) => b.date.localeCompare(a.date))
+  .slice(0, 5);
+
+const categoryColors: Record<string, string> = {
+  '政策法规': 'bg-blue-100 text-blue-700',
+  '司法动态': 'bg-purple-100 text-purple-700',
+  '知识产权': 'bg-green-100 text-green-700',
+  'AI 与数据合规': 'bg-orange-100 text-orange-700',
+  '法律科技': 'bg-teal-100 text-teal-700',
+  '企业合规': 'bg-indigo-100 text-indigo-700',
+  '资本市场': 'bg-rose-100 text-rose-700',
+  '律师行业': 'bg-gray-100 text-gray-700',
+};
 ---
 
 <Layout>
@@ -64,8 +81,35 @@ const articles = (await getCollection('articles')).slice(0, 3);
     </div>
   </section>
 
+  {latestNews.length > 0 && (
+    <section class="max-w-6xl mx-auto px-4 sm:px-6 py-8">
+      <h2 class="text-xl font-semibold text-primary mb-6">每日资讯</h2>
+      <div class="space-y-3">
+        {latestNews.map(item => (
+          <a
+            href={item.url}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="flex items-start gap-3 p-4 bg-white border border-gray-200 rounded-lg hover:shadow-md transition-shadow group"
+          >
+            <span class={`text-xs px-2 py-0.5 rounded-full whitespace-nowrap mt-0.5 ${categoryColors[item.category] || 'bg-gray-100 text-gray-700'}`}>
+              {item.category}
+            </span>
+            <div class="flex-1 min-w-0">
+              <h3 class="text-sm font-medium text-gray-900 group-hover:text-primary transition-colors line-clamp-1">{item.title}</h3>
+              <p class="text-xs text-gray-500 mt-1 line-clamp-1">{item.summary}</p>
+            </div>
+            <span class="text-xs text-gray-400 whitespace-nowrap">{item.date}</span>
+          </a>
+        ))}
+      </div>
+      <div class="mt-4 text-center">
+        <a href={`${base}/news`} class="text-sm text-primary hover:underline">查看更多资讯 &rarr;</a>
+      </div>
+    </section>
+  )}
+
   <section class="max-w-6xl mx-auto px-4 sm:px-6 py-12 text-center">
     <a href={`${base}/nav`} class="text-primary hover:underline">查看全部法律导航 &rarr;</a>
   </section>
 </Layout>
-
