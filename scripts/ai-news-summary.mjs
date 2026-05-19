@@ -90,9 +90,16 @@ export async function enrichNewsWithAI(item) {
     const data = await response.json();
     const text = data.choices?.[0]?.message?.content || '';
 
-    // 尝试解析 JSON（可能被 markdown 代码块包裹）
-    const jsonStr = text.replace(/^```json?\s*/i, '').replace(/\s*```$/i, '').trim();
-    const parsed = JSON.parse(jsonStr);
+    // 尝试解析 JSON（可能被 markdown 代码块或 think 标签包裹）
+    let jsonStr = text;
+    // 移除 <think>...</think> 标签
+    jsonStr = jsonStr.replace(/<think>[\s\S]*?<\/think>/gi, '');
+    // 移除 markdown 代码块
+    jsonStr = jsonStr.replace(/^```json?\s*/i, '').replace(/\s*```$/i, '');
+    // 提取第一个 JSON 对象
+    const jsonMatch = jsonStr.match(/\{[\s\S]*\}/);
+    if (!jsonMatch) throw new Error('未找到 JSON 对象');
+    const parsed = JSON.parse(jsonMatch[0]);
 
     return {
       summary: typeof parsed.summary === 'string' ? parsed.summary.slice(0, 200) : fallback(item).summary,
