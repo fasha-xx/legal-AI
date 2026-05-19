@@ -4,170 +4,129 @@
     "title": "最高人民法院发布2025年度知识产权司法保护典型案例",
     "url": "https://www.court.gov.cn",
     "source": "最高人民法院",
-    "sourceType": "official",
+    "sourceType": "manual",
     "category": "知识产权",
     "date": "2026-05-19",
+    "fetchedAt": "2026-05-19T00:00:00.000Z",
     "summary": "本次案例涵盖专利侵权、商标权属、著作权纠纷等多个领域，明确了部分新型侵权行为的裁判标准。",
-    "tags": [
-      "知识产权",
-      "典型案例",
-      "专利",
-      "商标"
-    ],
-    "importance": "high",
-    "createdAt": "2026-05-19T00:00:00.000Z"
+    "legalPoint": "关注案例裁判规则及其对同类案件的参考价值。",
+    "tags": ["知识产权", "典型案例", "专利"]
   },
   {
     "id": "news_20260519_002",
     "title": "国家数据局发布《数据产权登记管理办法（征求意见稿）》",
     "url": "https://www.cac.gov.cn",
     "source": "国家数据局",
-    "sourceType": "official",
+    "sourceType": "manual",
     "category": "AI 与数据合规",
     "date": "2026-05-19",
+    "fetchedAt": "2026-05-19T00:00:00.000Z",
     "summary": "征求意见稿提出建立数据产权登记制度，明确数据持有权、使用权和经营权的登记规则。",
-    "tags": [
-      "数据产权",
-      "数据合规",
-      "征求意见稿"
-    ],
-    "importance": "high",
-    "createdAt": "2026-05-19T00:00:00.000Z"
+    "legalPoint": "数据三权分置对企业数据合规架构的影响。",
+    "tags": ["数据产权", "数据合规", "征求意见"]
   },
   {
     "id": "news_20260519_003",
     "title": "工信部就人工智能生成内容标识管理规定征求意见",
     "url": "https://www.miit.gov.cn",
     "source": "工信部",
-    "sourceType": "official",
+    "sourceType": "manual",
     "category": "AI 与数据合规",
     "date": "2026-05-19",
+    "fetchedAt": "2026-05-19T00:00:00.000Z",
     "summary": "规定要求AI生成的文本、图片、音频、视频均应添加标识，平台需建立标识管理机制。",
-    "tags": [
-      "AI合规",
-      "内容标识",
-      "平台责任"
-    ],
-    "importance": "high",
-    "createdAt": "2026-05-19T00:00:00.000Z"
+    "legalPoint": "平台AI标识义务扩展及合规审查要点。",
+    "tags": ["AI合规", "内容标识", "平台责任"]
   },
   {
     "id": "news_20260519_004",
     "title": "市场监管总局公布经营者集中审查新规",
     "url": "https://www.samr.gov.cn",
     "source": "市场监管总局",
-    "sourceType": "official",
+    "sourceType": "manual",
     "category": "企业合规",
     "date": "2026-05-19",
+    "fetchedAt": "2026-05-19T00:00:00.000Z",
     "summary": "新规进一步明确了营业额计算标准和简易案件适用范围，提高审查效率。",
-    "tags": [
-      "反垄断",
-      "经营者集中",
-      "并购合规"
-    ],
-    "importance": "medium",
-    "createdAt": "2026-05-19T00:00:00.000Z"
+    "legalPoint": "并购交易结构设计中的反垄断合规要点。",
+    "tags": ["反垄断", "经营者集中", "并购"]
   },
   {
     "id": "news_20260519_005",
     "title": "北京互联网法院审理首例AI换脸侵权案",
     "url": "https://www.bjinternetcourt.gov.cn",
     "source": "北京互联网法院",
-    "sourceType": "official",
+    "sourceType": "manual",
     "category": "司法动态",
     "date": "2026-05-19",
+    "fetchedAt": "2026-05-19T00:00:00.000Z",
     "summary": "原告主张被告利用AI技术将其面部特征用于商业推广，法院认定构成肖像权侵权。",
-    "tags": [
-      "AI换脸",
-      "肖像权",
-      "互联网法院"
-    ],
-    "importance": "medium",
-    "createdAt": "2026-05-19T00:00:00.000Z"
+    "legalPoint": "AI换脸侵权的举证规则和赔偿标准参考。",
+    "tags": ["AI换脸", "肖像权", "互联网法院"]
   },
   {
     "id": "news_20260518_001",
     "title": "全国人大常委会审议通过《反不正当竞争法》修订草案",
     "url": "https://www.npc.gov.cn",
     "source": "全国人大网",
-    "sourceType": "official",
+    "sourceType": "manual",
     "category": "政策法规",
     "date": "2026-05-18",
+    "fetchedAt": "2026-05-18T00:00:00.000Z",
     "summary": "修订草案新增数据不正当竞争、算法歧视等条款，强化平台经济领域竞争规制。",
-    "tags": [
-      "反不正当竞争",
-      "数据竞争",
-      "算法歧视"
-    ],
-    "importance": "high",
-    "createdAt": "2026-05-18T00:00:00.000Z"
+    "legalPoint": "数据竞争和算法合规对企业客户的适用场景。",
+    "tags": ["反不正当竞争", "数据竞争", "算法"]
   },
   {
     "id": "news_20260518_002",
     "title": "上海发布法律科技应用三年行动方案",
     "url": "https://www.justice.gov.cn",
     "source": "上海市司法局",
-    "sourceType": "official",
+    "sourceType": "manual",
     "category": "法律科技",
     "date": "2026-05-18",
+    "fetchedAt": "2026-05-18T00:00:00.000Z",
     "summary": "方案提出到2028年基本建成法律科技应用生态，涵盖智能合同审查、AI辅助裁判等场景。",
-    "tags": [
-      "法律科技",
-      "智能合同",
-      "数字化转型"
-    ],
-    "importance": "medium",
-    "createdAt": "2026-05-18T00:00:00.000Z"
+    "legalPoint": "律所数字化转型趋势及工具应用前景。",
+    "tags": ["法律科技", "智能合同", "数字化"]
   },
   {
     "id": "news_20260518_003",
     "title": "中华全国律师协会发布律师业务推广规范指引",
     "url": "https://www.acla.org.cn",
     "source": "中华全国律师协会",
-    "sourceType": "official",
-    "category": "律师行业",
+    "sourceType": "manual",
+    "category": "其他",
     "date": "2026-05-18",
+    "fetchedAt": "2026-05-18T00:00:00.000Z",
     "summary": "指引明确律师在网络平台推广业务的合规边界，规范短视频、直播等新兴推广方式。",
-    "tags": [
-      "律师推广",
-      "执业规范",
-      "短视频"
-    ],
-    "importance": "medium",
-    "createdAt": "2026-05-18T00:00:00.000Z"
+    "legalPoint": "律师网络推广方式的合规审查要点。",
+    "tags": ["律师推广", "执业规范", "合规"]
   },
   {
     "id": "news_20260517_001",
     "title": "国务院办公厅印发《关于加强涉外法治建设的意见》",
     "url": "https://www.gov.cn",
     "source": "中国政府网",
-    "sourceType": "official",
+    "sourceType": "manual",
     "category": "政策法规",
     "date": "2026-05-17",
+    "fetchedAt": "2026-05-17T00:00:00.000Z",
     "summary": "意见提出加快涉外法律服务体系建设，培养涉外法治人才，提升国际法律话语权。",
-    "tags": [
-      "涉外法治",
-      "政策法规",
-      "律师行业"
-    ],
-    "importance": "medium",
-    "createdAt": "2026-05-17T00:00:00.000Z"
+    "legalPoint": "涉外业务方向和人才培养的政策红利。",
+    "tags": ["涉外法治", "政策法规", "律师"]
   },
   {
     "id": "news_20260517_002",
     "title": "国家知识产权局通报专利代理行业专项整治结果",
     "url": "https://www.cnipa.gov.cn",
     "source": "国家知识产权局",
-    "sourceType": "official",
+    "sourceType": "manual",
     "category": "知识产权",
     "date": "2026-05-17",
+    "fetchedAt": "2026-05-17T00:00:00.000Z",
     "summary": "本次整治查处违规代理机构32家，吊销执业许可证5家，进一步规范行业秩序。",
-    "tags": [
-      "专利代理",
-      "行业监管",
-      "知识产权"
-    ],
-    "importance": "medium",
-    "createdAt": "2026-05-17T00:00:00.000Z"
+    "legalPoint": "专利代理合规审查及客户资质提示。",
+    "tags": ["专利代理", "行业监管", "知识产权"]
   }
 ]

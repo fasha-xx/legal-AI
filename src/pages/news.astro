@@ -5,24 +5,9 @@ import NewsCategoryFilter from '../components/NewsCategoryFilter.astro';
 import NewsCard from '../components/NewsCard.astro';
 import newsData from '../data/daily-news.json';
 
-interface NewsItem {
-  id: string;
-  title: string;
-  summary: string;
-  source: string;
-  sourceType: string;
-  category: string;
-  date: string;
-  tags: string[];
-  importance: 'high' | 'medium' | 'low';
-  url: string;
-  createdAt: string;
-}
+const news: any[] = newsData;
 
-const news: NewsItem[] = newsData;
-
-// 按日期倒序分组
-const dateGroups = news.reduce<Record<string, NewsItem[]>>((acc, item) => {
+const dateGroups = news.reduce<Record<string, any[]>>((acc, item) => {
   if (!acc[item.date]) acc[item.date] = [];
   acc[item.date].push(item);
   return acc;
@@ -33,7 +18,7 @@ const sortedDates = Object.keys(dateGroups).sort((a, b) => b.localeCompare(a));
 
 <Layout
   title="每日资讯｜法律实务与 AI 技能库"
-  description="聚合每日值得关注的法律法规、司法案例、知识产权、AI 合规、数据合规、企业合规与法律科技动态。"
+  description="聚合每日值得关注的法律法规、司法案例、知识产权、AI 合规与法律科技动态。"
 >
   <section class="max-w-6xl mx-auto px-4 sm:px-6 py-10">
     <div class="mb-8">
@@ -44,7 +29,6 @@ const sortedDates = Object.keys(dateGroups).sort((a, b) => b.localeCompare(a));
     </div>
 
     <TodayHighlights />
-
     <NewsCategoryFilter />
 
     <div id="news-list">
@@ -53,15 +37,15 @@ const sortedDates = Object.keys(dateGroups).sort((a, b) => b.localeCompare(a));
           <h2 class="text-sm font-medium text-gray-400 mb-3 border-b border-gray-100 pb-2">{date}</h2>
           <div class="grid sm:grid-cols-2 gap-4">
             {dateGroups[date].map(item => (
-              <div class="news-item" data-category={item.category} data-title={item.title} data-summary={item.summary} data-tags={(item.tags || []).join(',')}>
+              <div class="news-item" data-category={item.category} data-title={item.title} data-summary={item.summary || ''} data-tags={(item.tags || []).join(',')}>
                 <NewsCard
                   title={item.title}
-                  summary={item.summary}
+                  summary={item.summary || ''}
+                  legalPoint={item.legalPoint || ''}
                   source={item.source}
                   date={item.date}
                   category={item.category}
                   tags={item.tags || []}
-                  importance={item.importance || 'medium'}
                   url={item.url}
                 />
               </div>
@@ -73,7 +57,7 @@ const sortedDates = Object.keys(dateGroups).sort((a, b) => b.localeCompare(a));
 
     <div class="mt-12 pt-6 border-t border-gray-100">
       <p class="text-xs text-gray-400">
-        免责声明：本页资讯由自动化工具根据公开来源整理，并可能使用 AI 生成摘要和律师视角提示。相关内容仅供学习、研究和信息检索参考，不构成法律意见，也不代表本站对原文内容真实性、完整性或时效性的承诺。正式使用前，请以原文及官方发布内容为准。
+        本站每日资讯仅对公开信息进行标题索引和简要摘要整理，原文版权归原发布机构所有。本站内容仅供学习、研究和实务参考，不构成法律意见。如需了解完整内容，请访问原文链接。
       </p>
     </div>
   </section>
@@ -91,40 +75,33 @@ const sortedDates = Object.keys(dateGroups).sort((a, b) => b.localeCompare(a));
 
     function applyFilters() {
       const q = searchQuery.toLowerCase();
-
       items.forEach(item => {
         const catMatch = activeCategory === '全部' || item.dataset.category === activeCategory;
         const searchMatch = !q ||
           (item.dataset.title || '').toLowerCase().includes(q) ||
           (item.dataset.summary || '').toLowerCase().includes(q) ||
           (item.dataset.tags || '').toLowerCase().includes(q);
-
         item.style.display = catMatch && searchMatch ? '' : 'none';
       });
-
       groups.forEach(group => {
-        const visibleItems = group.querySelectorAll('.news-item:not([style*="display: none"])');
-        group.style.display = visibleItems.length > 0 ? '' : 'none';
+        const visible = group.querySelectorAll('.news-item:not([style*="display: none"])');
+        group.style.display = visible.length > 0 ? '' : 'none';
       });
     }
 
-    // 分类筛选
     buttons.forEach(btn => {
       btn.addEventListener('click', () => {
         activeCategory = btn.dataset.category || '全部';
-
         buttons.forEach(b => {
           b.classList.remove('bg-primary', 'text-white', 'border-primary');
           b.classList.add('bg-white', 'text-secondary', 'border-gray-200');
         });
         btn.classList.remove('bg-white', 'text-secondary', 'border-gray-200');
         btn.classList.add('bg-primary', 'text-white', 'border-primary');
-
         applyFilters();
       });
     });
 
-    // 搜索
     searchInput?.addEventListener('input', () => {
       searchQuery = searchInput.value.trim();
       applyFilters();

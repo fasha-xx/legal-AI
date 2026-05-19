@@ -5,17 +5,14 @@ const categories = [
   '司法动态',
   '知识产权',
   'AI 与数据合规',
-  '法律科技',
   '企业合规',
-  '资本市场',
-  '律师行业',
+  '法律科技',
+  '监管动态',
+  '其他',
 ];
-
-const base = (import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL.slice(0, -1) : import.meta.env.BASE_URL);
 ---
 
 <div class="mb-6 space-y-4">
-  <!-- 搜索框 -->
   <div class="relative">
     <input
       type="text"
@@ -28,7 +25,6 @@ const base = (import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL.
     </svg>
   </div>
 
-  <!-- 分类筛选 -->
   <div class="overflow-x-auto">
     <div class="flex gap-2 min-w-max pb-2">
       {categories.map((cat, i) => (

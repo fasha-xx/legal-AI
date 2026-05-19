@@ -1,66 +1,112 @@
 [
   {
+    "id": "court-news",
     "name": "最高人民法院",
-    "url": "https://www.court.gov.cn/",
-    "rss": "https://www.court.gov.cn/rss.xml",
     "category": "司法动态",
-    "type": "official",
-    "enabled": true
+    "type": "html-list",
+    "url": "https://www.court.gov.cn/",
+    "enabled": true,
+    "limit": 5,
+    "urlPattern": "/zixun/xiangqing/",
+    "excludeKeywords": ["首页", "更多", "返回", "上一页", "下一页", "English", "登录", "注册"]
   },
   {
+    "id": "cnipa-news",
     "name": "国家知识产权局",
-    "url": "https://www.cnipa.gov.cn/",
-    "rss": "https://www.cnipa.gov.cn/rss/",
     "category": "知识产权",
-    "type": "official",
-    "enabled": true
+    "type": "html-list",
+    "url": "https://www.cnipa.gov.cn/",
+    "enabled": true,
+    "limit": 5,
+    "urlPattern": "cnipa.gov.cn",
+    "excludeKeywords": ["首页", "更多", "返回", "English", "登录"]
   },
   {
+    "id": "gov-policy",
     "name": "中国政府网",
+    "category": "政策法规",
+    "type": "html-list",
     "url": "https://www.gov.cn/",
-    "rss": "https://www.gov.cn/rss/new.xml",
-    "category": "政策法规",
-    "type": "official",
-    "enabled": true
+    "enabled": true,
+    "limit": 5,
+    "urlPattern": "gov.cn",
+    "excludeKeywords": ["首页", "更多", "返回", "English", "登录"]
   },
   {
+    "id": "cac-news",
     "name": "网信中国",
-    "url": "https://www.cac.gov.cn/",
-    "rss": "https://www.cac.gov.cn/rss/",
     "category": "AI 与数据合规",
-    "type": "official",
-    "enabled": true
+    "type": "html-list",
+    "url": "https://www.cac.gov.cn/",
+    "enabled": true,
+    "limit": 5,
+    "urlPattern": "cac.gov.cn",
+    "excludeKeywords": ["首页", "更多", "返回", "English"]
   },
   {
+    "id": "miit-news",
     "name": "工信部",
+    "category": "政策法规",
+    "type": "html-list",
     "url": "https://www.miit.gov.cn/",
-    "rss": "https://www.miit.gov.cn/rss/",
-    "category": "政策法规",
-    "type": "official",
-    "enabled": true
+    "enabled": true,
+    "limit": 5,
+    "urlPattern": "miit.gov.cn",
+    "excludeKeywords": ["首页", "更多", "返回", "English"]
   },
   {
+    "id": "samr-news",
     "name": "市场监管总局",
-    "url": "https://www.samr.gov.cn/",
-    "rss": "https://www.samr.gov.cn/rss/",
     "category": "企业合规",
-    "type": "official",
-    "enabled": true
+    "type": "html-list",
+    "url": "https://www.samr.gov.cn/",
+    "enabled": true,
+    "limit": 5,
+    "urlPattern": "samr.gov.cn",
+    "excludeKeywords": ["首页", "更多", "返回", "English"]
   },
   {
+    "id": "moj-news",
     "name": "司法部",
-    "url": "https://www.moj.gov.cn/",
-    "rss": "https://www.moj.gov.cn/rss/",
     "category": "政策法规",
-    "type": "official",
-    "enabled": true
+    "type": "html-list",
+    "url": "https://www.moj.gov.cn/",
+    "enabled": true,
+    "limit": 5,
+    "urlPattern": "moj.gov.cn",
+    "excludeKeywords": ["首页", "更多", "返回", "English"]
   },
   {
+    "id": "npc-news",
     "name": "全国人大网",
-    "url": "https://www.npc.gov.cn/",
-    "rss": "https://www.npc.gov.cn/rss/",
     "category": "政策法规",
-    "type": "official",
-    "enabled": true
+    "type": "html-list",
+    "url": "https://www.npc.gov.cn/",
+    "enabled": true,
+    "limit": 5,
+    "urlPattern": "npc.gov.cn",
+    "excludeKeywords": ["首页", "更多", "返回", "English"]
+  },
+  {
+    "id": "chinacourt-news",
+    "name": "中国法院网",
+    "category": "司法动态",
+    "type": "html-list",
+    "url": "https://www.chinacourt.org/",
+    "enabled": true,
+    "limit": 5,
+    "urlPattern": "chinacourt.org",
+    "excludeKeywords": ["首页", "更多", "返回", "English"]
+  },
+  {
+    "id": "legaldaily-news",
+    "name": "法治网",
+    "category": "政策法规",
+    "type": "html-list",
+    "url": "https://www.legaldaily.com.cn/",
+    "enabled": true,
+    "limit": 5,
+    "urlPattern": "legaldaily.com.cn",
+    "excludeKeywords": ["首页", "更多", "返回", "English"]
   }
 ]
