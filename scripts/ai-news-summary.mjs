@@ -9,8 +9,7 @@ const SYSTEM_PROMPT = `你是一名面向中国法律实务场景的法律资讯
 1. 不得编造原文没有的信息；
 2. 如果信息不足，应使用保守表述；
 3. 摘要应简明，不超过 80 字；
-4. 律师视角点评不超过 120 字；
-5. 分类只能从指定分类中选择；
+4. 分类只能从指定分类中选择；
 6. 标签控制在 2—5 个；
 7. 输出必须是合法 JSON；
 8. 不要输出 Markdown；
@@ -43,7 +42,6 @@ ${CATEGORIES.map(c => `- ${c}`).join('\n')}
 请输出 JSON，格式如下：
 {
   "summary": "不超过80字的摘要",
-  "lawyerComment": "不超过120字的律师视角点评",
   "category": "从可选分类中选择一个",
   "tags": ["标签1", "标签2"],
   "importance": "high 或 medium 或 low"
@@ -103,7 +101,6 @@ export async function enrichNewsWithAI(item) {
 
     return {
       summary: typeof parsed.summary === 'string' ? parsed.summary.slice(0, 200) : fallback(item).summary,
-      lawyerComment: typeof parsed.lawyerComment === 'string' ? parsed.lawyerComment.slice(0, 300) : fallback(item).lawyerComment,
       category: CATEGORIES.includes(parsed.category) ? parsed.category : item.category || '政策法规',
       tags: Array.isArray(parsed.tags) ? parsed.tags.filter(t => typeof t === 'string').slice(0, 5) : [],
       importance: ['high', 'medium', 'low'].includes(parsed.importance) ? parsed.importance : 'medium',
@@ -120,7 +117,6 @@ export async function enrichNewsWithAI(item) {
 function fallback(item) {
   return {
     summary: item.rawDescription || `${item.source}发布相关资讯，建议点击原文查看具体内容。`,
-    lawyerComment: '该资讯可作为法律实务信息来源，建议结合原文内容进行人工判断。',
     category: item.category || '政策法规',
     tags: [item.source].filter(Boolean),
     importance: 'medium',

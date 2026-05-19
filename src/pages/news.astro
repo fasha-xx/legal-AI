@@ -9,7 +9,6 @@ interface NewsItem {
   id: string;
   title: string;
   summary: string;
-  lawyerComment: string;
   source: string;
   sourceType: string;
   category: string;
@@ -58,7 +57,6 @@ const sortedDates = Object.keys(dateGroups).sort((a, b) => b.localeCompare(a));
                 <NewsCard
                   title={item.title}
                   summary={item.summary}
-                  lawyerComment={item.lawyerComment || ''}
                   source={item.source}
                   date={item.date}
                   category={item.category}

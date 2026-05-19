@@ -2,7 +2,6 @@
 interface Props {
   title: string;
   summary: string;
-  lawyerComment: string;
   source: string;
   date: string;
   category: string;
@@ -51,13 +50,6 @@ const impLabel = importanceLabels[importance] || '一般';
   </div>
   <h3 class="text-base font-semibold text-gray-900 mb-2 leading-snug line-clamp-2">{title}</h3>
   <p class="text-sm text-gray-600 mb-3 leading-relaxed">{summary}</p>
-  {lawyerComment && (
-    <div class="bg-blue-50 border-l-3 border-blue-400 pl-3 py-2 mb-3 rounded-r">
-      <p class="text-xs text-blue-800 leading-relaxed">
-        <span class="font-medium">律师视角：</span>{lawyerComment}
-      </p>
-    </div>
-  )}
   {tags && tags.length > 0 && (
     <div class="flex flex-wrap gap-1.5 mb-3">
       {tags.map(tag => (
