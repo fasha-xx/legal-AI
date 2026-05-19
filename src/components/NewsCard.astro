@@ -13,44 +13,65 @@ interface Props {
 const { title, summary, legalPoint, source, date, category, tags, url } = Astro.props;
 
 const categoryColors: Record<string, string> = {
-  '政策法规': 'bg-blue-100 text-blue-700',
-  '司法动态': 'bg-purple-100 text-purple-700',
-  '知识产权': 'bg-green-100 text-green-700',
-  'AI 与数据合规': 'bg-orange-100 text-orange-700',
-  '企业合规': 'bg-indigo-100 text-indigo-700',
-  '法律科技': 'bg-teal-100 text-teal-700',
-  '监管动态': 'bg-red-100 text-red-700',
-  '其他': 'bg-gray-100 text-gray-700',
+  '政策法规': 'bg-blue-50 text-blue-700',
+  '司法动态': 'bg-purple-50 text-purple-700',
+  '知识产权': 'bg-green-50 text-green-700',
+  'AI 与数据合规': 'bg-orange-50 text-orange-700',
+  '企业合规': 'bg-indigo-50 text-indigo-700',
+  '法律科技': 'bg-teal-50 text-teal-700',
+  '监管动态': 'bg-red-50 text-red-700',
+  '其他': 'bg-slate-50 text-slate-600',
 };
 
-const catClass = categoryColors[category] || 'bg-gray-100 text-gray-700';
+const catClass = categoryColors[category] || 'bg-slate-50 text-slate-600';
 ---
 
-<article class="bg-white border border-gray-200 rounded-lg p-5 hover:shadow-md transition-shadow">
-  <div class="flex items-center gap-2 mb-3">
-    <span class={`text-xs px-2 py-0.5 rounded-full ${catClass}`}>{category}</span>
+<article class="mb-5 break-inside-avoid rounded-2xl border border-slate-200 bg-white p-5 shadow-sm transition hover:-translate-y-0.5 hover:shadow-md">
+  <div class="flex items-center justify-between gap-3 mb-3">
+    <span class={`rounded-full px-2.5 py-1 text-xs font-medium ${catClass}`}>
+      {category}
+    </span>
+    {date && <span class="text-xs text-slate-400">{date}</span>}
   </div>
-  <h3 class="text-base font-semibold text-gray-900 mb-2 leading-snug line-clamp-2">{title}</h3>
-  <p class="text-sm text-gray-600 mb-2 leading-relaxed">{summary}</p>
-  {legalPoint && (
-    <p class="text-xs text-primary mb-3">💡 {legalPoint}</p>
+
+  <h3 class="text-base font-semibold leading-snug text-slate-900 mb-2 line-clamp-2">
+    <a href={url} target="_blank" rel="noopener noreferrer" class="hover:text-primary transition-colors">
+      {title}
+    </a>
+  </h3>
+
+  <div class="text-xs text-slate-500 mb-3">
+    来源：{source}
+  </div>
+
+  {summary && (
+    <p class="text-sm leading-6 text-slate-600 mb-3">
+      {summary}
+    </p>
   )}
+
+  {legalPoint && (
+    <p class="mb-4 rounded-xl bg-slate-50 p-3 text-sm leading-6 text-slate-600">
+      💡 {legalPoint}
+    </p>
+  )}
+
   {tags && tags.length > 0 && (
     <div class="flex flex-wrap gap-1.5 mb-3">
-      {tags.map(tag => (
-        <span class="text-xs px-2 py-0.5 bg-gray-100 text-gray-500 rounded-full">{tag}</span>
+      {tags.slice(0, 3).map(tag => (
+        <span class="rounded-full bg-slate-100 px-2 py-0.5 text-xs text-slate-500">#{tag}</span>
       ))}
     </div>
   )}
-  <div class="flex items-center justify-between pt-2 border-t border-gray-100">
-    <span class="text-xs text-gray-400">{source} · {date}</span>
+
+  <div class="border-t border-slate-100 pt-3 text-right">
     <a
       href={url}
       target="_blank"
       rel="noopener noreferrer"
-      class="text-xs text-primary hover:text-primary-light transition-colors font-medium"
+      class="text-sm font-medium text-primary hover:text-primary-light transition-colors"
     >
-      查看原文 &rarr;
+      查看原文 →
     </a>
   </div>
 </article>

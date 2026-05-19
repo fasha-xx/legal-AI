@@ -1,5 +1,6 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import MasonryGrid from '../../components/MasonryGrid.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
 import { getCollection } from 'astro:content';
 
@@ -10,45 +11,59 @@ const categories = [...new Set(articles.map(a => a.data.category))];
 ---
 
 <Layout title="法律文章 - 法律实务与 AI 技能库" description="法律实务文章，涵盖知识产权、合同审查、AI 应用等领域。">
-  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-10">
-    <h1 class="text-2xl font-bold text-primary">法律文章</h1>
-    <p class="text-secondary mt-2">法律实务文章、AI 应用经验和工作流方法论。</p>
+  <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+    <header class="mb-8">
+      <h1 class="text-2xl sm:text-3xl font-bold text-primary">法律文章</h1>
+      <p class="mt-2 text-secondary max-w-2xl">
+        沉淀知识产权、企业合规、合同风控、人工智能与数据合规等法律实务文章。
+      </p>
+    </header>
 
-    <div class="flex flex-wrap gap-2 mt-6">
-      <button class="art-cat-btn text-sm px-3 py-1 rounded-full bg-primary text-white" data-cat="">全部</button>
+    <div class="flex flex-wrap gap-2 mb-8">
+      <button class="art-cat-btn text-sm px-3 py-1.5 rounded-full bg-primary text-white border border-primary" data-cat="">全部</button>
       {categories.map(cat => (
-        <button class="art-cat-btn text-sm px-3 py-1 rounded-full bg-gray-100 text-gray-600 hover:bg-gray-200" data-cat={cat}>{cat}</button>
+        <button class="art-cat-btn text-sm px-3 py-1.5 rounded-full bg-white text-secondary border border-gray-200 hover:border-primary hover:text-primary transition-colors" data-cat={cat}>{cat}</button>
       ))}
     </div>
 
-    <div id="article-grid" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 mt-6">
-      {articles.map(a => (
-        <div class="article-card" data-cat={a.data.category}>
-          <ArticleCard
-            title={a.data.title}
-            slug={a.data.slug}
-            description={a.data.description}
-            category={a.data.category}
-            tags={a.data.tags}
-            published={a.data.published}
-          />
-        </div>
-      ))}
-    </div>
-  </div>
+    {articles.length === 0 ? (
+      <div class="rounded-2xl border border-dashed border-slate-300 bg-white p-8 text-center text-sm text-slate-500">
+        暂无文章，后续将持续更新。
+      </div>
+    ) : (
+      <MasonryGrid>
+        {articles.map(a => (
+          <div class="article-card" data-cat={a.data.category}>
+            <ArticleCard
+              title={a.data.title}
+              slug={a.data.slug}
+              description={a.data.description}
+              category={a.data.category}
+              tags={a.data.tags}
+              published={a.data.published}
+            />
+          </div>
+        ))}
+      </MasonryGrid>
+    )}
+  </section>
 </Layout>
 
 <script>
   document.querySelectorAll('.art-cat-btn').forEach(btn => {
     btn.addEventListener('click', () => {
-      const cat = btn.dataset.cat;
+      const cat = (btn as HTMLElement).dataset.cat;
       document.querySelectorAll('.art-cat-btn').forEach(b => {
-        b.className = b === btn
-          ? 'art-cat-btn text-sm px-3 py-1 rounded-full bg-primary text-white'
-          : 'art-cat-btn text-sm px-3 py-1 rounded-full bg-gray-100 text-gray-600 hover:bg-gray-200';
+        if (b === btn) {
+          b.classList.remove('bg-white', 'text-secondary', 'border-gray-200');
+          b.classList.add('bg-primary', 'text-white', 'border-primary');
+        } else {
+          b.classList.remove('bg-primary', 'text-white', 'border-primary');
+          b.classList.add('bg-white', 'text-secondary', 'border-gray-200');
+        }
       });
       document.querySelectorAll('.article-card').forEach(card => {
-        card.style.display = !cat || card.dataset.cat === cat ? '' : 'none';
+        (card as HTMLElement).style.display = !cat || (card as HTMLElement).dataset.cat === cat ? '' : 'none';
       });
     });
   });

@@ -10,16 +10,49 @@ interface Props {
 
 const { title, slug, description, category, tags, published } = Astro.props;
 const base = (import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL.slice(0, -1) : import.meta.env.BASE_URL);
+
+const categoryColors: Record<string, string> = {
+  'AI 合规': 'bg-orange-50 text-orange-700',
+  '知识产权': 'bg-green-50 text-green-700',
+  '法律科技': 'bg-teal-50 text-teal-700',
+  '企业合规': 'bg-indigo-50 text-indigo-700',
+  '政策法规': 'bg-blue-50 text-blue-700',
+};
+
+const catClass = categoryColors[category] || 'bg-slate-50 text-slate-600';
 ---
 
-<a href={`${base}/articles/${slug}`} class="block bg-white rounded-lg border border-gray-100 p-5 hover:shadow-md transition-shadow">
-  <span class="text-xs text-secondary">{category}</span>
-  <h3 class="font-semibold text-primary mt-1">{title}</h3>
-  <p class="text-sm text-gray-600 mt-2 line-clamp-2">{description}</p>
-  <div class="flex flex-wrap gap-1.5 mt-3">
-    {tags.map(tag => (
-      <span class="text-xs bg-gray-100 text-gray-600 px-2 py-0.5 rounded">{tag}</span>
-    ))}
+<article class="mb-5 break-inside-avoid rounded-2xl border border-slate-200 bg-white p-5 shadow-sm transition hover:-translate-y-0.5 hover:shadow-md">
+  <div class={`inline-block rounded-full px-2.5 py-1 text-xs font-medium mb-3 ${catClass}`}>
+    {category}
   </div>
-  <p class="text-xs text-gray-400 mt-3">{published}</p>
-</a>
+
+  <h2 class="mb-3 text-lg font-semibold leading-snug text-slate-900">
+    <a href={`${base}/articles/${slug}`} class="hover:text-primary transition-colors">
+      {title}
+    </a>
+  </h2>
+
+  {description && (
+    <p class="mb-4 text-sm leading-6 text-slate-600">
+      {description}
+    </p>
+  )}
+
+  {tags && tags.length > 0 && (
+    <div class="mb-4 flex flex-wrap gap-2">
+      {tags.slice(0, 4).map((tag) => (
+        <span class="rounded-full bg-slate-100 px-2.5 py-1 text-xs text-slate-600">
+          #{tag}
+        </span>
+      ))}
+    </div>
+  )}
+
+  <div class="flex items-center justify-between border-t border-slate-100 pt-4 text-xs text-slate-500">
+    <span>{published}</span>
+    <a href={`${base}/articles/${slug}`} class="font-medium text-primary hover:text-primary-light transition-colors">
+      阅读 →
+    </a>
+  </div>
+</article>

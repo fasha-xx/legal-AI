@@ -1,59 +1,51 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import MasonryGrid from '../components/MasonryGrid.astro';
 import TodayHighlights from '../components/TodayHighlights.astro';
 import NewsCategoryFilter from '../components/NewsCategoryFilter.astro';
 import NewsCard from '../components/NewsCard.astro';
 import newsData from '../data/daily-news.json';
 
 const news: any[] = newsData;
-
-const dateGroups = news.reduce<Record<string, any[]>>((acc, item) => {
-  if (!acc[item.date]) acc[item.date] = [];
-  acc[item.date].push(item);
-  return acc;
-}, {});
-
-const sortedDates = Object.keys(dateGroups).sort((a, b) => b.localeCompare(a));
 ---
 
 <Layout
   title="每日资讯｜法律实务与 AI 技能库"
   description="聚合每日值得关注的法律法规、司法案例、知识产权、AI 合规与法律科技动态。"
 >
-  <section class="max-w-6xl mx-auto px-4 sm:px-6 py-10">
-    <div class="mb-8">
+  <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+    <header class="mb-8">
       <h1 class="text-2xl sm:text-3xl font-bold text-primary">每日资讯</h1>
-      <p class="mt-2 text-secondary">
-        每日自动聚合法律、政策、知识产权、AI 合规与法律科技相关资讯，并生成面向律师实务的简要摘要。内容由自动化工具整理，仅供学习和研究参考。
+      <p class="mt-2 text-secondary max-w-2xl">
+        自动整理法律、监管、知识产权、AI 与数据合规等领域的公开资讯，并生成简要摘要。
       </p>
-    </div>
+    </header>
 
     <TodayHighlights />
     <NewsCategoryFilter />
 
-    <div id="news-list">
-      {sortedDates.map(date => (
-        <div class="news-date-group mb-8" data-date={date}>
-          <h2 class="text-sm font-medium text-gray-400 mb-3 border-b border-gray-100 pb-2">{date}</h2>
-          <div class="grid sm:grid-cols-2 gap-4">
-            {dateGroups[date].map(item => (
-              <div class="news-item" data-category={item.category} data-title={item.title} data-summary={item.summary || ''} data-tags={(item.tags || []).join(',')}>
-                <NewsCard
-                  title={item.title}
-                  summary={item.summary || ''}
-                  legalPoint={item.legalPoint || ''}
-                  source={item.source}
-                  date={item.date}
-                  category={item.category}
-                  tags={item.tags || []}
-                  url={item.url}
-                />
-              </div>
-            ))}
+    {news.length === 0 ? (
+      <div class="rounded-2xl border border-dashed border-slate-300 bg-white p-8 text-center text-sm text-slate-500">
+        暂无资讯更新，请稍后查看。
+      </div>
+    ) : (
+      <MasonryGrid>
+        {news.map(item => (
+          <div class="news-item" data-category={item.category} data-title={item.title} data-summary={item.summary || ''} data-tags={(item.tags || []).join(',')}>
+            <NewsCard
+              title={item.title}
+              summary={item.summary || ''}
+              legalPoint={item.legalPoint || ''}
+              source={item.source}
+              date={item.date}
+              category={item.category}
+              tags={item.tags || []}
+              url={item.url}
+            />
           </div>
-        </div>
-      ))}
-    </div>
+        ))}
+      </MasonryGrid>
+    )}
 
     <div class="mt-12 pt-6 border-t border-gray-100">
       <p class="text-xs text-gray-400">
@@ -67,7 +59,6 @@ const sortedDates = Object.keys(dateGroups).sort((a, b) => b.localeCompare(a));
   document.addEventListener('DOMContentLoaded', () => {
     const buttons = document.querySelectorAll<HTMLButtonElement>('.category-btn');
     const items = document.querySelectorAll<HTMLElement>('.news-item');
-    const groups = document.querySelectorAll<HTMLElement>('.news-date-group');
     const searchInput = document.getElementById('news-search') as HTMLInputElement | null;
 
     let activeCategory = '全部';
@@ -82,10 +73,6 @@ const sortedDates = Object.keys(dateGroups).sort((a, b) => b.localeCompare(a));
           (item.dataset.summary || '').toLowerCase().includes(q) ||
           (item.dataset.tags || '').toLowerCase().includes(q);
         item.style.display = catMatch && searchMatch ? '' : 'none';
-      });
-      groups.forEach(group => {
-        const visible = group.querySelectorAll('.news-item:not([style*="display: none"])');
-        group.style.display = visible.length > 0 ? '' : 'none';
       });
     }
 
