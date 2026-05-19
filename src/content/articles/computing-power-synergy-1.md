@@ -2,7 +2,7 @@
 title: '算电协同学习笔记（一）：从五层协同看懂算力与电力融合'
 slug: "computing-power-synergy-1"
 description: '算力系统与电力系统融合的五层协同框架：空间协同、时间协同、源网荷储协同、市场协同、调度协同。'
-category: "法律科技"
+category: "双碳研究"
 tags: ["算力", "电力", "新能源", "数据中心", "绿电"]
 published: "2026-05-19"
 updated: "2026-05-19"
