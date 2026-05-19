@@ -1,0 +1,32 @@
+---
+const categories = [
+  '全部',
+  '法律法规',
+  '司法案例',
+  '知识产权',
+  'AI 合规',
+  '数据合规',
+  '企业合规',
+  '监管政策',
+  '法律科技',
+  '律师行业',
+];
+---
+
+<div class="mb-6 overflow-x-auto">
+  <div class="flex gap-2 min-w-max pb-2">
+    {categories.map((cat, i) => (
+      <button
+        data-category={cat}
+        class:list={[
+          'category-btn px-3 py-1.5 text-sm rounded-full border transition-colors whitespace-nowrap',
+          i === 0
+            ? 'bg-primary text-white border-primary'
+            : 'bg-white text-secondary border-gray-200 hover:border-primary hover:text-primary',
+        ]}
+      >
+        {cat}
+      </button>
+    ))}
+  </div>
+</div>
