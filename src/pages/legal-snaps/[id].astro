@@ -30,15 +30,15 @@ const images = (item.images || []).map((img: any) =>
 
 <Layout title={`${item.title} - 法图摘录`}>
   <article class="mx-auto max-w-5xl px-4 py-10 sm:px-6 lg:px-8">
-    <button
-      onclick="history.back()"
+    <a
+      href={`${baseWithSlash}legal-snaps`}
       class="mb-6 inline-flex items-center text-sm font-medium text-blue-600 hover:text-blue-700"
     >
       <svg class="mr-1 h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
       </svg>
       返回法图摘录
-    </button>
+    </a>
 
     <header class="mb-8">
       <div class="mb-4 flex flex-wrap items-center gap-3">
