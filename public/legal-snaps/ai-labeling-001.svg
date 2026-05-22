@@ -1,0 +1,12 @@
+<svg width="1080" height="1440" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="1440" fill="#f0f9ff"/>
+  <rect x="60" y="60" width="960" height="1320" rx="40" fill="white" stroke="#93c5fd" stroke-width="2"/>
+  <text x="540" y="200" text-anchor="middle" font-family="system-ui" font-size="48" font-weight="bold" fill="#1e40af">AI 与数据合规</text>
+  <text x="540" y="320" text-anchor="middle" font-family="system-ui" font-size="36" fill="#1e3a8a">人工智能生成合成内容标识办法</text>
+  <text x="540" y="500" text-anchor="middle" font-family="system-ui" font-size="28" fill="#475569">重点摘录</text>
+  <text x="540" y="600" text-anchor="middle" font-family="system-ui" font-size="24" fill="#334155">服务提供者应当按照国家有关规定</text>
+  <text x="540" y="650" text-anchor="middle" font-family="system-ui" font-size="24" fill="#334155">对人工智能生成合成内容进行显著标识</text>
+  <text x="540" y="900" text-anchor="middle" font-family="system-ui" font-size="20" fill="#64748b">来源：国家互联网信息办公室</text>
+  <text x="540" y="950" text-anchor="middle" font-family="system-ui" font-size="20" fill="#64748b">2025-03-14</text>
+  <text x="540" y="1300" text-anchor="middle" font-family="system-ui" font-size="24" fill="#2563eb">Legal High · 法图摘录</text>
+</svg>

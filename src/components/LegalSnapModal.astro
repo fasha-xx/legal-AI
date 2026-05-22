@@ -1,0 +1,128 @@
+---
+interface Props {
+  items: Array<{
+    id: string;
+    title: string;
+    image: string;
+    description?: string;
+    sourceName?: string;
+    sourceUrl?: string;
+  }>;
+}
+
+const { items } = Astro.props;
+---
+
+<!-- Modal Container -->
+<div
+  id="snap-modal"
+  class="fixed inset-0 z-50 hidden items-center justify-center bg-black/80 p-4"
+  role="dialog"
+  aria-modal="true"
+  aria-label="图片预览"
+>
+  <!-- Close Button -->
+  <button
+    id="snap-modal-close"
+    class="absolute right-4 top-4 z-10 rounded-full bg-white/10 p-2 text-white backdrop-blur-sm transition hover:bg-white/20"
+    aria-label="关闭"
+  >
+    <svg class="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+    </svg>
+  </button>
+
+  <!-- Content -->
+  <div class="relative max-h-[90vh] max-w-4xl overflow-auto">
+    <img
+      id="snap-modal-image"
+      src=""
+      alt=""
+      class="max-h-[80vh] w-full rounded-lg object-contain"
+    />
+    <div class="mt-4 rounded-lg bg-white/10 p-4 backdrop-blur-sm">
+      <h3 id="snap-modal-title" class="mb-2 text-lg font-semibold text-white"></h3>
+      <p id="snap-modal-description" class="mb-3 text-sm text-white/80"></p>
+      <div class="flex items-center justify-between">
+        <span id="snap-modal-source" class="text-sm text-white/60"></span>
+        <a
+          id="snap-modal-link"
+          href=""
+          target="_blank"
+          rel="noopener noreferrer"
+          class="text-sm text-blue-400 hover:text-blue-300"
+        >
+          查看原文 →
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script define:vars={{ items }}>
+  // Store items data
+  const snapItems = items;
+
+  // Get modal elements
+  const modal = document.getElementById('snap-modal');
+  const modalImage = document.getElementById('snap-modal-image');
+  const modalTitle = document.getElementById('snap-modal-title');
+  const modalDescription = document.getElementById('snap-modal-description');
+  const modalSource = document.getElementById('snap-modal-source');
+  const modalLink = document.getElementById('snap-modal-link');
+  const modalClose = document.getElementById('snap-modal-close');
+
+  // Open modal
+  function openModal(id) {
+    const item = snapItems.find(i => i.id === id);
+    if (!item || !modal) return;
+
+    modalImage.src = item.image;
+    modalImage.alt = item.title;
+    modalTitle.textContent = item.title;
+    modalDescription.textContent = item.description || '';
+    modalSource.textContent = item.sourceName ? `来源：${item.sourceName}` : '';
+
+    if (item.sourceUrl) {
+      modalLink.href = item.sourceUrl;
+      modalLink.style.display = 'inline';
+    } else {
+      modalLink.style.display = 'none';
+    }
+
+    modal.classList.remove('hidden');
+    modal.classList.add('flex');
+    document.body.style.overflow = 'hidden';
+  }
+
+  // Close modal
+  function closeModal() {
+    if (!modal) return;
+    modal.classList.add('hidden');
+    modal.classList.remove('flex');
+    document.body.style.overflow = '';
+  }
+
+  // Event listeners
+  document.addEventListener('click', (e) => {
+    const trigger = e.target.closest('[data-open-snap]');
+    if (trigger) {
+      e.preventDefault();
+      openModal(trigger.dataset.openSnap);
+    }
+  });
+
+  modalClose?.addEventListener('click', closeModal);
+
+  modal?.addEventListener('click', (e) => {
+    if (e.target === modal) {
+      closeModal();
+    }
+  });
+
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') {
+      closeModal();
+    }
+  });
+</script>

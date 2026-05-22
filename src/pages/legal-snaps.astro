@@ -2,12 +2,10 @@
 import Layout from '../layouts/Layout.astro';
 import MasonryGrid from '../components/MasonryGrid.astro';
 import LegalSnapCard from '../components/LegalSnapCard.astro';
-import LegalSnapImageTemplate from '../components/LegalSnapImageTemplate.astro';
+import LegalSnapModal from '../components/LegalSnapModal.astro';
 import legalSnaps from '../data/legal-snaps.json';
 
 const categories = ['全部', ...new Set(legalSnaps.map(item => item.category))];
-
-const base = import.meta.env.BASE_URL;
 ---
 
 <Layout title="法图摘录 - Legal High">
@@ -16,7 +14,7 @@ const base = import.meta.env.BASE_URL;
     <div class="mb-10">
       <h1 class="text-3xl font-bold text-slate-900 mb-3">法图摘录</h1>
       <p class="text-slate-600 max-w-2xl">
-        将法律、法规、政策、司法解释等公开文本中的重点内容制作成图片卡片，便于阅读、收藏和传播。
+        收集法律、法规、政策、案例规则等图卡化内容，方便阅读、收藏和传播。
       </p>
     </div>
 
@@ -26,7 +24,7 @@ const base = import.meta.env.BASE_URL;
         <input
           type="text"
           id="search-input"
-          placeholder="搜索法规名称、摘录内容..."
+          placeholder="搜索标题、说明、来源..."
           class="w-full rounded-xl border border-slate-200 bg-white px-4 py-3 pl-10 text-sm focus:border-blue-500 focus:outline-none focus:ring-1 focus:ring-blue-500"
         />
         <svg class="absolute left-3 top-3.5 h-4 w-4 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -58,38 +56,22 @@ const base = import.meta.env.BASE_URL;
       ))}
     </MasonryGrid>
 
-    <!-- Hidden Image Templates -->
-    <div class="hidden">
-      {legalSnaps.map((item) => (
-        <LegalSnapImageTemplate item={item} />
-      ))}
-    </div>
+    <!-- Modal -->
+    <LegalSnapModal items={legalSnaps} />
 
     <!-- Disclaimer -->
     <div class="mt-12 rounded-xl bg-slate-50 p-6 text-sm text-slate-500">
       <p class="font-medium text-slate-700 mb-2">免责声明</p>
       <p>
-        本页面摘录的内容仅供参考，不构成法律意见。如需引用，请查阅原文并以官方发布版本为准。
-        如有任何疑问，请咨询专业律师。
+        本站"法图摘录"用于对公开法律、法规、政策及案例规则进行图卡化整理，内容仅供学习、研究和实务参考，不构成正式法律意见。如需引用或适用，请以官方原文及正式法律文件为准。
       </p>
     </div>
   </main>
 </Layout>
 
 <script>
-  import { toPng } from 'html-to-image';
-
   // Search functionality
   const searchInput = document.getElementById('search-input') as HTMLInputElement;
-  const cards = document.querySelectorAll('article[data-category]');
-
-  // Add data-category to cards
-  document.querySelectorAll('article').forEach((card, index) => {
-    const categoryEl = card.querySelector('.rounded-full');
-    if (categoryEl) {
-      card.setAttribute('data-category', categoryEl.textContent?.trim() || '');
-    }
-  });
 
   searchInput?.addEventListener('input', (e) => {
     const target = e.target as HTMLInputElement;
@@ -117,49 +99,14 @@ const base = import.meta.env.BASE_URL;
       
       // Filter cards
       document.querySelectorAll('article').forEach((card) => {
-        const cardCategory = card.getAttribute('data-category');
+        const categoryEl = card.querySelector('.rounded-full');
+        const cardCategory = categoryEl?.textContent?.trim() || '';
         if (category === '全部' || cardCategory === category) {
           card.style.display = '';
         } else {
           card.style.display = 'none';
         }
       });
-    });
-  });
-
-  // Download image
-  document.querySelectorAll('[data-download-snap]').forEach((btn) => {
-    btn.addEventListener('click', async () => {
-      const id = btn.getAttribute('data-download-snap');
-      const template = document.getElementById(`snap-template-${id}`);
-      
-      if (!template) return;
-      
-      try {
-        btn.textContent = '生成中...';
-        (btn as HTMLButtonElement).disabled = true;
-        
-        const dataUrl = await toPng(template, {
-          width: 1080,
-          height: 1440,
-          pixelRatio: 2,
-        });
-        
-        const link = document.createElement('a');
-        link.download = `legal-snap-${id}.png`;
-        link.href = dataUrl;
-        link.click();
-        
-        btn.textContent = '下载图片';
-        (btn as HTMLButtonElement).disabled = false;
-      } catch (err) {
-        console.error('Download failed:', err);
-        btn.textContent = '下载失败';
-        setTimeout(() => {
-          btn.textContent = '下载图片';
-          (btn as HTMLButtonElement).disabled = false;
-        }, 2000);
-      }
     });
   });
 </script>
