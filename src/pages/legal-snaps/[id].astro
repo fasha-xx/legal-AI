@@ -20,7 +20,7 @@ const getAssetPath = (path: string) => {
   return `${baseWithSlash}${path.replace(/^\//, "")}`;
 };
 
-const listUrl = `${base}legal-snaps/`;
+const listUrl = `${baseWithSlash}legal-snaps/`;
 
 // 兼容 Decap CMS 的 images 格式
 const images = (item.images || []).map((img: any) =>
