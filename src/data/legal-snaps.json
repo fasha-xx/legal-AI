@@ -1,0 +1,56 @@
+[
+  {
+    "id": "ai-labeling-measures",
+    "title": "一图看懂人工智能生成合成内容标识办法",
+    "category": "AI 与数据合规",
+    "cover": "/legal-snaps/ai-labeling-measures/cover.svg",
+    "description": "梳理适用对象、标识义务、平台责任和企业合规重点。",
+    "images": [
+      "/legal-snaps/ai-labeling-measures/01.svg",
+      "/legal-snaps/ai-labeling-measures/02.svg",
+      "/legal-snaps/ai-labeling-measures/03.svg"
+    ],
+    "content": "本图卡整理了《人工智能生成合成内容标识办法》的核心要点，帮助法律从业者和企业快速了解合规要求。",
+    "sourceName": "国家互联网信息办公室",
+    "sourceUrl": "http://www.cac.gov.cn/2025-03/14/c_1742890912408909.htm",
+    "publishDate": "2026-05-22",
+    "tags": ["AI合规", "内容标识", "生成式AI"],
+    "featured": true
+  },
+  {
+    "id": "patent-layout",
+    "title": "企业专利布局策略图解",
+    "category": "知识产权",
+    "cover": "/legal-snaps/patent-layout/cover.svg",
+    "description": "从技术研发到专利申请的全流程布局策略。",
+    "images": [
+      "/legal-snaps/patent-layout/01.svg",
+      "/legal-snaps/patent-layout/02.svg",
+      "/legal-snaps/patent-layout/03.svg"
+    ],
+    "content": "本图卡帮助企业理解专利布局的核心逻辑，包括技术分解、申请时机、地域选择等关键要素。",
+    "sourceName": "",
+    "sourceUrl": "",
+    "publishDate": "2026-05-21",
+    "tags": ["专利", "企业合规", "知识产权"],
+    "featured": true
+  },
+  {
+    "id": "contract-risk-check",
+    "title": "合同风险审查要点速查",
+    "category": "合同实务",
+    "cover": "/legal-snaps/contract-risk-check/cover.svg",
+    "description": "合同审查中的常见风险点及应对策略。",
+    "images": [
+      "/legal-snaps/contract-risk-check/01.svg",
+      "/legal-snaps/contract-risk-check/02.svg",
+      "/legal-snaps/contract-risk-check/03.svg"
+    ],
+    "content": "本图卡梳理了合同审查中的关键风险点，包括主体审查、条款合规、违约责任等核心要素。",
+    "sourceName": "",
+    "sourceUrl": "",
+    "publishDate": "2026-05-20",
+    "tags": ["合同", "风险审查", "实务要点"],
+    "featured": false
+  }
+]

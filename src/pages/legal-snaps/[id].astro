@@ -1,0 +1,104 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import legalSnaps from '../../data/legal-snaps.json';
+
+export async function getStaticPaths() {
+  return legalSnaps.map((item) => ({
+    params: { id: item.id },
+    props: { item }
+  }));
+}
+
+const { item } = Astro.props;
+const base = import.meta.env.BASE_URL || "/";
+const baseWithSlash = base.endsWith("/") ? base : `${base}/`;
+
+const listUrl = `${baseWithSlash}legal-snaps`;
+
+// 兼容 Decap CMS 的 images 格式
+const images = (item.images || []).map((img: any) =>
+  typeof img === "string" ? img : img.image
+);
+
+function getAssetPath(path: string) {
+  if (!path) return "";
+  if (path.startsWith("http://") || path.startsWith("https://")) return path;
+  return `${baseWithSlash}${path.replace(/^\//, "")}`;
+}
+---
+
+<Layout title={`${item.title} - 法图摘录`} description={item.description}>
+  <article class="max-w-4xl mx-auto px-4 sm:px-6 py-10">
+    <a href={listUrl} class="text-sm text-secondary hover:text-primary">
+      &larr; 返回法图摘录
+    </a>
+
+    <header class="mt-6 mb-8">
+      <div class="flex flex-wrap items-center gap-3 mb-4">
+        <span class="text-xs px-2 py-0.5 rounded-full bg-blue-50 text-blue-700">
+          {item.category}
+        </span>
+        <span class="text-xs text-gray-400">{item.publishDate}</span>
+        <span class="text-xs text-gray-400">{images.length} 张图</span>
+      </div>
+
+      <h1 class="text-2xl sm:text-3xl font-bold text-primary">
+        {item.title}
+      </h1>
+
+      {item.description && (
+        <p class="mt-3 text-secondary">{item.description}</p>
+      )}
+
+      {item.tags && item.tags.length > 0 && (
+        <div class="mt-4 flex flex-wrap gap-2">
+          {item.tags.map((tag) => (
+            <span class="text-xs px-2 py-0.5 rounded-full bg-gray-100 text-gray-600">
+              #{tag}
+            </span>
+          ))}
+        </div>
+      )}
+    </header>
+
+    <section class="space-y-6">
+      {images.map((image: string, index: number) => (
+        <figure class="overflow-hidden rounded-xl border border-gray-200 bg-white">
+          <img
+            src={getAssetPath(image)}
+            alt={`${item.title} 第 ${index + 1} 张`}
+            loading="lazy"
+            class="w-full"
+          />
+        </figure>
+      ))}
+    </section>
+
+    {item.content && (
+      <section class="mt-10 rounded-xl bg-white p-6 border border-gray-200">
+        <h2 class="text-lg font-semibold text-primary mb-3">笔记说明</h2>
+        <p class="text-secondary leading-relaxed">{item.content}</p>
+      </section>
+    )}
+
+    {(item.sourceName || item.sourceUrl) && (
+      <section class="mt-6 rounded-xl bg-slate-50 p-5 text-sm text-slate-500">
+        {item.sourceName && <div>来源：{item.sourceName}</div>}
+        {item.sourceUrl && (
+          <a
+            href={item.sourceUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="mt-2 inline-flex text-primary hover:underline"
+          >
+            查看原文 →
+          </a>
+        )}
+      </section>
+    )}
+
+    <footer class="mt-6 rounded-xl bg-slate-50 p-5 text-sm text-slate-500">
+      本页内容仅供学习、研究和实务参考，不构成正式法律意见。如需引用或适用，请以官方原文及正式法律文件为准。
+    </footer>
+  </article>
+</Layout>

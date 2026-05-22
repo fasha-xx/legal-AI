@@ -1,0 +1,55 @@
+---
+interface Props {
+  item: {
+    id: string;
+    title: string;
+    category: string;
+    cover: string;
+    description?: string;
+    images?: string[];
+    publishDate: string;
+    tags?: string[];
+  };
+}
+
+const { item } = Astro.props;
+const base = import.meta.env.BASE_URL || "/";
+const baseWithSlash = base.endsWith("/") ? base : `${base}/`;
+
+const coverUrl = `${baseWithSlash}${item.cover.replace(/^\//, "")}`;
+const detailUrl = `${baseWithSlash}legal-snaps/${item.id}`;
+const imageCount = item.images?.length || 0;
+---
+
+<article class="overflow-hidden rounded-xl border border-gray-200 bg-white shadow-sm transition hover:-translate-y-0.5 hover:shadow-md">
+  <a href={detailUrl}>
+    <div class="aspect-[4/3] bg-slate-100">
+      <img
+        src={coverUrl}
+        alt={item.title}
+        loading="lazy"
+        class="h-full w-full object-cover"
+      />
+    </div>
+  </a>
+  <div class="p-4">
+    <div class="flex items-center justify-between gap-2 mb-2">
+      <span class="text-xs px-2 py-0.5 rounded-full bg-blue-50 text-blue-700">
+        {item.category}
+      </span>
+      <span class="text-xs text-slate-400">{imageCount} 张图</span>
+    </div>
+    <h3 class="text-sm font-medium text-gray-900 line-clamp-2">
+      <a href={detailUrl} class="hover:text-primary transition-colors">
+        {item.title}
+      </a>
+    </h3>
+    {item.description && (
+      <p class="mt-2 text-xs text-gray-500 line-clamp-2">{item.description}</p>
+    )}
+    <div class="mt-3 flex items-center justify-between text-xs text-gray-400">
+      <span>{item.publishDate}</span>
+      <a href={detailUrl} class="text-primary hover:underline">查看详情</a>
+    </div>
+  </div>
+</article>

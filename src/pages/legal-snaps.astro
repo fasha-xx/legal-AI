@@ -1,0 +1,90 @@
+---
+import Layout from '../layouts/Layout.astro';
+import LegalSnapCard from '../components/LegalSnapCard.astro';
+import legalSnaps from '../data/legal-snaps.json';
+
+const items = legalSnaps || [];
+const categories = ['全部', ...Array.from(new Set(items.map(item => item.category).filter(Boolean)))];
+---
+
+<Layout title="法图摘录 - 法律实务与 AI 技能库" description="法律、法规、政策与案例规则的图卡化整理。">
+  <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+    <header class="mb-8">
+      <h1 class="text-2xl sm:text-3xl font-bold text-primary">法图摘录</h1>
+      <p class="mt-2 text-secondary max-w-2xl">
+        用图文笔记整理法律、法规、政策、案例规则和实务要点。
+      </p>
+    </header>
+
+    <div class="flex flex-wrap gap-2 mb-8">
+      {categories.map((category) => (
+        <button
+          type="button"
+          class="snap-cat-btn text-sm px-3 py-1.5 rounded-full bg-white text-secondary border border-gray-200 hover:border-primary hover:text-primary transition-colors"
+          data-category={category}
+        >
+          {category}
+        </button>
+      ))}
+    </div>
+
+    {items.length === 0 ? (
+      <div class="rounded-2xl border border-dashed border-slate-300 bg-white p-8 text-center text-sm text-slate-500">
+        暂无法图摘录内容。
+      </div>
+    ) : (
+      <div id="legal-snaps-grid" class="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+        {items.map((item) => (
+          <div data-card data-category={item.category}>
+            <LegalSnapCard item={item} />
+          </div>
+        ))}
+      </div>
+    )}
+
+    <div class="mt-12 rounded-xl bg-slate-50 p-6 text-sm text-slate-500">
+      <p class="font-medium text-slate-700 mb-2">免责声明</p>
+      <p>
+        本站"法图摘录"用于对公开法律、法规、政策及案例规则进行图卡化整理，内容仅供学习、研究和实务参考，不构成正式法律意见。如需引用或适用，请以官方原文及正式法律文件为准。
+      </p>
+    </div>
+  </section>
+</Layout>
+
+<script>
+  const buttons = document.querySelectorAll('.snap-cat-btn');
+  const cards = document.querySelectorAll('[data-card]');
+
+  let activeCategory = '全部';
+
+  function filterCards() {
+    cards.forEach((card) => {
+      const category = (card as HTMLElement).dataset.category || '';
+      const matchCategory = activeCategory === '全部' || category === activeCategory;
+      (card as HTMLElement).style.display = matchCategory ? '' : 'none';
+    });
+  }
+
+  buttons.forEach((button) => {
+    button.addEventListener('click', () => {
+      activeCategory = (button as HTMLElement).dataset.category || '全部';
+      buttons.forEach(b => {
+        if (b === button) {
+          b.classList.remove('bg-white', 'text-secondary', 'border-gray-200');
+          b.classList.add('bg-primary', 'text-white', 'border-primary');
+        } else {
+          b.classList.remove('bg-primary', 'text-white', 'border-primary');
+          b.classList.add('bg-white', 'text-secondary', 'border-gray-200');
+        }
+      });
+      filterCards();
+    });
+  });
+
+  // 设置"全部"按钮为默认选中
+  const allBtn = document.querySelector('[data-category="全部"]');
+  if (allBtn) {
+    allBtn.classList.remove('bg-white', 'text-secondary', 'border-gray-200');
+    allBtn.classList.add('bg-primary', 'text-white', 'border-primary');
+  }
+</script>
