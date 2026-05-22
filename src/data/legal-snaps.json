@@ -52,5 +52,22 @@
     "publishDate": "2026-05-20",
     "tags": ["合同", "风险审查", "实务要点"],
     "featured": false
+  },
+  {
+    "id": "test-note",
+    "title": "测试图卡：法律实务笔记",
+    "category": "测试",
+    "cover": "/legal-snaps/test-note/01.png",
+    "description": "用于测试法图摘录功能的示例图卡。",
+    "images": [
+      "/legal-snaps/test-note/01.png",
+      "/legal-snaps/test-note/02.png"
+    ],
+    "content": "这是一张测试图卡，用于验证法图摘录功能的显示效果和交互逻辑。",
+    "sourceName": "测试来源",
+    "sourceUrl": "",
+    "publishDate": "2026-05-22",
+    "tags": ["测试", "示例"],
+    "featured": false
   }
 ]
