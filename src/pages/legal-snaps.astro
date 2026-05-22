@@ -1,7 +1,5 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import Header from '../components/Header.astro';
-import Footer from '../components/Footer.astro';
 import MasonryGrid from '../components/MasonryGrid.astro';
 import LegalSnapCard from '../components/LegalSnapCard.astro';
 import LegalSnapImageTemplate from '../components/LegalSnapImageTemplate.astro';
@@ -13,8 +11,6 @@ const base = import.meta.env.BASE_URL;
 ---
 
 <Layout title="法图摘录 - Legal High">
-  <Header />
-  
   <main class="max-w-6xl mx-auto px-4 sm:px-6 py-12">
     <!-- Page Header -->
     <div class="mb-10">
@@ -78,8 +74,6 @@ const base = import.meta.env.BASE_URL;
       </p>
     </div>
   </main>
-
-  <Footer />
 </Layout>
 
 <script>
