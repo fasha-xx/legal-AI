@@ -64,22 +64,6 @@ const images = (item.images || []).map((img: any) =>
           ))}
         </div>
       )}
-
-      {(item.sourceName || item.sourceUrl) && (
-        <div class="mt-5 text-sm text-slate-500">
-          {item.sourceName && <span>来源：{item.sourceName}</span>}
-          {item.sourceUrl && (
-            <a
-              href={item.sourceUrl}
-              target="_blank"
-              rel="noopener noreferrer"
-              class="ml-4 text-blue-600 hover:text-blue-700"
-            >
-              查看原文 →
-            </a>
-          )}
-        </div>
-      )}
     </header>
 
     <section class="mx-auto max-w-3xl space-y-6">
@@ -99,7 +83,30 @@ const images = (item.images || []).map((img: any) =>
       ))}
     </section>
 
-    <footer class="mx-auto mt-10 max-w-3xl rounded-2xl bg-slate-50 p-5 text-sm leading-6 text-slate-500">
+    {item.content && (
+      <section class="mx-auto mt-10 max-w-3xl rounded-2xl bg-white p-6 text-base leading-8 text-slate-700 shadow-sm">
+        <h2 class="mb-3 text-lg font-semibold text-slate-900">笔记说明</h2>
+        <p>{item.content}</p>
+      </section>
+    )}
+
+    {(item.sourceName || item.sourceUrl) && (
+      <section class="mx-auto mt-6 max-w-3xl rounded-2xl bg-slate-50 p-5 text-sm leading-6 text-slate-500">
+        {item.sourceName && <div>来源：{item.sourceName}</div>}
+        {item.sourceUrl && (
+          <a
+            href={item.sourceUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="mt-2 inline-flex text-blue-600 hover:text-blue-700"
+          >
+            查看原文 →
+          </a>
+        )}
+      </section>
+    )}
+
+    <footer class="mx-auto mt-6 max-w-3xl rounded-2xl bg-slate-50 p-5 text-sm leading-6 text-slate-500">
       本页内容仅供学习、研究和实务参考，不构成正式法律意见。如需引用或适用，请以官方原文及正式法律文件为准。
     </footer>
   </article>
