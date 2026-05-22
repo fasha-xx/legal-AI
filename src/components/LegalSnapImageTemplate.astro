@@ -1,0 +1,88 @@
+---
+interface Props {
+  item: {
+    id: string;
+    title: string;
+    subtitle?: string;
+    category: string;
+    sourceName: string;
+    publishDate: string;
+    effectiveDate?: string;
+    quote: string;
+    interpretation?: string;
+    tags?: string[];
+  };
+}
+
+const { item } = Astro.props;
+---
+
+<div
+  id={`snap-template-${item.id}`}
+  class="fixed left-[-9999px] top-0 h-[1440px] w-[1080px] bg-slate-50 p-16 text-slate-900"
+>
+  <div class="flex h-full flex-col rounded-[40px] border border-slate-200 bg-white p-14 shadow-sm">
+    <!-- Header -->
+    <header class="mb-12 flex items-center justify-between">
+      <div class="text-3xl font-bold text-slate-900">Legal High</div>
+      <div class="rounded-full bg-blue-50 px-5 py-2 text-xl text-blue-700">法图摘录</div>
+    </header>
+
+    <!-- Category -->
+    <div class="mb-8 text-2xl text-blue-700">{item.category}</div>
+
+    <!-- Title -->
+    <h1 class="mb-10 text-5xl font-bold leading-tight text-slate-950">
+      {item.title}
+    </h1>
+
+    {item.subtitle && (
+      <p class="mb-8 text-2xl text-slate-500">{item.subtitle}</p>
+    )}
+
+    <!-- Quote Section -->
+    <section class="mb-10 rounded-3xl bg-slate-50 p-10">
+      <div class="mb-5 text-2xl font-semibold text-slate-700">重点摘录</div>
+      <p class="text-4xl leading-relaxed text-slate-900">
+        "{item.quote}"
+      </p>
+    </section>
+
+    <!-- Interpretation -->
+    {item.interpretation && (
+      <section class="mb-10">
+        <div class="mb-4 text-2xl font-semibold text-slate-700">律师提示</div>
+        <p class="text-2xl leading-relaxed text-slate-600">
+          {item.interpretation}
+        </p>
+      </section>
+    )}
+
+    <!-- Tags -->
+    {item.tags && item.tags.length > 0 && (
+      <div class="mb-10 flex flex-wrap gap-3">
+        {item.tags.map((tag) => (
+          <span class="rounded-full bg-blue-50 px-5 py-2 text-lg text-blue-700">
+            #{tag}
+          </span>
+        ))}
+      </div>
+    )}
+
+    <!-- Footer -->
+    <footer class="mt-auto border-t border-slate-200 pt-8">
+      <div class="flex items-center justify-between text-lg text-slate-500">
+        <div>
+          <span class="mr-4">来源：{item.sourceName}</span>
+          <span>发布：{item.publishDate}</span>
+        </div>
+        {item.effectiveDate && (
+          <span>施行：{item.effectiveDate}</span>
+        )}
+      </div>
+      <div class="mt-4 text-base text-slate-400">
+        Legal High · 法律实务与 AI 技能库
+      </div>
+    </footer>
+  </div>
+</div>

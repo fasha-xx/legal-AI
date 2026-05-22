@@ -1,0 +1,82 @@
+---
+interface Props {
+  item: {
+    id: string;
+    title: string;
+    subtitle?: string;
+    category: string;
+    sourceName: string;
+    sourceUrl: string;
+    publishDate: string;
+    effectiveDate?: string;
+    quote: string;
+    interpretation?: string;
+    tags?: string[];
+    cardStyle?: string;
+  };
+}
+
+const { item } = Astro.props;
+
+const categoryColors: Record<string, string> = {
+  '法律': 'bg-blue-50 text-blue-700',
+  '行政法规': 'bg-indigo-50 text-indigo-700',
+  '部门规章': 'bg-purple-50 text-purple-700',
+  '司法解释': 'bg-violet-50 text-violet-700',
+  '政策文件': 'bg-cyan-50 text-cyan-700',
+  '典型案例': 'bg-emerald-50 text-emerald-700',
+  '知识产权': 'bg-amber-50 text-amber-700',
+  'AI 与数据合规': 'bg-blue-50 text-blue-700',
+  '企业合规': 'bg-rose-50 text-rose-700',
+  '合同实务': 'bg-teal-50 text-teal-700',
+};
+
+const colorClass = categoryColors[item.category] || 'bg-gray-50 text-gray-700';
+---
+
+<article class="mb-5 break-inside-avoid rounded-2xl border border-slate-200 bg-white p-5 shadow-sm transition hover:-translate-y-0.5 hover:shadow-md">
+  <div class="mb-3 flex items-center justify-between gap-3">
+    <span class={`rounded-full px-2.5 py-1 text-xs font-medium ${colorClass}`}>
+      {item.category}
+    </span>
+    <span class="text-xs text-slate-400">{item.publishDate}</span>
+  </div>
+
+  <h2 class="mb-3 text-lg font-semibold leading-snug text-slate-900">
+    {item.title}
+  </h2>
+
+  {item.subtitle && (
+    <p class="mb-3 text-sm text-slate-500">{item.subtitle}</p>
+  )}
+
+  <div class="mb-4 rounded-xl bg-slate-50 p-4 text-sm leading-7 text-slate-700">
+    <div class="mb-2 text-xs font-medium text-slate-500">重点摘录</div>
+    <p>"{item.quote}"</p>
+  </div>
+
+  {item.interpretation && (
+    <p class="mb-4 text-sm leading-6 text-slate-600">
+      <span class="font-medium text-slate-800">律师提示：</span>{item.interpretation}
+    </p>
+  )}
+
+  {item.tags && item.tags.length > 0 && (
+    <div class="mb-4 flex flex-wrap gap-2">
+      {item.tags.slice(0, 4).map((tag) => (
+        <span class="rounded-full bg-slate-100 px-2.5 py-1 text-xs text-slate-600">
+          #{tag}
+        </span>
+      ))}
+    </div>
+  )}
+
+  <div class="flex items-center justify-between border-t border-slate-100 pt-4 text-sm">
+    <a href={item.sourceUrl} target="_blank" rel="noopener noreferrer" class="text-slate-500 hover:text-blue-600">
+      查看原文
+    </a>
+    <button data-download-snap={item.id} class="font-medium text-blue-600 hover:text-blue-700">
+      下载图片
+    </button>
+  </div>
+</article>
