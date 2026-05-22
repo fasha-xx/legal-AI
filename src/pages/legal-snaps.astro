@@ -1,63 +1,63 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import MasonryGrid from '../components/MasonryGrid.astro';
-import LegalSnapCard from '../components/LegalSnapCard.astro';
-import LegalSnapModal from '../components/LegalSnapModal.astro';
+import LegalSnapAlbumCard from '../components/LegalSnapAlbumCard.astro';
 import legalSnaps from '../data/legal-snaps.json';
 
-const categories = ['全部', ...new Set(legalSnaps.map(item => item.category))];
+const items = legalSnaps || [];
+const categories = ['全部', ...Array.from(new Set(items.map((item) => item.category).filter(Boolean)))];
 ---
 
-<Layout title="法图摘录 - Legal High">
-  <main class="max-w-6xl mx-auto px-4 sm:px-6 py-12">
-    <!-- Page Header -->
-    <div class="mb-10">
-      <h1 class="text-3xl font-bold text-slate-900 mb-3">法图摘录</h1>
-      <p class="text-slate-600 max-w-2xl">
+<Layout title="法图摘录 - 法律实务与 AI 技能库">
+  <section class="mx-auto max-w-7xl px-4 py-10 sm:px-6 lg:px-8">
+    <header class="mb-8">
+      <h1 class="text-3xl font-bold tracking-tight text-slate-900">
+        法图摘录
+      </h1>
+      <p class="mt-3 max-w-2xl text-sm leading-6 text-slate-600">
         收集法律、法规、政策、案例规则等图卡化内容，方便阅读、收藏和传播。
       </p>
-    </div>
+    </header>
 
-    <!-- Search and Filter -->
-    <div class="mb-8 flex flex-col sm:flex-row gap-4">
-      <div class="relative flex-1">
-        <input
-          type="text"
-          id="search-input"
-          placeholder="搜索标题、说明、来源..."
-          class="w-full rounded-xl border border-slate-200 bg-white px-4 py-3 pl-10 text-sm focus:border-blue-500 focus:outline-none focus:ring-1 focus:ring-blue-500"
-        />
-        <svg class="absolute left-3 top-3.5 h-4 w-4 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
-        </svg>
-      </div>
-      
-      <div class="flex flex-wrap gap-2" id="category-filters">
-        {categories.map((cat, index) => (
+    <div class="mb-8 space-y-4">
+      <input
+        id="legal-snaps-search"
+        type="search"
+        placeholder="搜索图集标题、说明、标签..."
+        class="w-full rounded-2xl border border-slate-200 bg-white px-4 py-3 text-sm outline-none focus:border-blue-500"
+      />
+
+      <div class="flex flex-wrap gap-2">
+        {categories.map((category) => (
           <button
-            data-category={cat}
-            class:list={[
-              'rounded-lg px-4 py-2 text-sm font-medium transition-colors',
-              index === 0
-                ? 'bg-blue-600 text-white'
-                : 'bg-slate-100 text-slate-700 hover:bg-slate-200'
-            ]}
+            type="button"
+            class="rounded-full bg-slate-100 px-4 py-2 text-sm text-slate-600 hover:bg-blue-50 hover:text-blue-700"
+            data-category={category}
           >
-            {cat}
+            {category}
           </button>
         ))}
       </div>
     </div>
 
-    <!-- Cards Grid -->
-    <MasonryGrid>
-      {legalSnaps.map((item) => (
-        <LegalSnapCard item={item} />
-      ))}
-    </MasonryGrid>
-
-    <!-- Modal -->
-    <LegalSnapModal items={legalSnaps} />
+    {items.length === 0 ? (
+      <div class="rounded-2xl border border-dashed border-slate-300 bg-white p-8 text-center text-sm text-slate-500">
+        暂无法图摘录内容，后续将持续更新。
+      </div>
+    ) : (
+      <div id="legal-snaps-grid" class="grid grid-cols-1 gap-6 md:grid-cols-2 xl:grid-cols-3">
+        {items.map((item) => (
+          <div
+            data-card
+            data-title={item.title}
+            data-description={item.description || ''}
+            data-category={item.category}
+            data-tags={(item.tags || []).join(' ')}
+          >
+            <LegalSnapAlbumCard item={item} />
+          </div>
+        ))}
+      </div>
+    )}
 
     <!-- Disclaimer -->
     <div class="mt-12 rounded-xl bg-slate-50 p-6 text-sm text-slate-500">
@@ -66,47 +66,49 @@ const categories = ['全部', ...new Set(legalSnaps.map(item => item.category))]
         本站"法图摘录"用于对公开法律、法规、政策及案例规则进行图卡化整理，内容仅供学习、研究和实务参考，不构成正式法律意见。如需引用或适用，请以官方原文及正式法律文件为准。
       </p>
     </div>
-  </main>
+  </section>
+
+  <script>
+    const searchInput = document.getElementById('legal-snaps-search') as HTMLInputElement;
+    const buttons = document.querySelectorAll('[data-category]');
+    const cards = document.querySelectorAll('[data-card]');
+
+    let activeCategory = '全部';
+
+    function filterCards() {
+      const keyword = (searchInput?.value || '').toLowerCase().trim();
+
+      cards.forEach((card) => {
+        const title = card.getAttribute('data-title') || '';
+        const description = card.getAttribute('data-description') || '';
+        const category = card.getAttribute('data-category') || '';
+        const tags = card.getAttribute('data-tags') || '';
+
+        const text = `${title} ${description} ${category} ${tags}`.toLowerCase();
+
+        const matchKeyword = !keyword || text.includes(keyword);
+        const matchCategory = activeCategory === '全部' || category === activeCategory;
+
+        (card as HTMLElement).style.display = matchKeyword && matchCategory ? '' : 'none';
+      });
+    }
+
+    searchInput?.addEventListener('input', filterCards);
+
+    buttons.forEach((button) => {
+      button.addEventListener('click', () => {
+        activeCategory = button.getAttribute('data-category') || '全部';
+        
+        // Update active button style
+        buttons.forEach((b) => {
+          b.classList.remove('bg-blue-600', 'text-white');
+          b.classList.add('bg-slate-100', 'text-slate-600');
+        });
+        button.classList.remove('bg-slate-100', 'text-slate-600');
+        button.classList.add('bg-blue-600', 'text-white');
+        
+        filterCards();
+      });
+    });
+  </script>
 </Layout>
-
-<script>
-  // Search functionality
-  const searchInput = document.getElementById('search-input') as HTMLInputElement;
-
-  searchInput?.addEventListener('input', (e) => {
-    const target = e.target as HTMLInputElement;
-    const query = target.value.toLowerCase();
-    
-    document.querySelectorAll('article').forEach((card) => {
-      const text = card.textContent?.toLowerCase() || '';
-      card.style.display = text.includes(query) ? '' : 'none';
-    });
-  });
-
-  // Category filter
-  const categoryButtons = document.querySelectorAll('#category-filters button');
-  categoryButtons.forEach((btn) => {
-    btn.addEventListener('click', () => {
-      const category = btn.getAttribute('data-category');
-      
-      // Update active button
-      categoryButtons.forEach((b) => {
-        b.classList.remove('bg-blue-600', 'text-white');
-        b.classList.add('bg-slate-100', 'text-slate-700');
-      });
-      btn.classList.remove('bg-slate-100', 'text-slate-700');
-      btn.classList.add('bg-blue-600', 'text-white');
-      
-      // Filter cards
-      document.querySelectorAll('article').forEach((card) => {
-        const categoryEl = card.querySelector('.rounded-full');
-        const cardCategory = categoryEl?.textContent?.trim() || '';
-        if (category === '全部' || cardCategory === category) {
-          card.style.display = '';
-        } else {
-          card.style.display = 'none';
-        }
-      });
-    });
-  });
-</script>

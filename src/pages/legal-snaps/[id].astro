@@ -1,0 +1,106 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import legalSnaps from '../../data/legal-snaps.json';
+
+export async function getStaticPaths() {
+  return legalSnaps.map((item) => ({
+    params: { id: item.id },
+    props: { item }
+  }));
+}
+
+const { item } = Astro.props;
+
+const base = import.meta.env.BASE_URL || "/";
+
+const getAssetPath = (path: string) => {
+  if (!path) return "";
+  if (path.startsWith("http://") || path.startsWith("https://")) return path;
+  return `${base}${path.replace(/^\//, "")}`;
+};
+
+const listUrl = `${base}legal-snaps/`;
+
+// 兼容 Decap CMS 的 images 格式
+const images = (item.images || []).map((img: any) =>
+  typeof img === "string" ? img : img.image
+);
+---
+
+<Layout title={`${item.title} - 法图摘录`}>
+  <article class="mx-auto max-w-5xl px-4 py-10 sm:px-6 lg:px-8">
+    <a href={listUrl} class="mb-6 inline-flex items-center text-sm font-medium text-blue-600 hover:text-blue-700">
+      <svg class="mr-1 h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
+      </svg>
+      返回法图摘录
+    </a>
+
+    <header class="mb-8">
+      <div class="mb-4 flex flex-wrap items-center gap-3">
+        <span class="rounded-full bg-blue-50 px-3 py-1 text-sm font-medium text-blue-700">
+          {item.category}
+        </span>
+        <span class="text-sm text-slate-400">{item.publishDate}</span>
+        <span class="text-sm text-slate-400">{images.length} 张图</span>
+      </div>
+
+      <h1 class="text-3xl font-bold leading-tight tracking-tight text-slate-900 md:text-4xl">
+        {item.title}
+      </h1>
+
+      {item.description && (
+        <p class="mt-4 max-w-3xl text-base leading-7 text-slate-600">
+          {item.description}
+        </p>
+      )}
+
+      {item.tags && item.tags.length > 0 && (
+        <div class="mt-5 flex flex-wrap gap-2">
+          {item.tags.map((tag) => (
+            <span class="rounded-full bg-slate-100 px-2.5 py-1 text-xs text-slate-600">
+              #{tag}
+            </span>
+          ))}
+        </div>
+      )}
+
+      {(item.sourceName || item.sourceUrl) && (
+        <div class="mt-5 text-sm text-slate-500">
+          {item.sourceName && <span>来源：{item.sourceName}</span>}
+          {item.sourceUrl && (
+            <a
+              href={item.sourceUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="ml-4 text-blue-600 hover:text-blue-700"
+            >
+              查看原文 →
+            </a>
+          )}
+        </div>
+      )}
+    </header>
+
+    <section class="mx-auto max-w-3xl space-y-6">
+      {images.map((image: string, index: number) => (
+        <figure class="overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm">
+          <img
+            src={getAssetPath(image)}
+            alt={`${item.title} 第 ${index + 1} 张`}
+            loading="lazy"
+            class="w-full"
+            onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';"
+          />
+          <div class="hidden aspect-[3/4] items-center justify-center bg-slate-100 px-6 text-center text-sm text-slate-400">
+            第 {index + 1} 张图片暂未加载
+          </div>
+        </figure>
+      ))}
+    </section>
+
+    <footer class="mx-auto mt-10 max-w-3xl rounded-2xl bg-slate-50 p-5 text-sm leading-6 text-slate-500">
+      本页内容仅供学习、研究和实务参考，不构成正式法律意见。如需引用或适用，请以官方原文及正式法律文件为准。
+    </footer>
+  </article>
+</Layout>

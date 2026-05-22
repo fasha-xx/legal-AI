@@ -1,0 +1,8 @@
+<svg width="1080" height="1440" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="1440" fill="#f0f9ff"/>
+  <rect x="60" y="60" width="960" height="1320" rx="40" fill="white" stroke="#93c5fd" stroke-width="2"/>
+  <text x="540" y="200" text-anchor="middle" font-family="system-ui" font-size="48" font-weight="bold" fill="#1e40af">Legal High</text>
+  <text x="540" y="320" text-anchor="middle" font-family="system-ui" font-size="36" fill="#1e3a8a">ai-labeling-measures</text>
+  <text x="540" y="500" text-anchor="middle" font-family="system-ui" font-size="28" fill="#475569">封面图</text>
+  <text x="540" y="1300" text-anchor="middle" font-family="system-ui" font-size="24" fill="#2563eb">法图摘录</text>
+</svg>

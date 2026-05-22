@@ -1,0 +1,102 @@
+---
+interface Props {
+  item: {
+    id: string;
+    title: string;
+    category: string;
+    cover: string;
+    description?: string;
+    images?: string[];
+    sourceName?: string;
+    sourceUrl?: string;
+    publishDate: string;
+    tags?: string[];
+    featured?: boolean;
+  };
+}
+
+const { item } = Astro.props;
+
+const base = import.meta.env.BASE_URL || "/";
+
+const getAssetPath = (path: string) => {
+  if (!path) return "";
+  if (path.startsWith("http://") || path.startsWith("https://")) return path;
+  return `${base}${path.replace(/^\//, "")}`;
+};
+
+const coverUrl = getAssetPath(item.cover);
+const detailUrl = `${base}legal-snaps/${item.id}/`;
+const imageCount = item.images?.length || 0;
+
+const categoryColors: Record<string, string> = {
+  '法律': 'bg-blue-50 text-blue-700',
+  '行政法规': 'bg-indigo-50 text-indigo-700',
+  '部门规章': 'bg-purple-50 text-purple-700',
+  '司法解释': 'bg-violet-50 text-violet-700',
+  '政策文件': 'bg-cyan-50 text-cyan-700',
+  '典型案例': 'bg-emerald-50 text-emerald-700',
+  '知识产权': 'bg-amber-50 text-amber-700',
+  'AI 与数据合规': 'bg-blue-50 text-blue-700',
+  '企业合规': 'bg-rose-50 text-rose-700',
+  '合同实务': 'bg-teal-50 text-teal-700',
+  '律师工具': 'bg-orange-50 text-orange-700',
+};
+
+const colorClass = categoryColors[item.category] || 'bg-gray-50 text-gray-700';
+---
+
+<article class="overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm transition hover:-translate-y-0.5 hover:shadow-md">
+  <a href={detailUrl} class="block bg-slate-100">
+    <img
+      src={coverUrl}
+      alt={item.title}
+      loading="lazy"
+      class="aspect-[3/4] w-full object-cover"
+      onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';"
+    />
+    <div class="hidden aspect-[3/4] items-center justify-center bg-slate-100 px-6 text-center text-sm text-slate-400">
+      封面图暂未加载
+    </div>
+  </a>
+
+  <div class="p-5">
+    <div class="mb-3 flex items-center justify-between gap-3">
+      <span class={`rounded-full px-2.5 py-1 text-xs font-medium ${colorClass}`}>
+        {item.category}
+      </span>
+      <span class="text-xs text-slate-400">
+        {imageCount} 张图
+      </span>
+    </div>
+
+    <h2 class="mb-3 text-lg font-semibold leading-snug text-slate-900">
+      <a href={detailUrl} class="hover:text-blue-600">
+        {item.title}
+      </a>
+    </h2>
+
+    {item.description && (
+      <p class="mb-4 text-sm leading-6 text-slate-600">
+        {item.description}
+      </p>
+    )}
+
+    {item.tags && item.tags.length > 0 && (
+      <div class="mb-4 flex flex-wrap gap-2">
+        {item.tags.slice(0, 4).map((tag) => (
+          <span class="rounded-full bg-slate-100 px-2.5 py-1 text-xs text-slate-600">
+            #{tag}
+          </span>
+        ))}
+      </div>
+    )}
+
+    <div class="flex items-center justify-between border-t border-slate-100 pt-4 text-sm">
+      <span class="text-slate-400">{item.publishDate}</span>
+      <a href={detailUrl} class="font-medium text-blue-600 hover:text-blue-700">
+        查看全部
+      </a>
+    </div>
+  </div>
+</article>

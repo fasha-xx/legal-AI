@@ -1,53 +1,53 @@
 [
   {
-    "id": "ai-labeling-001",
+    "id": "ai-labeling-measures",
     "title": "一图看懂人工智能生成合成内容标识办法",
     "category": "AI 与数据合规",
-    "image": "/legal-snaps/ai-labeling-001.svg",
-    "description": "梳理生成合成内容标识义务、适用对象和企业合规重点。",
+    "cover": "/legal-snaps/ai-labeling-measures/cover.svg",
+    "description": "梳理适用对象、标识义务、平台责任和企业合规重点。",
+    "images": [
+      "/legal-snaps/ai-labeling-measures/01.svg",
+      "/legal-snaps/ai-labeling-measures/02.svg",
+      "/legal-snaps/ai-labeling-measures/03.svg"
+    ],
     "sourceName": "国家互联网信息办公室",
     "sourceUrl": "https://www.cac.gov.cn/2025-03/14/c_1712789831245442.htm",
-    "publishDate": "2026-05-21",
+    "publishDate": "2026-05-22",
     "tags": ["AI合规", "内容标识", "生成式AI"],
     "featured": true,
-    "createdAt": "2026-05-21"
+    "createdAt": "2026-05-22"
   },
   {
-    "id": "patent-layout-001",
-    "title": "一图看懂企业专利布局",
+    "id": "patent-layout",
+    "title": "企业专利布局实务指南",
     "category": "知识产权",
-    "image": "/legal-snaps/patent-layout-001.svg",
+    "cover": "/legal-snaps/patent-layout/cover.svg",
     "description": "用图卡方式展示企业专利布局的基本路径和常见误区。",
-    "sourceName": "Legal High",
-    "sourceUrl": "",
-    "publishDate": "2026-05-21",
-    "tags": ["专利", "布局", "知识产权"],
-    "featured": true,
-    "createdAt": "2026-05-21"
-  },
-  {
-    "id": "contract-risk-001",
-    "title": "合同审查中的主体资格核查",
-    "category": "合同实务",
-    "image": "/legal-snaps/contract-risk-001.svg",
-    "description": "展示合同审查前对交易主体进行基础核查的工作要点。",
-    "sourceName": "Legal High",
-    "sourceUrl": "",
-    "publishDate": "2026-05-21",
-    "tags": ["合同审查", "主体核查", "企业查询"],
-    "featured": false,
-    "createdAt": "2026-05-21"
-  },
-  {
-    "id": "test-001",
-    "title": "测试图片 - 法律实务要点",
-    "category": "合同实务",
-    "image": "/legal-snaps/test-001.jpg",
-    "description": "测试用图片，用于验证法图摘录功能。",
+    "images": [
+      "/legal-snaps/patent-layout/01.svg",
+      "/legal-snaps/patent-layout/02.svg"
+    ],
     "sourceName": "Legal High",
     "sourceUrl": "",
     "publishDate": "2026-05-22",
-    "tags": ["测试", "法图摘录"],
+    "tags": ["专利", "布局", "知识产权"],
+    "featured": true,
+    "createdAt": "2026-05-22"
+  },
+  {
+    "id": "contract-risk-check",
+    "title": "合同审查主体资格核查要点",
+    "category": "合同实务",
+    "cover": "/legal-snaps/contract-risk-check/cover.svg",
+    "description": "展示合同审查前对交易主体进行基础核查的工作要点。",
+    "images": [
+      "/legal-snaps/contract-risk-check/01.svg",
+      "/legal-snaps/contract-risk-check/02.svg"
+    ],
+    "sourceName": "Legal High",
+    "sourceUrl": "",
+    "publishDate": "2026-05-22",
+    "tags": ["合同审查", "主体核查", "企业查询"],
     "featured": false,
     "createdAt": "2026-05-22"
   }
