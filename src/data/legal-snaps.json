@@ -69,5 +69,28 @@
     "publishDate": "2026-05-22",
     "tags": ["测试", "示例"],
     "featured": false
+  },
+  {
+    "id": "ai-face-swap-copyright",
+    "title": "AI换脸，也可能侵权",
+    "category": "知识产权",
+    "cover": "/legal-snaps/ai-face-swap-copyright/01.jpg",
+    "description": "AI换脸技术涉及的著作权侵权问题及合规要点。",
+    "images": [
+      "/legal-snaps/ai-face-swap-copyright/01.jpg",
+      "/legal-snaps/ai-face-swap-copyright/02.jpg",
+      "/legal-snaps/ai-face-swap-copyright/03.jpg",
+      "/legal-snaps/ai-face-swap-copyright/04.jpg",
+      "/legal-snaps/ai-face-swap-copyright/05.jpg",
+      "/legal-snaps/ai-face-swap-copyright/06.jpg",
+      "/legal-snaps/ai-face-swap-copyright/07.jpg",
+      "/legal-snaps/ai-face-swap-copyright/08.jpg"
+    ],
+    "content": "摄影师古风短视频被小程序做成AI换脸模板，法院认定构成侵害作品信息网络传播权。核心要点：AI换脸后原视频实质内容仍保留，平台需尽合理注意义务。",
+    "sourceName": "",
+    "sourceUrl": "",
+    "publishDate": "2026-05-27",
+    "tags": ["AI换脸", "著作权", "侵权", "知识产权"],
+    "featured": true
   }
 ]
