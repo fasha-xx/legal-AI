@@ -1,5 +1,125 @@
 [
   {
+    "id": "news_20260528_b3d768d0",
+    "title": "申长雨在京会见俄罗斯联邦知识产权局局长尤里·祖博夫一行",
+    "url": "https://www.cnipa.gov.cn/art/2026/5/27/art_51_206554.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-05-28",
+    "fetchedAt": "2026-05-28T02:11:07.934Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
+    "id": "news_20260528_f5f2359e",
+    "title": "总书记的人民情怀 | “必须深刻把握中国式现代化对教育、科技、人才的需求”",
+    "url": "https://www.gov.cn/yaowen/liebiao/202605/content_7070448.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-05-28",
+    "fetchedAt": "2026-05-28T02:11:08.726Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260528_4501b0ba",
+    "title": "2026年前4个月全国规模以上工业企业利润增长18.2%",
+    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202605/content_7070401.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-05-28",
+    "fetchedAt": "2026-05-28T02:11:09.720Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260528_5055e176",
+    "title": "李强在浙江舟山宁波调研时强调：加快建设大宗商品资源配置枢纽 为统筹发展和安全提供可靠保障",
+    "url": "https://www.gov.cn/yaowen/liebiao/202605/content_7070418.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-05-28",
+    "fetchedAt": "2026-05-28T02:11:10.067Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260528_2630abd6",
+    "title": "《网信系统学习宣传贯彻党的二十届四中全会精神》专题",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/gzzt/ztzl/zt/esjszqh/A0920011216index_1.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-05-28",
+    "fetchedAt": "2026-05-28T02:11:11.963Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
+    "id": "news_20260528_70a3e40a",
+    "title": "《深入学习贯彻习近平总书记在网络安全和信息化工作座谈会上的重要讲话精神》专题",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/gzzt/ztzl/zt/tenth/A0920011307index_1.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-05-28",
+    "fetchedAt": "2026-05-28T02:11:12.354Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
+    "id": "news_20260528_203bf3d6",
+    "title": "总书记的人民情怀 | “必须深刻把握中国式现代化对教育、科技、人才的需求”",
+    "url": "https://www.miit.gov.cn/xwfb/mtbd/wzbd/art/2026/art_48a51c86ebba411781acb340703a1076.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-05-28",
+    "fetchedAt": "2026-05-28T02:11:15.491Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
+    "id": "news_20260528_824afb35",
+    "title": "2026金砖国家新工业革命伙伴关系论坛在厦门开幕",
+    "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_fb34c33be7554f329c84da4dce9582f9.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-05-28",
+    "fetchedAt": "2026-05-28T02:11:15.861Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
     "id": "news_20260527_24d21dcc",
     "title": "截至2026年4月底，我国累计发电装机容量39.9亿千瓦",
     "url": "https://www.gov.cn/zhengce/jiedu/tujie/202605/content_7070224.htm",
@@ -845,261 +965,6 @@
       "婴幼儿配方乳粉",
       "配方注册",
       "市场监管"
-    ]
-  },
-  {
-    "id": "news_20260520_1a38d9fe",
-    "title": "习近平同美国总统特朗普在中南海小范围会晤",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/499921.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "其他",
-    "date": "2026-05-20",
-    "fetchedAt": "2026-05-20T02:29:41.157Z",
-    "summary": "国家主席习近平在中南海与美国总统特朗普进行小范围会晤，就中美关系及共同关心的问题交换意见。",
-    "legalPoint": "中美外交互动对国际贸易、外商投资等法律实务具有宏观影响。",
-    "tags": [
-      "中美关系",
-      "外交动态",
-      "国际形势"
-    ]
-  },
-  {
-    "id": "news_20260520_be9fd10c",
-    "title": "习近平为美国总统特朗普举行欢迎宴会",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/499831.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "其他",
-    "date": "2026-05-20",
-    "fetchedAt": "2026-05-20T02:29:51.925Z",
-    "summary": "国家主席习近平为来访的美国总统特朗普举行欢迎宴会，属于外交活动新闻，非法律或司法领域资讯内容。",
-    "legalPoint": "该资讯为外交政治活动，不涉及法律实务关注点，建议关注最高人民法院发布的法律相关资讯。",
-    "tags": [
-      "外交活动",
-      "国际关系",
-      "元首会晤"
-    ]
-  },
-  {
-    "id": "news_20260520_afe41693",
-    "title": "习近平同美国总统特朗普举行会谈",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/499791.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "其他",
-    "date": "2026-05-20",
-    "fetchedAt": "2026-05-20T02:30:07.734Z",
-    "summary": "国家主席习近平同美国总统特朗普举行会谈，就中美关系及共同关心的问题交换意见。",
-    "legalPoint": "关注中美外交互动对跨境法律服务及国际商事争议解决的潜在影响。",
-    "tags": [
-      "中美关系",
-      "外交动态",
-      "国际合作"
-    ]
-  },
-  {
-    "id": "news_20260520_55aab004",
-    "title": "习近平同美国总统特朗普参观天坛",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/499821.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "其他",
-    "date": "2026-05-20",
-    "fetchedAt": "2026-05-20T02:30:13.488Z",
-    "summary": "国家主席习近平在北京天坛同美国总统特朗普进行参观交流，体现中美高层外交互动。",
-    "legalPoint": "此为元首外交活动，非法律领域动态，对律师实务无直接指导意义。",
-    "tags": [
-      "外交",
-      "元首外交",
-      "中美关系"
-    ]
-  },
-  {
-    "id": "news_20260520_d4f078de",
-    "title": "张军与中国作协主席、党组书记张宏森一行座谈 携手繁荣文学创作 ...",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/499661.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-05-20",
-    "fetchedAt": "2026-05-20T02:30:40.507Z",
-    "summary": "最高人民法院院长张军与中国作协主席张宏森一行座谈，双方就携手繁荣文学创作进行交流。座谈会旨在促进司法审判与文学艺术的结合。",
-    "legalPoint": "关注司法系统与文艺界的交流合作，了解法院在文化建设方面的工作方向。",
-    "tags": [
-      "司法动态",
-      "法院交流",
-      "文化建设"
-    ]
-  },
-  {
-    "id": "news_20260520_9faad794",
-    "title": "知识产权强国建设纲要（2021－2035年）",
-    "url": "https://www.cnipa.gov.cn/col/col2741/index.html",
-    "source": "国家知识产权局",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-05-20",
-    "fetchedAt": "2026-05-20T02:30:49.600Z",
-    "summary": "中共中央、国务院印发知识产权强国建设纲要（2021-2035年），部署知识产权创造、保护、运用、服务等六大方面重点任务，明确到2035年基本建成中国特色、世界水平的知识产权强国。",
-    "legalPoint": "知识产权业务迎来战略性发展机遇，企业需加强知识产权战略布局，律师应关注知识产权服务市场拓展。",
-    "tags": [
-      "知识产权强国",
-      "战略规划",
-      "知识产权保护"
-    ]
-  },
-  {
-    "id": "news_20260520_5e8f17d7",
-    "title": "“十四五”国家知识产权保护和运用规划",
-    "url": "https://www.cnipa.gov.cn/col/col2757/index.html",
-    "source": "国家知识产权局",
-    "sourceType": "html-list",
-    "category": "知识产权",
-    "date": "2026-05-20",
-    "fetchedAt": "2026-05-20T02:30:59.043Z",
-    "summary": "国家发布的“十四五“期间知识产权保护和运用工作规划，明确未来五年知识产权工作的指导思想、基本原则、发展目标和重点任务。",
-    "legalPoint": "为知识产权业务开展提供政策方向，企业知识产权战略布局需参照规划要求调整。",
-    "tags": [
-      "知识产权",
-      "十四五规划",
-      "政策指引"
-    ]
-  },
-  {
-    "id": "news_20260520_ff02d6bf",
-    "title": "国家知识产权局党组理论学习中心组开展树立和践行正确政绩观专题学习研讨",
-    "url": "https://www.cnipa.gov.cn/art/2026/4/15/art_51_205790.html",
-    "source": "国家知识产权局",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-05-20",
-    "fetchedAt": "2026-05-20T02:31:09.984Z",
-    "summary": "国家知识产权局党组开展树立和践行正确政绩观专题学习研讨，强调坚持以人民为中心，推动知识产权事业高质量发展。",
-    "legalPoint": "党政机关政绩观学习体现政策导向，律师办理知识产权案件时应关注政策导向对执法实践的影响。",
-    "tags": [
-      "知识产权",
-      "政绩观",
-      "政策导向"
-    ]
-  },
-  {
-    "id": "news_20260520_43d9810d",
-    "title": "2026年全国知识产权宣传周主场活动在京举行",
-    "url": "https://www.cnipa.gov.cn/art/2026/4/20/art_51_205942.html",
-    "source": "国家知识产权局",
-    "sourceType": "html-list",
-    "category": "知识产权",
-    "date": "2026-05-20",
-    "fetchedAt": "2026-05-20T02:31:20.835Z",
-    "summary": "国家知识产权局在北京举办2026年全国知识产权宣传周主场活动，旨在提升全社会知识产权保护意识，推动知识产权事业发展。",
-    "legalPoint": "关注年度知识产权宣传重点方向，有助于律师开展知识产权普法宣传和业务拓展。",
-    "tags": [
-      "知识产权保护",
-      "宣传活动",
-      "普法教育"
-    ]
-  },
-  {
-    "id": "news_20260520_94a797c9",
-    "title": "2026中国知识产权保护高层论坛在京举办",
-    "url": "https://www.cnipa.gov.cn/art/2026/4/22/art_51_205968.html",
-    "source": "国家知识产权局",
-    "sourceType": "html-list",
-    "category": "知识产权",
-    "date": "2026-05-20",
-    "fetchedAt": "2026-05-20T02:31:38.302Z",
-    "summary": "2026中国知识产权保护高层论坛在北京举办，由国家知识产权局主办，聚焦知识产权保护新举措与未来发展方向。",
-    "legalPoint": "通过论坛可了解知识产权保护政策动向与执法趋势，为律师服务科技企业客户提供参考。",
-    "tags": [
-      "知识产权保护",
-      "政策动态",
-      "执法趋势"
-    ]
-  },
-  {
-    "id": "news_20260520_b47accd9",
-    "title": "习近平文化思想引领旅游强国建设",
-    "url": "https://www.gov.cn/yaowen/liebiao/202605/content_7069398.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-05-20",
-    "fetchedAt": "2026-05-20T02:31:47.001Z",
-    "summary": "习近平文化思想强调以文塑旅、以旅彰文，推进文化和旅游深度融合发展，助力旅游强国建设。",
-    "legalPoint": "文化旅游融合发展为律师带来文化产业、旅游业投资并购及合规审查等新型法律服务机遇。",
-    "tags": [
-      "文化强国",
-      "文旅融合",
-      "旅游产业"
-    ]
-  },
-  {
-    "id": "news_20260520_e7d418b6",
-    "title": "习近平：做强做优做大实体经济",
-    "url": "https://www.gov.cn/yaowen/liebiao/202605/content_7068939.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-05-20",
-    "fetchedAt": "2026-05-20T02:32:00.599Z",
-    "summary": "国家领导人强调要进一步夯实实体经济根基，推动制造业高端化、智能化、绿色化发展，支持企业创新升级，提升产业链供应链韧性和安全水平。",
-    "legalPoint": "关注实体经济政策导向，挖掘企业法律服务需求，关注制造业升级、产业链安全等领域的合规咨询机会。",
-    "tags": [
-      "实体经济",
-      "制造业升级",
-      "企业法律服务"
-    ]
-  },
-  {
-    "id": "news_20260520_d3556bcc",
-    "title": "习近平同美国总统特朗普在中南海小范围会晤",
-    "url": "https://www.gov.cn/yaowen/liebiao/202605/content_7068921.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "其他",
-    "date": "2026-05-20",
-    "fetchedAt": "2026-05-20T02:32:08.406Z",
-    "summary": "中美元首在北京中南海举行小范围会晤，就中美关系及共同关心问题交换意见，属于外交层面高层交流。",
-    "legalPoint": "元首外交为中美关系定调，律师需关注其对跨境投资、贸易及合规领域的间接政策信号。",
-    "tags": [
-      "中美关系",
-      "元首外交",
-      "国际经贸"
-    ]
-  },
-  {
-    "id": "news_20260520_07a3b3b9",
-    "title": "经济数据速览：7组数字看1—4月份中国经济",
-    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202605/content_7069278.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-05-20",
-    "fetchedAt": "2026-05-20T02:32:29.741Z",
-    "summary": "国务院新闻办公室发布1-4月份中国经济运行数据，涵盖投资、消费、外贸等领域宏观指标，用图表形式直观展示经济走势。",
-    "legalPoint": "从律师角度关注宏观经济数据，了解经济运行环境，有助于判断商业交易风险和市场趋势。",
-    "tags": [
-      "宏观经济",
-      "经济数据",
-      "政策解读"
-    ]
-  },
-  {
-    "id": "news_20260520_1b706e47",
-    "title": "李强在北京调研时强调：推动人工智能与先进制造业深度融合 加快培育塑造经济发展新动能新优势",
-    "url": "https://www.gov.cn/yaowen/liebiao/202605/content_7069329.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-05-20",
-    "fetchedAt": "2026-05-20T02:32:41.740Z",
-    "summary": "李强总理在北京调研时强调推动人工智能与先进制造业深度融合，加快培育经济发展新动能新优势，为相关产业发展指明方向。",
-    "legalPoint": "AI与制造业融合政策为相关产业法律服务提供方向指引，律师可关注智能制造领域的合规需求和监管趋势。",
-    "tags": [
-      "人工智能",
-      "先进制造业",
-      "政策导向"
     ]
   }
 ]
