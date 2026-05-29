@@ -1,5 +1,140 @@
 [
   {
+    "id": "news_20260529_9faad794",
+    "title": "知识产权强国建设纲要（2021－2035年）",
+    "url": "https://www.cnipa.gov.cn/col/col2741/index.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-05-29",
+    "fetchedAt": "2026-05-29T02:14:31.782Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
+    "id": "news_20260529_5e8f17d7",
+    "title": "“十四五”国家知识产权保护和运用规划",
+    "url": "https://www.cnipa.gov.cn/col/col2757/index.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-05-29",
+    "fetchedAt": "2026-05-29T02:14:32.710Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
+    "id": "news_20260529_ff02d6bf",
+    "title": "国家知识产权局党组理论学习中心组开展树立和践行正确政绩观专题学习研讨",
+    "url": "https://www.cnipa.gov.cn/art/2026/4/15/art_51_205790.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-05-29",
+    "fetchedAt": "2026-05-29T02:14:33.018Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
+    "id": "news_20260529_43d9810d",
+    "title": "2026年全国知识产权宣传周主场活动在京举行",
+    "url": "https://www.cnipa.gov.cn/art/2026/4/20/art_51_205942.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-05-29",
+    "fetchedAt": "2026-05-29T02:14:33.311Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
+    "id": "news_20260529_14579831",
+    "title": "习近平复信参加“共航蔚蓝：中美青年友谊行”活动的两国学生",
+    "url": "https://www.gov.cn/yaowen/liebiao/202605/content_7070492.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-05-29",
+    "fetchedAt": "2026-05-29T02:14:34.335Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260529_1298861f",
+    "title": "《城市更新“十五五”规划》发布",
+    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202605/content_7070581.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-05-29",
+    "fetchedAt": "2026-05-29T02:14:34.634Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260529_65cadef4",
+    "title": "习近平复信参加“共航蔚蓝：中美青年友谊行”活动的两国学生",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-05/28/c_1781710384551080.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-05-29",
+    "fetchedAt": "2026-05-29T02:14:36.566Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
+    "id": "news_20260529_7d997a45",
+    "title": "习近平复信参加“共航蔚蓝：中美青年友谊行”活动的两国学生",
+    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_165e2b7ca9cc4d54b89051941ff39ba5.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-05-29",
+    "fetchedAt": "2026-05-29T02:14:39.116Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
+    "id": "news_20260529_27edb616",
+    "title": "李乐成主持召开全国新能源汽车动力电池回收利用工作专班第二次会议",
+    "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_2acd23983b00410ebb19a8dd460fa6b6.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-05-29",
+    "fetchedAt": "2026-05-29T02:14:39.993Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
     "id": "news_20260528_b3d768d0",
     "title": "申长雨在京会见俄罗斯联邦知识产权局局长尤里·祖博夫一行",
     "url": "https://www.cnipa.gov.cn/art/2026/5/27/art_51_206554.html",
