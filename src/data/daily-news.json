@@ -1,5 +1,80 @@
 [
   {
+    "id": "news_20260608_4f258bcc",
+    "title": "习近平离京对朝鲜进行国事访问",
+    "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7071418.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-06-08",
+    "fetchedAt": "2026-06-08T02:43:32.125Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260608_7cc831e5",
+    "title": "习近平在朝鲜媒体发表署名文章",
+    "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7071403.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-06-08",
+    "fetchedAt": "2026-06-08T02:43:32.965Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260608_b9b8b6ff",
+    "title": "共同谱写中朝友好崭新篇章——写在习近平总书记对朝鲜进行国事访问之际",
+    "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7071340.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-06-08",
+    "fetchedAt": "2026-06-08T02:43:33.305Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260608_274ba2f9",
+    "title": "习近平离京对朝鲜进行国事访问",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-06/08/c_1782657785430497.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-06-08",
+    "fetchedAt": "2026-06-08T02:43:35.509Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
+    "id": "news_20260608_7ee0e825",
+    "title": "习近平在朝鲜媒体发表署名文章",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-06/08/c_1782659972221799.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-06-08",
+    "fetchedAt": "2026-06-08T02:43:35.893Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
     "id": "news_20260607_93e6f0c6",
     "title": "张军参加最高法办公厅党总支树立和践行正确政绩观学习教育党员大...",
     "url": "https://www.court.gov.cn/zixun/xiangqing/502141.html",
@@ -597,141 +672,6 @@
     "legalPoint": "",
     "tags": [
       "网信中国"
-    ]
-  },
-  {
-    "id": "news_20260531_ae806c79",
-    "title": "习近平同俄罗斯总统普京会谈",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/500501.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-05-31",
-    "fetchedAt": "2026-05-31T02:36:07.879Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20260531_750018ef",
-    "title": "习近平总书记重要论述指引科技强国建设",
-    "url": "https://www.gov.cn/yaowen/liebiao/202605/content_7070694.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-05-31",
-    "fetchedAt": "2026-05-31T02:36:09.717Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260531_9a25d661",
-    "title": "习近平同埃及总统塞西就中埃建交70周年互致贺电",
-    "url": "https://www.gov.cn/yaowen/liebiao/202605/content_7070675.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-05-31",
-    "fetchedAt": "2026-05-31T02:36:10.400Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260531_5cdf3c8f",
-    "title": "习近平同埃及总统塞西就中埃建交70周年互致贺电",
-    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-05/30/c_1781897503470630.htm",
-    "source": "网信中国",
-    "sourceType": "html-list",
-    "category": "AI 与数据合规",
-    "date": "2026-05-31",
-    "fetchedAt": "2026-05-31T02:36:12.123Z",
-    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "网信中国"
-    ]
-  },
-  {
-    "id": "news_20260531_ef9f84f5",
-    "title": "缺陷产品 召回查询",
-    "url": "http://qxzh.samr.gov.cn/qxzh/qxxxcx/web.jsp",
-    "source": "市场监管总局",
-    "sourceType": "html-list",
-    "category": "企业合规",
-    "date": "2026-05-31",
-    "fetchedAt": "2026-05-31T02:36:15.662Z",
-    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "市场监管总局"
-    ]
-  },
-  {
-    "id": "news_20260531_2c3826d7",
-    "title": "缺陷线索 报告",
-    "url": "http://qxzh.samr.gov.cn/qxzh/qxxxbg/web.jsp?sour=samr",
-    "source": "市场监管总局",
-    "sourceType": "html-list",
-    "category": "企业合规",
-    "date": "2026-05-31",
-    "fetchedAt": "2026-05-31T02:36:16.400Z",
-    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "市场监管总局"
-    ]
-  },
-  {
-    "id": "news_20260531_ca2c3b5e",
-    "title": "国产（进口）保健食品注册管理信息系统",
-    "url": "https://zwfw.samr.gov.cn/guideDetail?id=22d18e7b4dc749fa9d1a52d172c2b3f8",
-    "source": "市场监管总局",
-    "sourceType": "html-list",
-    "category": "企业合规",
-    "date": "2026-05-31",
-    "fetchedAt": "2026-05-31T02:36:16.713Z",
-    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "市场监管总局"
-    ]
-  },
-  {
-    "id": "news_20260531_cea4f50a",
-    "title": "特殊医学用途配方食品注册申请系统",
-    "url": "https://zwfw.samr.gov.cn/guideDetail?id=22d18e7b4dc749fa9d1a52d172c2b2f8",
-    "source": "市场监管总局",
-    "sourceType": "html-list",
-    "category": "企业合规",
-    "date": "2026-05-31",
-    "fetchedAt": "2026-05-31T02:36:17.009Z",
-    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "市场监管总局"
-    ]
-  },
-  {
-    "id": "news_20260531_a33a7030",
-    "title": "婴幼儿配方乳粉产品配方注册申请系统",
-    "url": "https://zwfw.samr.gov.cn/guideDetail?id=22d18e7b4dc749fa9d1a52d172c2b1f8",
-    "source": "市场监管总局",
-    "sourceType": "html-list",
-    "category": "企业合规",
-    "date": "2026-05-31",
-    "fetchedAt": "2026-05-31T02:36:17.296Z",
-    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "市场监管总局"
     ]
   }
 ]
