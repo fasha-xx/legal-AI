@@ -1,5 +1,125 @@
 [
   {
+    "id": "news_20260609_b393f1e7",
+    "title": "习近平同金正恩举行会谈",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/502281.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-06-09",
+    "fetchedAt": "2026-06-09T02:10:03.554Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20260609_d11801ab",
+    "title": "习近平出席金正恩举行的欢迎仪式",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/502271.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-06-09",
+    "fetchedAt": "2026-06-09T02:10:04.672Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20260609_8fb1cac4",
+    "title": "习近平出席金正恩举行的欢迎宴会",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/502291.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-06-09",
+    "fetchedAt": "2026-06-09T02:10:05.023Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20260609_7b7e3c8d",
+    "title": "习近平同金正恩举行会谈",
+    "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7071471.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-06-09",
+    "fetchedAt": "2026-06-09T02:10:07.103Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260609_a2ffc61e",
+    "title": "习近平抵达平壤",
+    "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7071431.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-06-09",
+    "fetchedAt": "2026-06-09T02:10:07.504Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260609_2ceb27c4",
+    "title": "出席金正恩举行的欢迎仪式",
+    "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7071434.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-06-09",
+    "fetchedAt": "2026-06-09T02:10:07.847Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260609_c29db687",
+    "title": "习近平和彭丽媛观看朝鲜专场文艺演出",
+    "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7071529.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-06-09",
+    "fetchedAt": "2026-06-09T02:10:08.185Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260609_23612e16",
+    "title": "习近平出席金正恩举行的欢迎宴会",
+    "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7071505.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-06-09",
+    "fetchedAt": "2026-06-09T02:10:08.529Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
     "id": "news_20260608_4f258bcc",
     "title": "习近平离京对朝鲜进行国事访问",
     "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7071418.htm",
@@ -627,51 +747,6 @@
     "legalPoint": "",
     "tags": [
       "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260601_0b9fbb49",
-    "title": "习近平回信勉励中共一大纪念馆、南湖革命纪念馆少先队红领巾讲解员",
-    "url": "https://www.gov.cn/yaowen/liebiao/202605/content_7070715.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-06-01",
-    "fetchedAt": "2026-06-01T02:45:39.994Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260601_dc041243",
-    "title": "《求是》杂志发表习近平总书记重要文章《前瞻布局和发展未来产业》",
-    "url": "https://www.gov.cn/yaowen/liebiao/202605/content_7070713.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-06-01",
-    "fetchedAt": "2026-06-01T02:45:41.094Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260601_ac90586d",
-    "title": "习近平回信勉励中共一大纪念馆、南湖革命纪念馆少先队红领巾讲解员",
-    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-05/31/c_1781994526357348.htm",
-    "source": "网信中国",
-    "sourceType": "html-list",
-    "category": "AI 与数据合规",
-    "date": "2026-06-01",
-    "fetchedAt": "2026-06-01T02:45:42.962Z",
-    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "网信中国"
     ]
   }
 ]
