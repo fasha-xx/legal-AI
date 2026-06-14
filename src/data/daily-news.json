@@ -1,5 +1,20 @@
 [
   {
+    "id": "news_20260614_0820d6cc",
+    "title": "2026年1至5月全国铁路发送旅客超19亿人次",
+    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202606/content_7072008.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-06-14",
+    "fetchedAt": "2026-06-14T02:44:17.393Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
     "id": "news_20260613_d9010287",
     "title": "张军会见泰国大理院院长阿迪萨·丹滴翁",
     "url": "https://www.court.gov.cn/zixun/xiangqing/502691.html",
@@ -908,126 +923,6 @@
     "category": "政策法规",
     "date": "2026-06-07",
     "fetchedAt": "2026-06-07T02:39:38.168Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20260606_0e5147c7",
-    "title": "习近平同老挝人革党中央总书记、国家主席通伦会谈",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/502051.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-06-06",
-    "fetchedAt": "2026-06-06T02:13:24.717Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20260606_b3d768d0",
-    "title": "申长雨在京会见俄罗斯联邦知识产权局局长尤里·祖博夫一行",
-    "url": "https://www.cnipa.gov.cn/art/2026/5/27/art_51_206554.html",
-    "source": "国家知识产权局",
-    "sourceType": "html-list",
-    "category": "知识产权",
-    "date": "2026-06-06",
-    "fetchedAt": "2026-06-06T02:13:26.431Z",
-    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "国家知识产权局"
-    ]
-  },
-  {
-    "id": "news_20260606_df541206",
-    "title": "习近平同老挝人民革命党中央总书记、国家主席通伦举行会谈",
-    "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7071268.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-06-06",
-    "fetchedAt": "2026-06-06T02:13:28.275Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260606_17337e1d",
-    "title": "中华人民共和国和老挝人民民主共和国关于构建新时代全天候中老命运共同体的联合声明",
-    "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7071330.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-06-06",
-    "fetchedAt": "2026-06-06T02:13:29.395Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260606_91e5cb97",
-    "title": "2026年前4个月我国服务进出口总额同比增长4.9%",
-    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202606/content_7071301.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-06-06",
-    "fetchedAt": "2026-06-06T02:13:29.778Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260606_7a680864",
-    "title": "习近平将对朝鲜民主主义人民共和国进行国事访问",
-    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_1d5bdd6a60b046d6bc7e9c10e212039c.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-06-06",
-    "fetchedAt": "2026-06-06T02:13:39.415Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20260606_c6820058",
-    "title": "学习贯彻党的二十届四中全会精神",
-    "url": "https://www.miit.gov.cn/ztzl/rdzt/xxgcddesjszqhjs0802/index.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-06-06",
-    "fetchedAt": "2026-06-06T02:13:40.340Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20260606_48b3da3e",
-    "title": "第四次上海合作组织成员国工业部长会议在吉尔吉斯斯坦乔尔蓬阿塔市召开",
-    "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_507295e27b0c457889f9622a0e25f26b.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-06-06",
-    "fetchedAt": "2026-06-06T02:13:40.683Z",
     "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
     "legalPoint": "",
     "tags": [
