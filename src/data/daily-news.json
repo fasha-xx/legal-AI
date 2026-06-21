@@ -1,5 +1,20 @@
 [
   {
+    "id": "news_20260621_a42781e7",
+    "title": "国家知识产权局召开党组理论学习中心组专题学习会",
+    "url": "https://www.cnipa.gov.cn/art/2026/6/2/art_51_206620.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-06-21",
+    "fetchedAt": "2026-06-21T02:47:54.813Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
     "id": "news_20260619_f1b14222",
     "title": "习近平出席金正恩举行的欢送仪式",
     "url": "https://www.court.gov.cn/zixun/xiangqing/502451.html",
@@ -612,81 +627,6 @@
     "legalPoint": "",
     "tags": [
       "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260613_d9010287",
-    "title": "张军会见泰国大理院院长阿迪萨·丹滴翁",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/502691.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-06-13",
-    "fetchedAt": "2026-06-13T02:32:56.898Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20260613_7e2911f7",
-    "title": "习近平文化思想指引我国文化遗产保护传承工作高质量发展",
-    "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7071986.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-06-13",
-    "fetchedAt": "2026-06-13T02:32:59.552Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260613_feb8b045",
-    "title": "文脉长存 瑰宝长青——在习近平文化思想引领下文化和自然遗产保护传承利用工作开创新局面",
-    "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7071972.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-06-13",
-    "fetchedAt": "2026-06-13T02:33:00.539Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260613_c156e9f6",
-    "title": "《习近平外交文选》第一卷、第二卷出版发行",
-    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_c557dc510a2b4a1698e84f542f36df06.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-06-13",
-    "fetchedAt": "2026-06-13T02:33:04.559Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20260613_cc1b8295",
-    "title": "| 主要篇目介绍",
-    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_28cbdcaa792a450784723179e8802a72.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-06-13",
-    "fetchedAt": "2026-06-13T02:33:05.450Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
     ]
   }
 ]
