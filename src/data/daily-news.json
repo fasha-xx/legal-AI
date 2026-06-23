@@ -1,5 +1,95 @@
 [
   {
+    "id": "news_20260623_d9010287",
+    "title": "张军会见泰国大理院院长阿迪萨·丹滴翁",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/502691.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-06-23",
+    "fetchedAt": "2026-06-23T02:25:49.797Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20260623_cdd8228a",
+    "title": "总书记的人民情怀 | “把党的政治建设作为党的根本性建设”",
+    "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7072968.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-06-23",
+    "fetchedAt": "2026-06-23T02:25:51.849Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260623_8edbdc95",
+    "title": "端午假期交通出行人数近6.48亿人次",
+    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202606/content_7072925.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-06-23",
+    "fetchedAt": "2026-06-23T02:25:53.166Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260623_6a310107",
+    "title": "李强在辽宁大连调研时强调：大力发展高端装备制造业 加快建设现代化产业体系",
+    "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7072927.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-06-23",
+    "fetchedAt": "2026-06-23T02:25:53.516Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260623_46335bcf",
+    "title": "总书记的人民情怀 | “必须把我们党建设好、建设强”",
+    "url": "https://www.miit.gov.cn/xwfb/mtbd/wzbd/art/2026/art_0a62532d94114c39a3dc29fd964a01e3.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-06-23",
+    "fetchedAt": "2026-06-23T02:25:56.404Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
+    "id": "news_20260623_acf76ff7",
+    "title": "李乐成在浙江调研新兴产业和未来产业发展",
+    "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_c585def8b8fc48e98cc015d9015c845e.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-06-23",
+    "fetchedAt": "2026-06-23T02:25:56.782Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
     "id": "news_20260622_11752d25",
     "title": "总书记的人民情怀 | “必须把我们党建设好、建设强”",
     "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7072818.htm",
@@ -627,21 +717,6 @@
     "legalPoint": "",
     "tags": [
       "网信中国"
-    ]
-  },
-  {
-    "id": "news_20260615_b3d768d0",
-    "title": "申长雨在京会见俄罗斯联邦知识产权局局长尤里·祖博夫一行",
-    "url": "https://www.cnipa.gov.cn/art/2026/5/27/art_51_206554.html",
-    "source": "国家知识产权局",
-    "sourceType": "html-list",
-    "category": "知识产权",
-    "date": "2026-06-15",
-    "fetchedAt": "2026-06-15T02:48:49.931Z",
-    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "国家知识产权局"
     ]
   }
 ]
