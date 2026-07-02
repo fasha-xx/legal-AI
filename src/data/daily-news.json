@@ -1,5 +1,200 @@
 [
   {
+    "id": "news_20260702_1901fe12",
+    "title": "庆祝中国共产党成立105周年大会在京隆重举行",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/504551.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-07-02",
+    "fetchedAt": "2026-07-02T02:27:05.093Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20260702_3a33cbc1",
+    "title": "庆祝中国共产党成立105周年大会在京隆重举行 习近平发表重要讲话",
+    "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7073947.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-07-02",
+    "fetchedAt": "2026-07-02T02:27:12.778Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260702_382bdb08",
+    "title": "庆祝中国共产党成立105周年大会在京隆重举行",
+    "url": "https://www.gov.cn/home/toutu/202607/content_7073994.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-07-02",
+    "fetchedAt": "2026-07-02T02:27:13.547Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260702_5dc8b4a1",
+    "title": "习近平致电祝贺德拉埃斯普列亚当选哥伦比亚总统",
+    "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7073985.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-07-02",
+    "fetchedAt": "2026-07-02T02:27:13.836Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260702_69361e91",
+    "title": "中共中央政治局召开会议 研究部署防汛抗旱工作中共中央总书记习近平主持会议",
+    "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7073773.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-07-02",
+    "fetchedAt": "2026-07-02T02:27:14.227Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260702_e7620767",
+    "title": "庆祝中国共产党成立105周年大会在京隆重举行 习近平发表重要讲话",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-07/01/c_1784649697122071.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-07-02",
+    "fetchedAt": "2026-07-02T02:27:16.036Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
+    "id": "news_20260702_14b02f69",
+    "title": "习近平为“七一勋章”获得者颁授勋章",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-07/01/c_1784650640262556.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-07-02",
+    "fetchedAt": "2026-07-02T02:27:16.328Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
+    "id": "news_20260702_80fb780f",
+    "title": "习近平等为受表彰的全国“两优一先”代表颁奖",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-07/01/c_1784650640258352.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-07-02",
+    "fetchedAt": "2026-07-02T02:27:16.659Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
+    "id": "news_20260702_7076be78",
+    "title": "中共中央关于授予“七一勋章”的决定",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-07/01/c_1784650662948160.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-07-02",
+    "fetchedAt": "2026-07-02T02:27:16.950Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
+    "id": "news_20260702_6cadefe7",
+    "title": "庆祝中国共产党成立105周年大会在京隆重举行 习近平发表重要讲话",
+    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_19c16f3681954630ac381c699926bde7.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-07-02",
+    "fetchedAt": "2026-07-02T02:27:18.745Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
+    "id": "news_20260702_6753c3d7",
+    "title": "| 中共中央关于授予“七一勋章”的决定",
+    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_176bc47c95f34073ae622e2d47c651da.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-07-02",
+    "fetchedAt": "2026-07-02T02:27:19.039Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
+    "id": "news_20260702_dbc6af4c",
+    "title": "庆祝中国共产党成立105周年大会在京隆重举行",
+    "url": "http://www.miit.gov.cn/xwfb/szyw/art/2026/art_19c16f3681954630ac381c699926bde7.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-07-02",
+    "fetchedAt": "2026-07-02T02:27:19.369Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
+    "id": "news_20260702_949a8d53",
+    "title": "李乐成主持召开全国高新技术企业认定管理工作领导小组会议",
+    "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_6b6de729cca04d4f81fdc701b90c0c9d.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-07-02",
+    "fetchedAt": "2026-07-02T02:27:19.661Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
     "id": "news_20260701_3dd3be3f",
     "title": "习近平为“七一勋章”获得者颁授勋章",
     "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7073901.htm",
@@ -807,51 +1002,6 @@
     "legalPoint": "",
     "tags": [
       "工信部"
-    ]
-  },
-  {
-    "id": "news_20260624_b3d768d0",
-    "title": "申长雨在京会见俄罗斯联邦知识产权局局长尤里·祖博夫一行",
-    "url": "https://www.cnipa.gov.cn/art/2026/5/27/art_51_206554.html",
-    "source": "国家知识产权局",
-    "sourceType": "html-list",
-    "category": "知识产权",
-    "date": "2026-06-24",
-    "fetchedAt": "2026-06-24T02:27:14.822Z",
-    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "国家知识产权局"
-    ]
-  },
-  {
-    "id": "news_20260624_182a8a3d",
-    "title": "《习近平党建文选》第一卷、第二卷出版发行",
-    "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7073073.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-06-24",
-    "fetchedAt": "2026-06-24T02:27:15.710Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260624_1071e22d",
-    "title": "主要篇目介绍",
-    "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7073084.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-06-24",
-    "fetchedAt": "2026-06-24T02:27:16.832Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
     ]
   }
 ]
