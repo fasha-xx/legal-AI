@@ -1,5 +1,65 @@
 [
   {
+    "id": "news_20260703_7c2dad38",
+    "title": "最高法召开人民法院党的建设工作会议 张军指出 树立和践行正确政...",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/504721.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-07-03",
+    "fetchedAt": "2026-07-03T02:02:12.426Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20260703_b3d768d0",
+    "title": "申长雨在京会见俄罗斯联邦知识产权局局长尤里·祖博夫一行",
+    "url": "https://www.cnipa.gov.cn/art/2026/5/27/art_51_206554.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-07-03",
+    "fetchedAt": "2026-07-03T02:02:14.133Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
+    "id": "news_20260703_63fce8c7",
+    "title": "微观察·“中国共产党为什么能的关键密码”",
+    "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7074159.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-07-03",
+    "fetchedAt": "2026-07-03T02:02:15.270Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260703_0b54e95d",
+    "title": "工业和信息化部召开庆祝中国共产党成立105周年党员大会暨学习教育专题党课报告会",
+    "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_a8508e824aed4921b8110fd5f1dee0a9.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-07-03",
+    "fetchedAt": "2026-07-03T02:02:19.272Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
     "id": "news_20260702_1901fe12",
     "title": "庆祝中国共产党成立105周年大会在京隆重举行",
     "url": "https://www.court.gov.cn/zixun/xiangqing/504551.html",
@@ -818,186 +878,6 @@
     "category": "政策法规",
     "date": "2026-06-26",
     "fetchedAt": "2026-06-26T02:31:03.483Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20260625_9faad794",
-    "title": "知识产权强国建设纲要（2021－2035年）",
-    "url": "https://www.cnipa.gov.cn/col/col2741/index.html",
-    "source": "国家知识产权局",
-    "sourceType": "html-list",
-    "category": "知识产权",
-    "date": "2026-06-25",
-    "fetchedAt": "2026-06-25T02:29:04.443Z",
-    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "国家知识产权局"
-    ]
-  },
-  {
-    "id": "news_20260625_5e8f17d7",
-    "title": "“十四五”国家知识产权保护和运用规划",
-    "url": "https://www.cnipa.gov.cn/col/col2757/index.html",
-    "source": "国家知识产权局",
-    "sourceType": "html-list",
-    "category": "知识产权",
-    "date": "2026-06-25",
-    "fetchedAt": "2026-06-25T02:29:05.361Z",
-    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "国家知识产权局"
-    ]
-  },
-  {
-    "id": "news_20260625_ff02d6bf",
-    "title": "国家知识产权局党组理论学习中心组开展树立和践行正确政绩观专题学习研讨",
-    "url": "https://www.cnipa.gov.cn/art/2026/4/15/art_51_205790.html",
-    "source": "国家知识产权局",
-    "sourceType": "html-list",
-    "category": "知识产权",
-    "date": "2026-06-25",
-    "fetchedAt": "2026-06-25T02:29:05.700Z",
-    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "国家知识产权局"
-    ]
-  },
-  {
-    "id": "news_20260625_3a390eb7",
-    "title": "习近平在山东德州考察",
-    "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7073194.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-06-25",
-    "fetchedAt": "2026-06-25T02:29:06.679Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260625_d0df34ec",
-    "title": "截至2026年5月底我国电动汽车充电基础设施达2249.7万个",
-    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202606/content_7073207.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-06-25",
-    "fetchedAt": "2026-06-25T02:29:06.972Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260625_ef3aeba5",
-    "title": "李强出席2026年夏季达沃斯论坛开幕式并致辞",
-    "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7073191.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-06-25",
-    "fetchedAt": "2026-06-25T02:29:07.274Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260625_b8926ccf",
-    "title": "出席工商界代表座谈会",
-    "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7073204.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-06-25",
-    "fetchedAt": "2026-06-25T02:29:07.602Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260625_f554f6e7",
-    "title": "习近平在山东德州考察",
-    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-06/24/c_1784044061421958.htm",
-    "source": "网信中国",
-    "sourceType": "html-list",
-    "category": "AI 与数据合规",
-    "date": "2026-06-25",
-    "fetchedAt": "2026-06-25T02:29:09.130Z",
-    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "网信中国"
-    ]
-  },
-  {
-    "id": "news_20260625_2630abd6",
-    "title": "《网信系统学习宣传贯彻党的二十届四中全会精神》专题",
-    "url": "https://www.cac.gov.cn//www.cac.gov.cn/gzzt/ztzl/zt/esjszqh/A0920011216index_1.htm",
-    "source": "网信中国",
-    "sourceType": "html-list",
-    "category": "AI 与数据合规",
-    "date": "2026-06-25",
-    "fetchedAt": "2026-06-25T02:29:09.430Z",
-    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "网信中国"
-    ]
-  },
-  {
-    "id": "news_20260625_70a3e40a",
-    "title": "《深入学习贯彻习近平总书记在网络安全和信息化工作座谈会上的重要讲话精神》专题",
-    "url": "https://www.cac.gov.cn//www.cac.gov.cn/gzzt/ztzl/zt/tenth/A0920011307index_1.htm",
-    "source": "网信中国",
-    "sourceType": "html-list",
-    "category": "AI 与数据合规",
-    "date": "2026-06-25",
-    "fetchedAt": "2026-06-25T02:29:09.731Z",
-    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "网信中国"
-    ]
-  },
-  {
-    "id": "news_20260625_01458cf9",
-    "title": "习近平在山东德州考察",
-    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_9dc3e815bd4c4f8ba740cca36feeb983.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-06-25",
-    "fetchedAt": "2026-06-25T02:29:11.345Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20260625_e91d3868",
-    "title": "习近平在山东德州考察",
-    "url": "http://www.miit.gov.cn/xwfb/szyw/art/2026/art_9dc3e815bd4c4f8ba740cca36feeb983.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-06-25",
-    "fetchedAt": "2026-06-25T02:29:11.640Z",
     "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
     "legalPoint": "",
     "tags": [
