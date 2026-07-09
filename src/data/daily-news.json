@@ -1,5 +1,155 @@
 [
   {
+    "id": "news_20260709_ec423eca",
+    "title": "国家科学技术奖励大会两院院士大会中国科协第十一次全国代表大会...",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/505311.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-07-09",
+    "fetchedAt": "2026-07-09T02:01:40.012Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20260709_20c0488f",
+    "title": "庆祝中国共产党成立105周年音乐会在京举行",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/504281.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-07-09",
+    "fetchedAt": "2026-07-09T02:01:40.968Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20260709_a42781e7",
+    "title": "国家知识产权局召开党组理论学习中心组专题学习会",
+    "url": "https://www.cnipa.gov.cn/art/2026/6/2/art_51_206620.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-07-09",
+    "fetchedAt": "2026-07-09T02:01:42.819Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
+    "id": "news_20260709_28938d45",
+    "title": "习近平出席国家科学技术奖励大会两院院士大会中国科协第十一次全国代表大会并发表重要讲话",
+    "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7074689.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-07-09",
+    "fetchedAt": "2026-07-09T02:01:43.653Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260709_5c254069",
+    "title": "《习近平关于基层工作方法的重要论述学习读本》出版发行",
+    "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7074670.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-07-09",
+    "fetchedAt": "2026-07-09T02:01:44.001Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260709_ef9f84f5",
+    "title": "缺陷产品 召回查询",
+    "url": "http://qxzh.samr.gov.cn/qxzh/qxxxcx/web.jsp",
+    "source": "市场监管总局",
+    "sourceType": "html-list",
+    "category": "企业合规",
+    "date": "2026-07-09",
+    "fetchedAt": "2026-07-09T02:01:49.242Z",
+    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "市场监管总局"
+    ]
+  },
+  {
+    "id": "news_20260709_2c3826d7",
+    "title": "缺陷线索 报告",
+    "url": "http://qxzh.samr.gov.cn/qxzh/qxxxbg/web.jsp?sour=samr",
+    "source": "市场监管总局",
+    "sourceType": "html-list",
+    "category": "企业合规",
+    "date": "2026-07-09",
+    "fetchedAt": "2026-07-09T02:01:50.378Z",
+    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "市场监管总局"
+    ]
+  },
+  {
+    "id": "news_20260709_ca2c3b5e",
+    "title": "国产（进口）保健食品注册管理信息系统",
+    "url": "https://zwfw.samr.gov.cn/guideDetail?id=22d18e7b4dc749fa9d1a52d172c2b3f8",
+    "source": "市场监管总局",
+    "sourceType": "html-list",
+    "category": "企业合规",
+    "date": "2026-07-09",
+    "fetchedAt": "2026-07-09T02:01:51.496Z",
+    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "市场监管总局"
+    ]
+  },
+  {
+    "id": "news_20260709_cea4f50a",
+    "title": "特殊医学用途配方食品注册申请系统",
+    "url": "https://zwfw.samr.gov.cn/guideDetail?id=22d18e7b4dc749fa9d1a52d172c2b2f8",
+    "source": "市场监管总局",
+    "sourceType": "html-list",
+    "category": "企业合规",
+    "date": "2026-07-09",
+    "fetchedAt": "2026-07-09T02:01:52.808Z",
+    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "市场监管总局"
+    ]
+  },
+  {
+    "id": "news_20260709_a33a7030",
+    "title": "婴幼儿配方乳粉产品配方注册申请系统",
+    "url": "https://zwfw.samr.gov.cn/guideDetail?id=22d18e7b4dc749fa9d1a52d172c2b1f8",
+    "source": "市场监管总局",
+    "sourceType": "html-list",
+    "category": "企业合规",
+    "date": "2026-07-09",
+    "fetchedAt": "2026-07-09T02:01:53.859Z",
+    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "市场监管总局"
+    ]
+  },
+  {
     "id": "news_20260708_f3274d8a",
     "title": "习近平对防汛救灾工作作出重要指示",
     "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7074490.htm",
@@ -582,51 +732,6 @@
     "legalPoint": "",
     "tags": [
       "工信部"
-    ]
-  },
-  {
-    "id": "news_20260701_3dd3be3f",
-    "title": "习近平为“七一勋章”获得者颁授勋章",
-    "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7073901.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-07-01",
-    "fetchedAt": "2026-07-01T02:37:28.489Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260701_cc5a369b",
-    "title": "庆祝中国共产党成立105周年大会开始",
-    "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7073893.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-07-01",
-    "fetchedAt": "2026-07-01T02:37:29.350Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260701_beb4d637",
-    "title": "2026年6月份我国制造业PMI为50.3%",
-    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202606/content_7073824.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-07-01",
-    "fetchedAt": "2026-07-01T02:37:29.694Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
     ]
   }
 ]
