@@ -1,5 +1,80 @@
 [
   {
+    "id": "news_20260713_9faad794",
+    "title": "知识产权强国建设纲要（2021－2035年）",
+    "url": "https://www.cnipa.gov.cn/col/col2741/index.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-07-13",
+    "fetchedAt": "2026-07-13T01:52:52.921Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
+    "id": "news_20260713_5e8f17d7",
+    "title": "“十四五”国家知识产权保护和运用规划",
+    "url": "https://www.cnipa.gov.cn/col/col2757/index.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-07-13",
+    "fetchedAt": "2026-07-13T01:52:54.050Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
+    "id": "news_20260713_ff02d6bf",
+    "title": "国家知识产权局党组理论学习中心组开展树立和践行正确政绩观专题学习研讨",
+    "url": "https://www.cnipa.gov.cn/art/2026/4/15/art_51_205790.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-07-13",
+    "fetchedAt": "2026-07-13T01:52:54.378Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
+    "id": "news_20260713_2630abd6",
+    "title": "《网信系统学习宣传贯彻党的二十届四中全会精神》专题",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/gzzt/ztzl/zt/esjszqh/A0920011216index_1.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-07-13",
+    "fetchedAt": "2026-07-13T01:52:57.014Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
+    "id": "news_20260713_0a800444",
+    "title": "习近平同金正恩就《中朝友好合作互助条约》签订65周年互致贺电",
+    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_50e52fd8d6134d3ba3a51b3421c77fde.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-07-13",
+    "fetchedAt": "2026-07-13T01:52:59.373Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
     "id": "news_20260712_b3d768d0",
     "title": "申长雨在京会见俄罗斯联邦知识产权局局长尤里·祖博夫一行",
     "url": "https://www.cnipa.gov.cn/art/2026/5/27/art_51_206554.html",
@@ -582,36 +657,6 @@
     "legalPoint": "",
     "tags": [
       "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260705_d3e9cb48",
-    "title": "最高法举行法官与律师代表座谈会 张军强调 携手律师完善司法公正...",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/504881.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-07-05",
-    "fetchedAt": "2026-07-05T02:08:14.736Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20260705_c6820058",
-    "title": "学习贯彻党的二十届四中全会精神",
-    "url": "https://www.miit.gov.cn/ztzl/rdzt/xxgcddesjszqhjs0802/index.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-07-05",
-    "fetchedAt": "2026-07-05T02:08:25.840Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
     ]
   }
 ]
