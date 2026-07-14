@@ -1,5 +1,110 @@
 [
   {
+    "id": "news_20260714_f840aab0",
+    "title": "中央军委举行晋升上将军衔仪式",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/504831.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-07-14",
+    "fetchedAt": "2026-07-14T01:29:55.446Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20260714_2cdc26ef",
+    "title": "最高法举行2026年1至6月司法审判数据分析研判会商 张军强调 抓显...",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/505851.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-07-14",
+    "fetchedAt": "2026-07-14T01:29:56.448Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20260714_68fa6107",
+    "title": "习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
+    "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7075205.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-07-14",
+    "fetchedAt": "2026-07-14T01:29:58.259Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260714_84dd3e33",
+    "title": "《习近平谈治国理政》第五卷吉尔吉斯斯坦推介会在比什凯克举行",
+    "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7075316.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-07-14",
+    "fetchedAt": "2026-07-14T01:29:58.541Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260714_bcb7cfa5",
+    "title": "习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-07/13/c_1785686605153677.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-07-14",
+    "fetchedAt": "2026-07-14T01:29:59.985Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
+    "id": "news_20260714_1dce21b7",
+    "title": "习近平同纳米比亚总统恩代特瓦会谈",
+    "url": "http://www.miit.gov.cn/xwfb/szyw/art/2026/art_9397c63d13614431b0fc0dae1ef936eb.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-07-14",
+    "fetchedAt": "2026-07-14T01:30:01.917Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
+    "id": "news_20260714_c6820058",
+    "title": "学习贯彻党的二十届四中全会精神",
+    "url": "https://www.miit.gov.cn/ztzl/rdzt/xxgcddesjszqhjs0802/index.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-07-14",
+    "fetchedAt": "2026-07-14T01:30:02.245Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
     "id": "news_20260713_9faad794",
     "title": "知识产权强国建设纲要（2021－2035年）",
     "url": "https://www.cnipa.gov.cn/col/col2741/index.html",
@@ -642,21 +747,6 @@
     "legalPoint": "",
     "tags": [
       "工信部"
-    ]
-  },
-  {
-    "id": "news_20260706_05849d22",
-    "title": "《习近平关于基层工作方法论述摘编》出版发行",
-    "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7074369.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-07-06",
-    "fetchedAt": "2026-07-06T02:13:12.013Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
     ]
   }
 ]
