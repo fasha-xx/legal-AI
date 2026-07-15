@@ -1,5 +1,50 @@
 [
   {
+    "id": "news_20260715_7dfb5878",
+    "title": "2026年上半年我国外贸增势强劲、走势稳健",
+    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202607/content_7075379.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-07-15",
+    "fetchedAt": "2026-07-15T01:26:23.640Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260715_2f6eb1fc",
+    "title": "习近平《在国家科学技术奖励大会、两院院士大会、中国科协第十一次全国代表大会上的讲话》单行本出版",
+    "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7075394.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-07-15",
+    "fetchedAt": "2026-07-15T01:26:24.364Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260715_a3a8af46",
+    "title": "李乐成会见沙特通信和信息技术大臣阿卜杜拉·苏瓦哈",
+    "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_a1f6eb5be6e64c639706dae019e50d19.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-07-15",
+    "fetchedAt": "2026-07-15T01:26:27.551Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
     "id": "news_20260714_f840aab0",
     "title": "中央军委举行晋升上将军衔仪式",
     "url": "https://www.court.gov.cn/zixun/xiangqing/504831.html",
@@ -683,66 +728,6 @@
     "category": "政策法规",
     "date": "2026-07-08",
     "fetchedAt": "2026-07-08T01:49:46.318Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20260707_ff34dffa",
-    "title": "总书记的人民情怀 | “建设社会主义现代化强国，关键在科技自立自强”",
-    "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7074457.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-07-07",
-    "fetchedAt": "2026-07-07T02:08:38.437Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260707_0fe001fe",
-    "title": "习近平致电祝贺藤森庆子当选秘鲁总统",
-    "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7074424.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-07-07",
-    "fetchedAt": "2026-07-07T02:08:39.367Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260707_30a18c81",
-    "title": "总书记的人民情怀 | “建设社会主义现代化强国，关键在科技自立自强”",
-    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_ab7b41b7073a42d6abf6037b4005246b.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-07-07",
-    "fetchedAt": "2026-07-07T02:08:42.664Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20260707_e67f583c",
-    "title": "中央军委举行晋升上将军衔仪式 习近平颁发命令状并向晋衔的军官表示祝贺",
-    "url": "http://www.miit.gov.cn/xwfb/szyw/art/2026/art_2ad101fb7c4248ae894eee6775d9db41.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-07-07",
-    "fetchedAt": "2026-07-07T02:08:43.002Z",
     "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
     "legalPoint": "",
     "tags": [
