@@ -1,5 +1,140 @@
 [
   {
+    "id": "news_20260716_23ff2832",
+    "title": "习近平在上海考察",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/506101.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-07-16",
+    "fetchedAt": "2026-07-16T01:46:31.380Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20260716_d678daab",
+    "title": "习近平在上海考察",
+    "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7075606.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-07-16",
+    "fetchedAt": "2026-07-16T01:46:33.344Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260716_91d68e14",
+    "title": "习近平：在庆祝中国共产党成立105周年大会上的讲话",
+    "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7075577.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-07-16",
+    "fetchedAt": "2026-07-16T01:46:34.527Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260716_23da18b7",
+    "title": "经济数据速览：10组数字看中国经济半年报",
+    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202607/content_7075582.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-07-16",
+    "fetchedAt": "2026-07-16T01:46:34.866Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260716_1848f10b",
+    "title": "《求是》杂志发表习近平总书记重要文章《在庆祝中国共产党成立105周年大会上的讲话》",
+    "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7075573.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-07-16",
+    "fetchedAt": "2026-07-16T01:46:35.201Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260716_8381a708",
+    "title": "坚持人民至上 筑牢底线思维——习近平同志“四个宁可”理念的实践伟力",
+    "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7075623.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-07-16",
+    "fetchedAt": "2026-07-16T01:46:35.543Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260716_2782184c",
+    "title": "习近平在上海考察",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-07/15/c_1785859298178706.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-07-16",
+    "fetchedAt": "2026-07-16T01:46:37.497Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
+    "id": "news_20260716_70a3e40a",
+    "title": "《深入学习贯彻习近平总书记在网络安全和信息化工作座谈会上的重要讲话精神》专题",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/gzzt/ztzl/zt/tenth/A0920011307index_1.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-07-16",
+    "fetchedAt": "2026-07-16T01:46:37.837Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
+    "id": "news_20260716_e1261957",
+    "title": "《全国网信系统深入学习贯彻中共中央政治局第二十三次集体学习会议精神》专题",
+    "url": "https://www.cac.gov.cn/gzzt/ztzl/zt/wlstzl/A0920011220index_1.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-07-16",
+    "fetchedAt": "2026-07-16T01:46:38.190Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
     "id": "news_20260715_7dfb5878",
     "title": "2026年上半年我国外贸增势强劲、走势稳健",
     "url": "https://www.gov.cn/zhengce/jiedu/tujie/202607/content_7075379.htm",
@@ -672,66 +807,6 @@
     "legalPoint": "",
     "tags": [
       "市场监管总局"
-    ]
-  },
-  {
-    "id": "news_20260708_f3274d8a",
-    "title": "习近平对防汛救灾工作作出重要指示",
-    "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7074490.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-07-08",
-    "fetchedAt": "2026-07-08T01:49:41.575Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260708_55dfbbc9",
-    "title": "2026年6月份中国物流业景气指数为50.6%",
-    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202607/content_7074573.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-07-08",
-    "fetchedAt": "2026-07-08T01:49:42.963Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260708_082aedef",
-    "title": "习近平总书记引领科技强国建设纪实",
-    "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7074551.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-07-08",
-    "fetchedAt": "2026-07-08T01:49:43.308Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260708_be8327d4",
-    "title": "习近平对防汛救灾工作作出重要指示",
-    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_9f96bf83ccbe476f8bb7362d20f14b86.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-07-08",
-    "fetchedAt": "2026-07-08T01:49:46.318Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
     ]
   }
 ]
