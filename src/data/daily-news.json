@@ -1,5 +1,95 @@
 [
   {
+    "id": "news_20260723_b1907148",
+    "title": "习近平对基础教育工作作出重要指示",
+    "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7076265.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-07-23",
+    "fetchedAt": "2026-07-23T01:54:37.569Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260723_d27f531a",
+    "title": "2026年上半年消费品以旧换新带动销售额1.1万亿元",
+    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202607/content_7076311.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-07-23",
+    "fetchedAt": "2026-07-23T01:54:38.551Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260723_577951ec",
+    "title": "习近平对基础教育工作作出重要指示",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-07/22/c_1786465613873238.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-07-23",
+    "fetchedAt": "2026-07-23T01:54:45.638Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
+    "id": "news_20260723_e8c09054",
+    "title": "《2026世界互联网大会数字丝路发展论坛》专题",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/gzzt/ztzl/zt/silu/A0920011310index_1.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-07-23",
+    "fetchedAt": "2026-07-23T01:54:46.577Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
+    "id": "news_20260723_48f1b959",
+    "title": "习近平对基础教育工作作出重要指示",
+    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_d2320590fe9e40ecb8e812e2a48eb02b.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-07-23",
+    "fetchedAt": "2026-07-23T01:54:48.499Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
+    "id": "news_20260723_c6820058",
+    "title": "学习贯彻党的二十届四中全会精神",
+    "url": "https://www.miit.gov.cn/ztzl/rdzt/xxgcddesjszqhjs0802/index.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-07-23",
+    "fetchedAt": "2026-07-23T01:54:48.813Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
     "id": "news_20260722_b70dfe3f",
     "title": "“最高人民法院法官讲坛”聚焦实质化解矛盾纠纷 张军强调 扛起政...",
     "url": "https://www.court.gov.cn/zixun/xiangqing/506711.html",
@@ -822,51 +912,6 @@
     "legalPoint": "",
     "tags": [
       "网信中国"
-    ]
-  },
-  {
-    "id": "news_20260715_7dfb5878",
-    "title": "2026年上半年我国外贸增势强劲、走势稳健",
-    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202607/content_7075379.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-07-15",
-    "fetchedAt": "2026-07-15T01:26:23.640Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260715_2f6eb1fc",
-    "title": "习近平《在国家科学技术奖励大会、两院院士大会、中国科协第十一次全国代表大会上的讲话》单行本出版",
-    "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7075394.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-07-15",
-    "fetchedAt": "2026-07-15T01:26:24.364Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260715_a3a8af46",
-    "title": "李乐成会见沙特通信和信息技术大臣阿卜杜拉·苏瓦哈",
-    "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_a1f6eb5be6e64c639706dae019e50d19.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-07-15",
-    "fetchedAt": "2026-07-15T01:26:27.551Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
     ]
   }
 ]
