@@ -1,5 +1,80 @@
 [
   {
+    "id": "news_20260725_6cbbdff9",
+    "title": "张军会见最高法第十二批援疆干部 努力为新疆长治久安和高质量发...",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/506991.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-07-25",
+    "fetchedAt": "2026-07-25T01:50:26.913Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20260725_d678daab",
+    "title": "习近平在上海考察",
+    "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7075606.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-07-25",
+    "fetchedAt": "2026-07-25T01:50:29.280Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260725_873c87c6",
+    "title": "《2026年APEC数字周》专题",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/gzzt/ztzl/zt/APEC/A0920011311index_1.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-07-25",
+    "fetchedAt": "2026-07-25T01:50:31.032Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
+    "id": "news_20260725_70a3e40a",
+    "title": "《深入学习贯彻习近平总书记在网络安全和信息化工作座谈会上的重要讲话精神》专题",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/gzzt/ztzl/zt/tenth/A0920011307index_1.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-07-25",
+    "fetchedAt": "2026-07-25T01:50:32.102Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
+    "id": "news_20260725_9cebd10d",
+    "title": "李乐成出席亚太经合组织数智赋能高级别对话",
+    "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_d8866a8d87b04cc2af57ce15a4529ffe.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-07-25",
+    "fetchedAt": "2026-07-25T01:50:33.887Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
     "id": "news_20260724_b7002a56",
     "title": "“提高能力素质，定分更重止争”——最高法调研组调研黑龙江法院",
     "url": "https://www.court.gov.cn/zixun/xiangqing/506891.html",
@@ -762,81 +837,6 @@
     "legalPoint": "",
     "tags": [
       "市场监管总局"
-    ]
-  },
-  {
-    "id": "news_20260717_6bb9d181",
-    "title": "习近平会见哈萨克斯坦总统托卡耶夫",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/506231.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-07-17",
-    "fetchedAt": "2026-07-17T01:50:20.589Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20260717_49080d54",
-    "title": "最高人民法院举行致敬“马背上的法官”主题宣讲活动 张军出席",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/506251.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-07-17",
-    "fetchedAt": "2026-07-17T01:50:21.652Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20260717_9963bb55",
-    "title": "“老百姓的生活是家事，更是国事”——习近平总书记在上海考察纪实",
-    "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7075834.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-07-17",
-    "fetchedAt": "2026-07-17T01:50:24.200Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260717_1c20e2b9",
-    "title": "习近平会见哈萨克斯坦总统托卡耶夫",
-    "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7075766.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-07-17",
-    "fetchedAt": "2026-07-17T01:50:24.542Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260717_02651424",
-    "title": "李强同柬埔寨首相洪玛奈会谈",
-    "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7075768.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-07-17",
-    "fetchedAt": "2026-07-17T01:50:24.881Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
     ]
   }
 ]
