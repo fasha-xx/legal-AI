@@ -1,5 +1,125 @@
 [
   {
+    "id": "news_20260728_82c0b573",
+    "title": "最高法举行完善司法公正实现和评价机制研究课题征求意见座谈会",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/507111.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-07-28",
+    "fetchedAt": "2026-07-28T01:44:05.698Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20260728_5bb8355a",
+    "title": "习近平同巴西总统卢拉通电话",
+    "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7076658.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-07-28",
+    "fetchedAt": "2026-07-28T01:44:08.737Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260728_a94daf11",
+    "title": "2026年上半年全国规模以上工业企业利润增长18.7%",
+    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202607/content_7076699.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-07-28",
+    "fetchedAt": "2026-07-28T01:44:09.659Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260728_0f579305",
+    "title": "中共中央 国务院转发《中央宣传部、司法部关于开展法治宣传教育的第九个五年规划（2026－2030年）》",
+    "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7076692.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-07-28",
+    "fetchedAt": "2026-07-28T01:44:10.263Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260728_c93ab255",
+    "title": "习近平同巴西总统卢拉通电话",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-07/27/c_1786897889661195.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-07-28",
+    "fetchedAt": "2026-07-28T01:44:12.303Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
+    "id": "news_20260728_9fa201da",
+    "title": "习近平同巴西总统卢拉通电话",
+    "url": "http://www.miit.gov.cn/xwfb/szyw/art/2026/art_46b4d3f5edc14503b7105e27bc830041.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-07-28",
+    "fetchedAt": "2026-07-28T01:44:15.386Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
+    "id": "news_20260728_bdf134b1",
+    "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
+    "url": "http://www.miit.gov.cn/xwfb/szyw/art/2026/art_7bfe4f7a022845169593a56ba76c156e.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-07-28",
+    "fetchedAt": "2026-07-28T01:44:16.212Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
+    "id": "news_20260728_465a6cc0",
+    "title": "李乐成到四川省通信管理局调研 强调深入学习贯彻习近平党建思想 推动信息通信业高质量发展",
+    "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_097e130e9a094e0580c6516bd837a6b9.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-07-28",
+    "fetchedAt": "2026-07-28T01:44:16.488Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
     "id": "news_20260727_f4ebb9f9",
     "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开...",
     "url": "https://www.court.gov.cn/zixun/xiangqing/506361.html",
@@ -608,81 +728,6 @@
     "category": "政策法规",
     "date": "2026-07-21",
     "fetchedAt": "2026-07-21T01:48:32.006Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20260720_cbdb44c8",
-    "title": "习近平主席出席二〇二六世界人工智能大会暨人工智能全球治理高级别会议系列活动纪实",
-    "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7076076.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-07-20",
-    "fetchedAt": "2026-07-20T02:29:42.225Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260720_6bd916b1",
-    "title": "习近平对重庆彭水县山体崩塌作出重要指示",
-    "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7075959.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-07-20",
-    "fetchedAt": "2026-07-20T02:29:43.039Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260720_91be8206",
-    "title": "| 习近平会见哈萨克斯坦总统托卡耶夫",
-    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_a8506c203b154204a180159cc9c2a483.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-07-20",
-    "fetchedAt": "2026-07-20T02:29:46.480Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20260720_006cb3a9",
-    "title": "会见泰国总理阿努廷",
-    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_d2bba792900e48ba84936216946d590c.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-07-20",
-    "fetchedAt": "2026-07-20T02:29:46.799Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20260720_1fefee39",
-    "title": "会见柬埔寨首相洪玛奈",
-    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_25d95485635c4b9a9e71607a1fc720b5.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-07-20",
-    "fetchedAt": "2026-07-20T02:29:47.091Z",
     "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
     "legalPoint": "",
     "tags": [
