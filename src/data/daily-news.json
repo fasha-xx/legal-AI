@@ -1,5 +1,20 @@
 [
   {
+    "id": "news_20260802_66fdb343",
+    "title": "李强主持召开国务院常务会议",
+    "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7077210.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-02",
+    "fetchedAt": "2026-08-02T01:52:32.975Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
     "id": "news_20260801_8d6b2bea",
     "title": "张军看望慰问武警部队驻最高法官兵",
     "url": "https://www.court.gov.cn/zixun/xiangqing/507571.html",
@@ -867,81 +882,6 @@
     "legalPoint": "",
     "tags": [
       "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260725_6cbbdff9",
-    "title": "张军会见最高法第十二批援疆干部 努力为新疆长治久安和高质量发...",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/506991.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-07-25",
-    "fetchedAt": "2026-07-25T01:50:26.913Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20260725_d678daab",
-    "title": "习近平在上海考察",
-    "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7075606.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-07-25",
-    "fetchedAt": "2026-07-25T01:50:29.280Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260725_873c87c6",
-    "title": "《2026年APEC数字周》专题",
-    "url": "https://www.cac.gov.cn//www.cac.gov.cn/gzzt/ztzl/zt/APEC/A0920011311index_1.htm",
-    "source": "网信中国",
-    "sourceType": "html-list",
-    "category": "AI 与数据合规",
-    "date": "2026-07-25",
-    "fetchedAt": "2026-07-25T01:50:31.032Z",
-    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "网信中国"
-    ]
-  },
-  {
-    "id": "news_20260725_70a3e40a",
-    "title": "《深入学习贯彻习近平总书记在网络安全和信息化工作座谈会上的重要讲话精神》专题",
-    "url": "https://www.cac.gov.cn//www.cac.gov.cn/gzzt/ztzl/zt/tenth/A0920011307index_1.htm",
-    "source": "网信中国",
-    "sourceType": "html-list",
-    "category": "AI 与数据合规",
-    "date": "2026-07-25",
-    "fetchedAt": "2026-07-25T01:50:32.102Z",
-    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "网信中国"
-    ]
-  },
-  {
-    "id": "news_20260725_9cebd10d",
-    "title": "李乐成出席亚太经合组织数智赋能高级别对话",
-    "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_d8866a8d87b04cc2af57ce15a4529ffe.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-07-25",
-    "fetchedAt": "2026-07-25T01:50:33.887Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
     ]
   }
 ]
