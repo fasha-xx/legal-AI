@@ -1,5 +1,35 @@
 [
   {
+    "id": "news_20260804_6299e5be",
+    "title": "习近平经济思想指引中国经济高质量发展行稳致远",
+    "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7077420.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-04",
+    "fetchedAt": "2026-08-04T01:29:49.991Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260804_9f39206a",
+    "title": "李强签署国务院令 公布修订后的《集成电路布图设计保护条例》",
+    "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7077404.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-04",
+    "fetchedAt": "2026-08-04T01:29:51.048Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
     "id": "news_20260803_035e06dd",
     "title": "为实现全年发展目标任务夯实基础——习近平总书记引领“十五五”开局之年中国经济破浪前行",
     "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7077356.htm",
@@ -732,201 +762,6 @@
     "legalPoint": "",
     "tags": [
       "工信部"
-    ]
-  },
-  {
-    "id": "news_20260727_f4ebb9f9",
-    "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开...",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/506361.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-07-27",
-    "fetchedAt": "2026-07-27T02:01:14.630Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20260727_761398a7",
-    "title": "习近平会见联合国秘书长古特雷斯",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/506451.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-07-27",
-    "fetchedAt": "2026-07-27T02:01:15.675Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20260727_87845468",
-    "title": "习近平会见柬埔寨首相洪玛奈",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/506431.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-07-27",
-    "fetchedAt": "2026-07-27T02:01:15.958Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20260727_e4a4a5f5",
-    "title": "习近平会见泰国总理阿努廷",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/506421.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-07-27",
-    "fetchedAt": "2026-07-27T02:01:16.248Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20260727_a42781e7",
-    "title": "国家知识产权局召开党组理论学习中心组专题学习会",
-    "url": "https://www.cnipa.gov.cn/art/2026/6/2/art_51_206620.html",
-    "source": "国家知识产权局",
-    "sourceType": "html-list",
-    "category": "知识产权",
-    "date": "2026-07-27",
-    "fetchedAt": "2026-07-27T02:01:18.833Z",
-    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "国家知识产权局"
-    ]
-  },
-  {
-    "id": "news_20260727_0bb07e4e",
-    "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
-    "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7075872.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-07-27",
-    "fetchedAt": "2026-07-27T02:01:20.573Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260727_cbc5685e",
-    "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
-    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-07/17/c_1786032880247252.htm",
-    "source": "网信中国",
-    "sourceType": "html-list",
-    "category": "AI 与数据合规",
-    "date": "2026-07-27",
-    "fetchedAt": "2026-07-27T02:01:22.213Z",
-    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "网信中国"
-    ]
-  },
-  {
-    "id": "news_20260727_ddac5c61",
-    "title": "习近平会见联合国秘书长古特雷斯",
-    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-07/17/c_1786032892331405.htm",
-    "source": "网信中国",
-    "sourceType": "html-list",
-    "category": "AI 与数据合规",
-    "date": "2026-07-27",
-    "fetchedAt": "2026-07-27T02:01:23.052Z",
-    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "网信中国"
-    ]
-  },
-  {
-    "id": "news_20260727_ef9f84f5",
-    "title": "缺陷产品 召回查询",
-    "url": "http://qxzh.samr.gov.cn/qxzh/qxxxcx/web.jsp",
-    "source": "市场监管总局",
-    "sourceType": "html-list",
-    "category": "企业合规",
-    "date": "2026-07-27",
-    "fetchedAt": "2026-07-27T02:01:27.145Z",
-    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "市场监管总局"
-    ]
-  },
-  {
-    "id": "news_20260727_2c3826d7",
-    "title": "缺陷线索 报告",
-    "url": "http://qxzh.samr.gov.cn/qxzh/qxxxbg/web.jsp?sour=samr",
-    "source": "市场监管总局",
-    "sourceType": "html-list",
-    "category": "企业合规",
-    "date": "2026-07-27",
-    "fetchedAt": "2026-07-27T02:01:27.960Z",
-    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "市场监管总局"
-    ]
-  },
-  {
-    "id": "news_20260727_ca2c3b5e",
-    "title": "国产（进口）保健食品注册管理信息系统",
-    "url": "https://zwfw.samr.gov.cn/guideDetail?id=22d18e7b4dc749fa9d1a52d172c2b3f8",
-    "source": "市场监管总局",
-    "sourceType": "html-list",
-    "category": "企业合规",
-    "date": "2026-07-27",
-    "fetchedAt": "2026-07-27T02:01:28.239Z",
-    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "市场监管总局"
-    ]
-  },
-  {
-    "id": "news_20260727_cea4f50a",
-    "title": "特殊医学用途配方食品注册申请系统",
-    "url": "https://zwfw.samr.gov.cn/guideDetail?id=22d18e7b4dc749fa9d1a52d172c2b2f8",
-    "source": "市场监管总局",
-    "sourceType": "html-list",
-    "category": "企业合规",
-    "date": "2026-07-27",
-    "fetchedAt": "2026-07-27T02:01:28.528Z",
-    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "市场监管总局"
-    ]
-  },
-  {
-    "id": "news_20260727_a33a7030",
-    "title": "婴幼儿配方乳粉产品配方注册申请系统",
-    "url": "https://zwfw.samr.gov.cn/guideDetail?id=22d18e7b4dc749fa9d1a52d172c2b1f8",
-    "source": "市场监管总局",
-    "sourceType": "html-list",
-    "category": "企业合规",
-    "date": "2026-07-27",
-    "fetchedAt": "2026-07-27T02:01:28.809Z",
-    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "市场监管总局"
     ]
   }
 ]
