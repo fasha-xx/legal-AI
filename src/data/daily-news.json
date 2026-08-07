@@ -1,5 +1,80 @@
 [
   {
+    "id": "news_20260807_7e567712",
+    "title": "习近平同斯洛伐克总统佩列格里尼会谈",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/507221.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-08-07",
+    "fetchedAt": "2026-08-07T02:08:54.246Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20260807_d1d63feb",
+    "title": "总书记的人民情怀 | “让内需成为经济发展的主动力”",
+    "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7077626.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-07",
+    "fetchedAt": "2026-08-07T02:08:56.140Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260807_2020552e",
+    "title": "习近平同斯洛伐克总统佩列格里尼会谈",
+    "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7076795.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-07",
+    "fetchedAt": "2026-08-07T02:08:57.116Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260807_0c05c971",
+    "title": "习近平同斯洛伐克总统佩列格里尼会谈",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-07/28/c_1786984267575655.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-08-07",
+    "fetchedAt": "2026-08-07T02:08:58.971Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
+    "id": "news_20260807_bf9e72de",
+    "title": "东方之约，相约未来——中国元首外交的世界情怀与大国气派",
+    "url": "https://www.miit.gov.cn/xwfb/mtbd/wzbd/art/2026/art_554882d234694214bfa8a2a91cfaa3cd.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-07",
+    "fetchedAt": "2026-08-07T02:09:00.617Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
     "id": "news_20260805_f4ebb9f9",
     "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开...",
     "url": "https://www.court.gov.cn/zixun/xiangqing/506361.html",
@@ -578,111 +653,6 @@
     "category": "政策法规",
     "date": "2026-07-31",
     "fetchedAt": "2026-07-31T01:55:18.689Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20260730_b3d768d0",
-    "title": "申长雨在京会见俄罗斯联邦知识产权局局长尤里·祖博夫一行",
-    "url": "https://www.cnipa.gov.cn/art/2026/5/27/art_51_206554.html",
-    "source": "国家知识产权局",
-    "sourceType": "html-list",
-    "category": "知识产权",
-    "date": "2026-07-30",
-    "fetchedAt": "2026-07-30T01:28:06.905Z",
-    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "国家知识产权局"
-    ]
-  },
-  {
-    "id": "news_20260730_009cc9ea",
-    "title": "总书记的人民情怀 | “始终同人民同呼吸、共命运、心连心”",
-    "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7077020.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-07-30",
-    "fetchedAt": "2026-07-30T01:28:07.877Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260730_0c945d14",
-    "title": "2026年上半年全国社会物流总额为181.1万亿元",
-    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202607/content_7076970.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-07-30",
-    "fetchedAt": "2026-07-30T01:28:08.762Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260730_b991bb76",
-    "title": "习近平致电祝贺诺瓦当选连任圣多美和普林西比总统",
-    "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7076943.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-07-30",
-    "fetchedAt": "2026-07-30T01:28:09.048Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260730_e6469dfd",
-    "title": "习近平同斯洛伐克总统佩列格里尼会谈",
-    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_3c695edc889545bda685c5c2212668d1.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-07-30",
-    "fetchedAt": "2026-07-30T01:28:11.904Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20260730_9df7102e",
-    "title": "习近平同斯洛伐克总统佩列格里尼会谈",
-    "url": "http://www.miit.gov.cn/xwfb/szyw/art/2026/art_3c695edc889545bda685c5c2212668d1.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-07-30",
-    "fetchedAt": "2026-07-30T01:28:12.219Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20260730_0255e368",
-    "title": "2026中国产业转移发展对接活动（西藏）在拉萨举行",
-    "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_a5ed4e0d74c7407b8fda3b1de10faac4.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-07-30",
-    "fetchedAt": "2026-07-30T01:28:12.531Z",
     "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
     "legalPoint": "",
     "tags": [
