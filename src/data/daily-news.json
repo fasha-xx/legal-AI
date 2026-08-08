@@ -1,5 +1,35 @@
 [
   {
+    "id": "news_20260808_b3d768d0",
+    "title": "申长雨在京会见俄罗斯联邦知识产权局局长尤里·祖博夫一行",
+    "url": "https://www.cnipa.gov.cn/art/2026/5/27/art_51_206554.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-08-08",
+    "fetchedAt": "2026-08-08T00:55:52.689Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
+    "id": "news_20260808_0255e368",
+    "title": "2026中国产业转移发展对接活动（西藏）在拉萨举行",
+    "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_a5ed4e0d74c7407b8fda3b1de10faac4.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-08",
+    "fetchedAt": "2026-08-08T00:55:58.251Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
     "id": "news_20260807_7e567712",
     "title": "习近平同斯洛伐克总统佩列格里尼会谈",
     "url": "https://www.court.gov.cn/zixun/xiangqing/507221.html",
@@ -503,156 +533,6 @@
     "category": "政策法规",
     "date": "2026-08-01",
     "fetchedAt": "2026-08-01T01:56:47.122Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20260731_8763d54c",
-    "title": "张军会见土耳其宪法法院院长卡迪尔·厄兹卡亚",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/507421.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-07-31",
-    "fetchedAt": "2026-07-31T01:55:08.673Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20260731_9faad794",
-    "title": "知识产权强国建设纲要（2021－2035年）",
-    "url": "https://www.cnipa.gov.cn/col/col2741/index.html",
-    "source": "国家知识产权局",
-    "sourceType": "html-list",
-    "category": "知识产权",
-    "date": "2026-07-31",
-    "fetchedAt": "2026-07-31T01:55:10.043Z",
-    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "国家知识产权局"
-    ]
-  },
-  {
-    "id": "news_20260731_5e8f17d7",
-    "title": "“十四五”国家知识产权保护和运用规划",
-    "url": "https://www.cnipa.gov.cn/col/col2757/index.html",
-    "source": "国家知识产权局",
-    "sourceType": "html-list",
-    "category": "知识产权",
-    "date": "2026-07-31",
-    "fetchedAt": "2026-07-31T01:55:11.116Z",
-    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "国家知识产权局"
-    ]
-  },
-  {
-    "id": "news_20260731_ff02d6bf",
-    "title": "国家知识产权局党组理论学习中心组开展树立和践行正确政绩观专题学习研讨",
-    "url": "https://www.cnipa.gov.cn/art/2026/4/15/art_51_205790.html",
-    "source": "国家知识产权局",
-    "sourceType": "html-list",
-    "category": "知识产权",
-    "date": "2026-07-31",
-    "fetchedAt": "2026-07-31T01:55:11.439Z",
-    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "国家知识产权局"
-    ]
-  },
-  {
-    "id": "news_20260731_c1b97047",
-    "title": "中共中央政治局召开会议 决定召开二十届五中全会分析研究当前经济形势和经济工作 中共中央总书记习近平主持会议",
-    "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7077056.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-07-31",
-    "fetchedAt": "2026-07-31T01:55:12.487Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260731_537715f3",
-    "title": "就当前经济形势和下半年经济工作 中共中央召开党外人士座谈会 习近平主持并发表重要讲话 李强通报有关情况 王沪宁蔡奇丁薛祥出席",
-    "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7077071.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-07-31",
-    "fetchedAt": "2026-07-31T01:55:12.820Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260731_c3ed9d9d",
-    "title": "2025年我国“三新”经济增加值占GDP比重达18.39%",
-    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202607/content_7077092.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-07-31",
-    "fetchedAt": "2026-07-31T01:55:13.143Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260731_da3700a9",
-    "title": "中共中央政治局召开会议 决定召开二十届五中全会分析研究当前经济形势和经济工作 中共中央总书记习近平主持会议",
-    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-07/30/c_1787160542430981.htm",
-    "source": "网信中国",
-    "sourceType": "html-list",
-    "category": "AI 与数据合规",
-    "date": "2026-07-31",
-    "fetchedAt": "2026-07-31T01:55:14.886Z",
-    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "网信中国"
-    ]
-  },
-  {
-    "id": "news_20260731_63fba9b2",
-    "title": "中共中央政治局召开会议 决定召开二十届五中全会分析研究当前经济形势和经济工作 中共中央总书记习近平主持会议",
-    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_39902c0104bc4c228401a003a09da827.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-07-31",
-    "fetchedAt": "2026-07-31T01:55:17.524Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20260731_1d0c9f77",
-    "title": "就当前经济形势和下半年经济工作 中共中央召开党外人士座谈会 习近平主持并发表重要讲话 李强通报有关情况 王沪宁蔡奇丁薛祥出席",
-    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_09652a929554470db68259482ea6b89c.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-07-31",
-    "fetchedAt": "2026-07-31T01:55:18.689Z",
     "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
     "legalPoint": "",
     "tags": [
