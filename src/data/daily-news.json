@@ -1,5 +1,110 @@
 [
   {
+    "id": "news_20260810_8d6b2bea",
+    "title": "张军看望慰问武警部队驻最高法官兵",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/507571.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-08-10",
+    "fetchedAt": "2026-08-10T01:01:06.264Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20260810_4cc80559",
+    "title": "《知识产权保护和运用“十五五”规划》",
+    "url": "https://www.cnipa.gov.cn/col/col3692/index.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-08-10",
+    "fetchedAt": "2026-08-10T01:01:08.174Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
+    "id": "news_20260810_fea196b1",
+    "title": "习近平：加快建设健康中国",
+    "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7077151.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-10",
+    "fetchedAt": "2026-08-10T01:01:08.952Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260810_c46837a9",
+    "title": "习近平在中共中央政治局第二十七次集体学习时强调 强化政治引领 深化创新发展 高质量推进国防和军队现代化",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-07/31/c_1787244240859067.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-08-10",
+    "fetchedAt": "2026-08-10T01:01:10.969Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
+    "id": "news_20260810_cd4ffcc7",
+    "title": "习近平：加快建设健康中国",
+    "url": "http://www.miit.gov.cn/xwfb/szyw/art/2026/art_c70bf179f57a4aae90fbb4953b16b40d.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-10",
+    "fetchedAt": "2026-08-10T01:01:13.872Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
+    "id": "news_20260810_c6820058",
+    "title": "学习贯彻党的二十届四中全会精神",
+    "url": "https://www.miit.gov.cn/ztzl/rdzt/xxgcddesjszqhjs0802/index.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-10",
+    "fetchedAt": "2026-08-10T01:01:14.892Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
+    "id": "news_20260810_b12ae42b",
+    "title": "熊继军率团访问香港、澳门",
+    "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_b176773c0e64479d88a212067a630c34.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-10",
+    "fetchedAt": "2026-08-10T01:01:15.203Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
     "id": "news_20260809_9faad794",
     "title": "知识产权强国建设纲要（2021－2035年）",
     "url": "https://www.cnipa.gov.cn/col/col2741/index.html",
@@ -432,21 +537,6 @@
     "legalPoint": "",
     "tags": [
       "工信部"
-    ]
-  },
-  {
-    "id": "news_20260802_66fdb343",
-    "title": "李强主持召开国务院常务会议",
-    "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7077210.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-08-02",
-    "fetchedAt": "2026-08-02T01:52:32.975Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
     ]
   }
 ]
