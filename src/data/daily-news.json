@@ -1,5 +1,35 @@
 [
   {
+    "id": "news_20260811_c603b34d",
+    "title": "新订单指数回升 物流业景气指数保持在扩张区间",
+    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202608/content_7077735.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-11",
+    "fetchedAt": "2026-08-11T01:00:16.077Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260811_3e0291db",
+    "title": "党中央国务院邀请优秀专家人才代表北戴河休假侧记",
+    "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7077772.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-11",
+    "fetchedAt": "2026-08-11T01:00:16.964Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
     "id": "news_20260810_8d6b2bea",
     "title": "张军看望慰问武警部队驻最高法官兵",
     "url": "https://www.court.gov.cn/zixun/xiangqing/507571.html",
@@ -462,81 +492,6 @@
     "legalPoint": "",
     "tags": [
       "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260803_035e06dd",
-    "title": "为实现全年发展目标任务夯实基础——习近平总书记引领“十五五”开局之年中国经济破浪前行",
-    "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7077356.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-08-03",
-    "fetchedAt": "2026-08-03T01:55:11.488Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260803_873c87c6",
-    "title": "《2026年APEC数字周》专题",
-    "url": "https://www.cac.gov.cn//www.cac.gov.cn/gzzt/ztzl/zt/APEC/A0920011311index_1.htm",
-    "source": "网信中国",
-    "sourceType": "html-list",
-    "category": "AI 与数据合规",
-    "date": "2026-08-03",
-    "fetchedAt": "2026-08-03T01:55:13.144Z",
-    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "网信中国"
-    ]
-  },
-  {
-    "id": "news_20260803_70a3e40a",
-    "title": "《深入学习贯彻习近平总书记在网络安全和信息化工作座谈会上的重要讲话精神》专题",
-    "url": "https://www.cac.gov.cn//www.cac.gov.cn/gzzt/ztzl/zt/tenth/A0920011307index_1.htm",
-    "source": "网信中国",
-    "sourceType": "html-list",
-    "category": "AI 与数据合规",
-    "date": "2026-08-03",
-    "fetchedAt": "2026-08-03T01:55:13.958Z",
-    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "网信中国"
-    ]
-  },
-  {
-    "id": "news_20260803_40639908",
-    "title": "《求是》杂志发表习近平总书记重要文章《加快建设健康中国》",
-    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_3e06e0ca1e654ddead454750aa99772b.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-08-03",
-    "fetchedAt": "2026-08-03T01:55:15.858Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20260803_0f03cb7c",
-    "title": "| 文章全文",
-    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_c70bf179f57a4aae90fbb4953b16b40d.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-08-03",
-    "fetchedAt": "2026-08-03T01:55:16.149Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
     ]
   }
 ]
