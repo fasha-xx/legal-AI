@@ -1,5 +1,95 @@
 [
   {
+    "id": "news_20260816_7e567712",
+    "title": "习近平同斯洛伐克总统佩列格里尼会谈",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/507221.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-08-16",
+    "fetchedAt": "2026-08-16T00:43:18.477Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20260816_a1384012",
+    "title": "纪念江泽民同志诞辰100周年大会17日上午在京隆重举行 习近平将出席大会并发表重要讲话",
+    "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078133.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-16",
+    "fetchedAt": "2026-08-16T00:43:20.857Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260816_fa387627",
+    "title": "习近平：提高防灾减灾救灾能力",
+    "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078121.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-16",
+    "fetchedAt": "2026-08-16T00:43:22.163Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260816_ec72c7a4",
+    "title": "2026年前7个月我国生态环境质量持续向好",
+    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202608/content_7078059.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-16",
+    "fetchedAt": "2026-08-16T00:43:22.484Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260816_b6008493",
+    "title": "2026年前7个月邮政行业寄递业务量同比增长4.2%",
+    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202608/content_7078080.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-16",
+    "fetchedAt": "2026-08-16T00:43:22.798Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260816_7b3f204d",
+    "title": "《求是》杂志发表习近平总书记重要文章《提高防灾减灾救灾能力》",
+    "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078117.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-16",
+    "fetchedAt": "2026-08-16T00:43:23.111Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
     "id": "news_20260815_f4ebb9f9",
     "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开...",
     "url": "https://www.court.gov.cn/zixun/xiangqing/506361.html",
@@ -477,36 +567,6 @@
     "legalPoint": "",
     "tags": [
       "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260808_b3d768d0",
-    "title": "申长雨在京会见俄罗斯联邦知识产权局局长尤里·祖博夫一行",
-    "url": "https://www.cnipa.gov.cn/art/2026/5/27/art_51_206554.html",
-    "source": "国家知识产权局",
-    "sourceType": "html-list",
-    "category": "知识产权",
-    "date": "2026-08-08",
-    "fetchedAt": "2026-08-08T00:55:52.689Z",
-    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "国家知识产权局"
-    ]
-  },
-  {
-    "id": "news_20260808_0255e368",
-    "title": "2026中国产业转移发展对接活动（西藏）在拉萨举行",
-    "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_a5ed4e0d74c7407b8fda3b1de10faac4.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-08-08",
-    "fetchedAt": "2026-08-08T00:55:58.251Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
     ]
   }
 ]
