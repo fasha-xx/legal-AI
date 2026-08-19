@@ -1,5 +1,245 @@
 [
   {
+    "id": "news_20260819_8734af39",
+    "title": "朱镕基同志遗体在京火化 习近平等到八宝山革命公墓送别",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/509061.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-08-19",
+    "fetchedAt": "2026-08-19T00:41:13.530Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20260819_1e732146",
+    "title": "遵义会议会址修缮项目即将完工",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/509091.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-08-19",
+    "fetchedAt": "2026-08-19T00:41:14.428Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20260819_487d4820",
+    "title": "2026年烟台港中非件杂货运量突破600万吨",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/509051.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-08-19",
+    "fetchedAt": "2026-08-19T00:41:14.705Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20260819_a719379f",
+    "title": "雨幕下的林中“阅卷”",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/509111.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-08-19",
+    "fetchedAt": "2026-08-19T00:41:14.994Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20260819_53178d27",
+    "title": "司法护航“植物大熊猫”",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/509101.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-08-19",
+    "fetchedAt": "2026-08-19T00:41:15.271Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20260819_4cc80559",
+    "title": "《知识产权保护和运用“十五五”规划》",
+    "url": "https://www.cnipa.gov.cn/col/col3692/index.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-08-19",
+    "fetchedAt": "2026-08-19T00:41:16.250Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
+    "id": "news_20260819_32d37793",
+    "title": "朱镕基同志遗体在京火化 习近平等到八宝山革命公墓送别",
+    "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078460.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-19",
+    "fetchedAt": "2026-08-19T00:41:17.325Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260819_38986b9f",
+    "title": "朱镕基同志生平",
+    "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078463.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-19",
+    "fetchedAt": "2026-08-19T00:41:17.616Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260819_4220c4db",
+    "title": "朱镕基同志生平照片",
+    "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078473.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-19",
+    "fetchedAt": "2026-08-19T00:41:17.892Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260819_f7aa713b",
+    "title": "前7个月国民经济总体平稳、向新向优",
+    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202608/content_7078355.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-19",
+    "fetchedAt": "2026-08-19T00:41:18.177Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260819_5aae91e2",
+    "title": "朱镕基同志遗体在京火化 习近平等到八宝山革命公墓送别",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-08/18/c_1788801897610911.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-08-19",
+    "fetchedAt": "2026-08-19T00:41:19.931Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
+    "id": "news_20260819_9bc0ae2e",
+    "title": "朱镕基同志生平",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-08/18/c_1788801902132008.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-08-19",
+    "fetchedAt": "2026-08-19T00:41:20.215Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
+    "id": "news_20260819_56da48e9",
+    "title": "朱镕基同志遗体在京火化 习近平等到八宝山革命公墓送别",
+    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_2939d5b17c22405c9d4afe4ce52ef577.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-19",
+    "fetchedAt": "2026-08-19T00:41:21.777Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
+    "id": "news_20260819_3e3f1479",
+    "title": "朱镕基同志遗体在京火化 习近平等到八宝山革命公墓送别",
+    "url": "http://www.miit.gov.cn/xwfb/szyw/art/2026/art_2939d5b17c22405c9d4afe4ce52ef577.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-19",
+    "fetchedAt": "2026-08-19T00:41:22.064Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
+    "id": "news_20260819_c6820058",
+    "title": "学习贯彻党的二十届四中全会精神",
+    "url": "https://www.miit.gov.cn/ztzl/rdzt/xxgcddesjszqhjs0802/index.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-19",
+    "fetchedAt": "2026-08-19T00:41:22.343Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
+    "id": "news_20260819_b12ae42b",
+    "title": "熊继军率团访问香港、澳门",
+    "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_b176773c0e64479d88a212067a630c34.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-19",
+    "fetchedAt": "2026-08-19T00:41:22.629Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
     "id": "news_20260818_f05d21c6",
     "title": "纪念江泽民同志诞辰100周年大会隆重举行 习近平出席大会并发表重...",
     "url": "https://www.court.gov.cn/zixun/xiangqing/508971.html",
@@ -597,36 +837,6 @@
     "legalPoint": "",
     "tags": [
       "网信中国"
-    ]
-  },
-  {
-    "id": "news_20260811_c603b34d",
-    "title": "新订单指数回升 物流业景气指数保持在扩张区间",
-    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202608/content_7077735.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-08-11",
-    "fetchedAt": "2026-08-11T01:00:16.077Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260811_3e0291db",
-    "title": "党中央国务院邀请优秀专家人才代表北戴河休假侧记",
-    "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7077772.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-08-11",
-    "fetchedAt": "2026-08-11T01:00:16.964Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
     ]
   }
 ]
