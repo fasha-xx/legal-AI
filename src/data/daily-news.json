@@ -1,5 +1,125 @@
 [
   {
+    "id": "news_20260820_8d6b2bea",
+    "title": "张军看望慰问武警部队驻最高法官兵",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/507571.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-08-20",
+    "fetchedAt": "2026-08-20T00:41:08.872Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20260820_8763d54c",
+    "title": "张军会见土耳其宪法法院院长卡迪尔·厄兹卡亚",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/507421.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-08-20",
+    "fetchedAt": "2026-08-20T00:41:09.679Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20260820_2de5bc99",
+    "title": "习近平同厄瓜多尔总统诺沃亚会谈",
+    "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078490.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-20",
+    "fetchedAt": "2026-08-20T00:41:11.724Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260820_4bf83e9e",
+    "title": "动能向新 结构向优：7组数字看1—7月份中国经济",
+    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202608/content_7078594.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-20",
+    "fetchedAt": "2026-08-20T00:41:11.984Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260820_38a9b203",
+    "title": "习近平致电祝贺鲍卡就任匈牙利总统",
+    "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078624.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-20",
+    "fetchedAt": "2026-08-20T00:41:12.257Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260820_add45976",
+    "title": "李强会见厄瓜多尔总统诺沃亚",
+    "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078583.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-20",
+    "fetchedAt": "2026-08-20T00:41:12.518Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260820_1f756da9",
+    "title": "习近平同厄瓜多尔总统诺沃亚会谈",
+    "url": "http://www.miit.gov.cn/xwfb/szyw/art/2026/art_953081343134439a9ab0bc9d32871847.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-20",
+    "fetchedAt": "2026-08-20T00:41:15.777Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
+    "id": "news_20260820_7322c680",
+    "title": "2026世界机器人大会在京开幕",
+    "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_18a2e30182d44a4ea7c2c1295704dfee.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-20",
+    "fetchedAt": "2026-08-20T00:41:16.045Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
     "id": "news_20260819_8734af39",
     "title": "朱镕基同志遗体在京火化 习近平等到八宝山革命公墓送别",
     "url": "https://www.court.gov.cn/zixun/xiangqing/509061.html",
@@ -792,51 +912,6 @@
     "legalPoint": "",
     "tags": [
       "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260812_d50d1e2f",
-    "title": "习近平就哥伦比亚发生强烈地震向哥伦比亚总统德拉埃斯普列亚致慰问电",
-    "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7077895.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-08-12",
-    "fetchedAt": "2026-08-12T01:06:57.277Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260812_873c87c6",
-    "title": "《2026年APEC数字周》专题",
-    "url": "https://www.cac.gov.cn//www.cac.gov.cn/gzzt/ztzl/zt/APEC/A0920011311index_1.htm",
-    "source": "网信中国",
-    "sourceType": "html-list",
-    "category": "AI 与数据合规",
-    "date": "2026-08-12",
-    "fetchedAt": "2026-08-12T01:06:59.220Z",
-    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "网信中国"
-    ]
-  },
-  {
-    "id": "news_20260812_70a3e40a",
-    "title": "《深入学习贯彻习近平总书记在网络安全和信息化工作座谈会上的重要讲话精神》专题",
-    "url": "https://www.cac.gov.cn//www.cac.gov.cn/gzzt/ztzl/zt/tenth/A0920011307index_1.htm",
-    "source": "网信中国",
-    "sourceType": "html-list",
-    "category": "AI 与数据合规",
-    "date": "2026-08-12",
-    "fetchedAt": "2026-08-12T01:07:00.134Z",
-    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "网信中国"
     ]
   }
 ]
