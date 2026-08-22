@@ -1,5 +1,95 @@
 [
   {
+    "id": "news_20260822_26b5beaa",
+    "title": "中国240小时过境免签“朋友圈”扩展至57国",
+    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202608/content_7078719.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-22",
+    "fetchedAt": "2026-08-22T00:40:51.857Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260822_cefcf438",
+    "title": "李强主持召开国务院常务会议 听取新一代通信网建设情况汇报等",
+    "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078803.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-22",
+    "fetchedAt": "2026-08-22T00:40:55.031Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260822_ad7f6da0",
+    "title": "何立峰会见智利外长佩雷斯",
+    "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078652.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-22",
+    "fetchedAt": "2026-08-22T00:40:55.360Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260822_92d056e6",
+    "title": "习近平致电祝贺鲍卡就任匈牙利总统",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-08/19/c_1788889518809709.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-08-22",
+    "fetchedAt": "2026-08-22T00:40:58.007Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
+    "id": "news_20260822_873c87c6",
+    "title": "《2026年APEC数字周》专题",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/gzzt/ztzl/zt/APEC/A0920011311index_1.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-08-22",
+    "fetchedAt": "2026-08-22T00:40:58.333Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
+    "id": "news_20260822_70a3e40a",
+    "title": "《深入学习贯彻习近平总书记在网络安全和信息化工作座谈会上的重要讲话精神》专题",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/gzzt/ztzl/zt/tenth/A0920011307index_1.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-08-22",
+    "fetchedAt": "2026-08-22T00:40:58.672Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
     "id": "news_20260821_9ceebb92",
     "title": "普惠扩围 全链赋能——《住房公积金管理条例》修改解读",
     "url": "https://www.gov.cn/zhengce/jiedu/tujie/202608/content_7078674.htm",
@@ -882,36 +972,6 @@
     "legalPoint": "",
     "tags": [
       "市场监管总局"
-    ]
-  },
-  {
-    "id": "news_20260814_a42781e7",
-    "title": "国家知识产权局召开党组理论学习中心组专题学习会",
-    "url": "https://www.cnipa.gov.cn/art/2026/6/2/art_51_206620.html",
-    "source": "国家知识产权局",
-    "sourceType": "html-list",
-    "category": "知识产权",
-    "date": "2026-08-14",
-    "fetchedAt": "2026-08-14T01:07:59.508Z",
-    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "国家知识产权局"
-    ]
-  },
-  {
-    "id": "news_20260814_57e6fe77",
-    "title": "习近平生态文明思想引领美丽中国建设谱新篇",
-    "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078026.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-08-14",
-    "fetchedAt": "2026-08-14T01:08:00.326Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
     ]
   }
 ]
