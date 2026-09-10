@@ -1,5 +1,95 @@
 [
   {
+    "id": "news_20260910_f808b2ec",
+    "title": "习近平同英国首相伯纳姆通电话",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/511221.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-09-10",
+    "fetchedAt": "2026-09-10T02:10:47.141Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20260910_a42781e7",
+    "title": "国家知识产权局召开党组理论学习中心组专题学习会",
+    "url": "https://www.cnipa.gov.cn/art/2026/6/2/art_51_206620.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-09-10",
+    "fetchedAt": "2026-09-10T02:10:48.682Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
+    "id": "news_20260910_63eca1d3",
+    "title": "习近平向全国广大教师和教育工作者致以节日祝贺和诚挚问候",
+    "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7080532.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-09-10",
+    "fetchedAt": "2026-09-10T02:10:49.606Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260910_d59f847a",
+    "title": "需求保持扩张 我国物流市场预期呈现积极变化",
+    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202609/content_7080563.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-09-10",
+    "fetchedAt": "2026-09-10T02:10:50.690Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260910_e87d634a",
+    "title": "习近平就朝鲜国庆78周年向朝鲜最高领导人金正恩致贺电",
+    "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7080483.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-09-10",
+    "fetchedAt": "2026-09-10T02:10:51.000Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260910_07676fe9",
+    "title": "在第四十二个教师节到来之际 习近平向全国广大教师和教育工作者致以节日祝贺和诚挚问候",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-09/09/c_1790703646226015.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-09-10",
+    "fetchedAt": "2026-09-10T02:10:53.419Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
     "id": "news_20260909_57f22bfe",
     "title": "习近平就朝鲜国庆78周年向朝鲜最高领导人金正恩致贺电",
     "url": "https://www.court.gov.cn/zixun/xiangqing/511291.html",
@@ -807,291 +897,6 @@
     "legalPoint": "",
     "tags": [
       "工信部"
-    ]
-  },
-  {
-    "id": "news_20260902_d7499ad0",
-    "title": "习近平抵达埃及开罗国际机场发表书面讲话",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/510511.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-09-02",
-    "fetchedAt": "2026-09-02T02:02:58.073Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20260902_66b1312e",
-    "title": "习近平主席重要讲话为上合组织实现更高质量发展擘画蓝图",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/510591.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-09-02",
-    "fetchedAt": "2026-09-02T02:02:58.921Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20260902_022ae2de",
-    "title": "习近平抵达开罗对埃及进行国事访问",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/510501.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-09-02",
-    "fetchedAt": "2026-09-02T02:02:59.244Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20260902_7b81b8d7",
-    "title": "习近平出席“上海合作组织+”会议并发表重要讲话",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/510441.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-09-02",
-    "fetchedAt": "2026-09-02T02:02:59.563Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20260902_fa4e8948",
-    "title": "习近平出席上海合作组织成员国元首理事会第二十六次会议并发表重...",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/510401.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-09-02",
-    "fetchedAt": "2026-09-02T02:02:59.879Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20260902_6ea16127",
-    "title": "习近平抵达开罗对埃及进行国事访问",
-    "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7079944.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-02",
-    "fetchedAt": "2026-09-02T02:03:02.522Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260902_68735f4c",
-    "title": "习近平抵达埃及开罗国际机场发表书面讲话",
-    "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7079948.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-02",
-    "fetchedAt": "2026-09-02T02:03:02.844Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260902_e33576f2",
-    "title": "习近平在埃及媒体发表署名文章",
-    "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7079769.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-02",
-    "fetchedAt": "2026-09-02T02:03:03.163Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260902_b3772082",
-    "title": "习近平抵达开罗对埃及进行国事访问",
-    "url": "https://www.gov.cn/home/toutu/202609/content_7079956.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-02",
-    "fetchedAt": "2026-09-02T02:03:03.487Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260902_bf7ebd96",
-    "title": "习近平出席上海合作组织成员国元首理事会第二十六次会议并发表重要讲话",
-    "url": "https://www.gov.cn/home/toutu/202609/content_7079854.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-02",
-    "fetchedAt": "2026-09-02T02:03:03.804Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260902_87d27293",
-    "title": "习近平出席上海合作组织成员国元首理事会第二十六次会议并发表重要讲话",
-    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_f094c74e60cc49419b89172727c92cd5.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-02",
-    "fetchedAt": "2026-09-02T02:03:07.092Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20260902_97327761",
-    "title": "习近平抵达开罗对埃及进行国事访问",
-    "url": "http://www.miit.gov.cn/xwfb/szyw/art/2026/art_2ec30369626c42f6ba43876739f1b888.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-02",
-    "fetchedAt": "2026-09-02T02:03:07.408Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20260902_864d4e92",
-    "title": "李乐成会见美中贸易全国委员会董事会代表团",
-    "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_b7f82fc6ed564fa0a0387751fef5daa2.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-02",
-    "fetchedAt": "2026-09-02T02:03:07.724Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20260902_6b55c835",
-    "title": "工业和信息化部—国际电信联盟“空间促进发展”高级别研讨会在上海举行",
-    "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_98ad930c11ee4c9092fee26b82749ac9.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-02",
-    "fetchedAt": "2026-09-02T02:03:08.037Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20260902_ef9f84f5",
-    "title": "缺陷产品 召回查询",
-    "url": "http://qxzh.samr.gov.cn/qxzh/qxxxcx/web.jsp",
-    "source": "市场监管总局",
-    "sourceType": "html-list",
-    "category": "企业合规",
-    "date": "2026-09-02",
-    "fetchedAt": "2026-09-02T02:03:10.060Z",
-    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "市场监管总局"
-    ]
-  },
-  {
-    "id": "news_20260902_2c3826d7",
-    "title": "缺陷线索 报告",
-    "url": "http://qxzh.samr.gov.cn/qxzh/qxxxbg/web.jsp?sour=samr",
-    "source": "市场监管总局",
-    "sourceType": "html-list",
-    "category": "企业合规",
-    "date": "2026-09-02",
-    "fetchedAt": "2026-09-02T02:03:10.385Z",
-    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "市场监管总局"
-    ]
-  },
-  {
-    "id": "news_20260902_ca2c3b5e",
-    "title": "国产（进口）保健食品注册管理信息系统",
-    "url": "https://zwfw.samr.gov.cn/guideDetail?id=22d18e7b4dc749fa9d1a52d172c2b3f8",
-    "source": "市场监管总局",
-    "sourceType": "html-list",
-    "category": "企业合规",
-    "date": "2026-09-02",
-    "fetchedAt": "2026-09-02T02:03:10.699Z",
-    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "市场监管总局"
-    ]
-  },
-  {
-    "id": "news_20260902_cea4f50a",
-    "title": "特殊医学用途配方食品注册申请系统",
-    "url": "https://zwfw.samr.gov.cn/guideDetail?id=22d18e7b4dc749fa9d1a52d172c2b2f8",
-    "source": "市场监管总局",
-    "sourceType": "html-list",
-    "category": "企业合规",
-    "date": "2026-09-02",
-    "fetchedAt": "2026-09-02T02:03:11.025Z",
-    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "市场监管总局"
-    ]
-  },
-  {
-    "id": "news_20260902_a33a7030",
-    "title": "婴幼儿配方乳粉产品配方注册申请系统",
-    "url": "https://zwfw.samr.gov.cn/guideDetail?id=22d18e7b4dc749fa9d1a52d172c2b1f8",
-    "source": "市场监管总局",
-    "sourceType": "html-list",
-    "category": "企业合规",
-    "date": "2026-09-02",
-    "fetchedAt": "2026-09-02T02:03:11.344Z",
-    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "市场监管总局"
     ]
   }
 ]
