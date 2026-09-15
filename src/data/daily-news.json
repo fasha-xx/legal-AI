@@ -1,5 +1,155 @@
 [
   {
+    "id": "news_20260915_c2ae0aec",
+    "title": "习近平结束出席金砖国家领导人第十八次会晤回到北京",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/511741.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-09-15",
+    "fetchedAt": "2026-09-15T02:31:59.380Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20260915_45047966",
+    "title": "习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/511691.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-09-15",
+    "fetchedAt": "2026-09-15T02:32:00.115Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20260915_4cc80559",
+    "title": "《知识产权保护和运用“十五五”规划》",
+    "url": "https://www.cnipa.gov.cn/col/col3692/index.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-09-15",
+    "fetchedAt": "2026-09-15T02:32:02.428Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
+    "id": "news_20260915_6f7e6226",
+    "title": "习近平主席赴印度新德里出席金砖国家领导人第十八次会晤纪实",
+    "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081079.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-09-15",
+    "fetchedAt": "2026-09-15T02:32:03.740Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260915_e6c9fdbd",
+    "title": "为全球南方聚力 启金砖合作新程",
+    "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7080989.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-09-15",
+    "fetchedAt": "2026-09-15T02:32:04.018Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260915_7b10d2cd",
+    "title": "金砖国家领导人第十八次会晤新德里宣言（全文）",
+    "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081072.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-09-15",
+    "fetchedAt": "2026-09-15T02:32:04.298Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260915_0e870e22",
+    "title": "习近平主席赴印度新德里出席金砖国家领导人第十八次会晤纪实",
+    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_b689e16ef9124e43a3a455d5ebbcb319.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-09-15",
+    "fetchedAt": "2026-09-15T02:32:17.446Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
+    "id": "news_20260915_9f17cca6",
+    "title": "为全球南方聚力 启金砖合作新程",
+    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_41e9fdfe8a194e22941e09d518b46625.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-09-15",
+    "fetchedAt": "2026-09-15T02:32:18.326Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
+    "id": "news_20260915_912aa52b",
+    "title": "| 金砖国家领导人第十八次会晤新德里宣言（全文）",
+    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_116602ae8eef46c288ce74238951c75e.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-09-15",
+    "fetchedAt": "2026-09-15T02:32:18.600Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
+    "id": "news_20260915_e97ec962",
+    "title": "习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话",
+    "url": "http://www.miit.gov.cn/xwfb/szyw/art/2026/art_119fae842a5a438c9c1b9e755a2bbfc0.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-09-15",
+    "fetchedAt": "2026-09-15T02:32:18.876Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
     "id": "news_20260914_22e93fca",
     "title": "习近平出席金砖国家领导人第十八次会晤第二阶段会议",
     "url": "https://www.court.gov.cn/zixun/xiangqing/511681.html",
@@ -878,111 +1028,6 @@
     "category": "政策法规",
     "date": "2026-09-08",
     "fetchedAt": "2026-09-08T02:08:46.668Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20260907_3dc28052",
-    "title": "总书记的人民情怀 | “推动未来产业同新兴产业、传统产业相得益彰”",
-    "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7080313.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-07",
-    "fetchedAt": "2026-09-07T01:57:15.374Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260907_1b088f47",
-    "title": "《2026“把青春华章写在祖国大地上”大思政课网络主题宣传和互动引导活动》专题",
-    "url": "https://www.cac.gov.cn//www.cac.gov.cn/gzzt/ztzl/zt/youth/A0920011312index_1.htm",
-    "source": "网信中国",
-    "sourceType": "html-list",
-    "category": "AI 与数据合规",
-    "date": "2026-09-07",
-    "fetchedAt": "2026-09-07T01:57:17.173Z",
-    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "网信中国"
-    ]
-  },
-  {
-    "id": "news_20260907_0c2875c8",
-    "title": "习近平主席出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问纪实",
-    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_c43da868b04748cb9d786b7a35ba66f8.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-07",
-    "fetchedAt": "2026-09-07T01:57:19.301Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20260907_9c71daf8",
-    "title": "习近平同埃及总统塞西会谈",
-    "url": "http://www.miit.gov.cn/xwfb/szyw/art/2026/art_6a20bba58f30484abaca7b4fd188ffd6.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-07",
-    "fetchedAt": "2026-09-07T01:57:20.175Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20260907_c6820058",
-    "title": "学习贯彻党的二十届四中全会精神",
-    "url": "https://www.miit.gov.cn/ztzl/rdzt/xxgcddesjszqhjs0802/index.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-07",
-    "fetchedAt": "2026-09-07T01:57:20.499Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20260907_5070e56b",
-    "title": "国际电信联盟第七届世界电信/信息通信技术政策论坛在巴哈马拿骚召开",
-    "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_7982b459b09e4adb907255c723f152c8.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-07",
-    "fetchedAt": "2026-09-07T01:57:20.826Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20260907_65d14809",
-    "title": "第32次亚太经合组织中小企业部长会议在广州举行",
-    "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_20d03501bcc34790a0443ff3ef6b52ba.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-07",
-    "fetchedAt": "2026-09-07T01:57:21.146Z",
     "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
     "legalPoint": "",
     "tags": [
