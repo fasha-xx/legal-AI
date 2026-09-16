@@ -1,5 +1,65 @@
 [
   {
+    "id": "news_20260916_81696e56",
+    "title": "习近平给福建省“漳州110”全体队员回信",
+    "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081125.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-09-16",
+    "fetchedAt": "2026-09-16T02:26:19.660Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260916_8e9a1622",
+    "title": "习近平：在加强基础研究座谈会上的讲话",
+    "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081174.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-09-16",
+    "fetchedAt": "2026-09-16T02:26:20.858Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260916_23e886c0",
+    "title": "总体平稳 向新向优：7组数字看8月份中国经济",
+    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202609/content_7081201.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-09-16",
+    "fetchedAt": "2026-09-16T02:26:21.193Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260916_4a1805fd",
+    "title": "《求是》杂志发表习近平总书记重要文章《在加强基础研究座谈会上的讲话》",
+    "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081172.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-09-16",
+    "fetchedAt": "2026-09-16T02:26:21.518Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
     "id": "news_20260915_c2ae0aec",
     "title": "习近平结束出席金砖国家领导人第十八次会晤回到北京",
     "url": "https://www.court.gov.cn/zixun/xiangqing/511741.html",
@@ -938,96 +998,6 @@
     "category": "政策法规",
     "date": "2026-09-09",
     "fetchedAt": "2026-09-09T02:13:00.383Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20260908_92266eb7",
-    "title": "习近平总书记关切事丨育好时代新苗",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/511131.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-09-08",
-    "fetchedAt": "2026-09-08T02:08:38.525Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20260908_ba043c85",
-    "title": "时代·人民·文明——中国元首外交的思想启迪",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/511001.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-09-08",
-    "fetchedAt": "2026-09-08T02:08:39.756Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20260908_67984200",
-    "title": "《习近平生态文明思想概论》出版发行",
-    "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7080344.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-08",
-    "fetchedAt": "2026-09-08T02:08:42.349Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260908_662e3f2a",
-    "title": "习近平主席中亚中东之行推动全球治理倡议走深走实",
-    "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7080395.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-08",
-    "fetchedAt": "2026-09-08T02:08:42.641Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260908_a16edacb",
-    "title": "国新办举行新闻发布会 介绍推动历史经典产业高质量发展有关情况",
-    "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_9de7da6aaf4345c6920b4fdf3a0732f5.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-08",
-    "fetchedAt": "2026-09-08T02:08:46.377Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20260908_a711f3e0",
-    "title": "第32次亚太经合组织（APEC）中小企业部长会议新闻发布会在广州召开",
-    "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_e82cc172dbc04a22a0c3fa3ad5533f86.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-08",
-    "fetchedAt": "2026-09-08T02:08:46.668Z",
     "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
     "legalPoint": "",
     "tags": [
