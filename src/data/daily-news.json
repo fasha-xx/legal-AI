@@ -1,5 +1,80 @@
 [
   {
+    "id": "news_20260918_fb48b84f",
+    "title": "习近平就发展先进制造业作出重要指示",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/512121.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-09-18",
+    "fetchedAt": "2026-09-18T02:16:04.780Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20260918_ffaf283a",
+    "title": "学习进行时丨让新兴技术照亮共同繁荣之路",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/512051.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-09-18",
+    "fetchedAt": "2026-09-18T02:16:06.046Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20260918_ff36cbd7",
+    "title": "第十五届中国知识产权年会在京开幕",
+    "url": "https://www.cnipa.gov.cn/art/2026/9/8/art_51_208064.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-09-18",
+    "fetchedAt": "2026-09-18T02:16:08.005Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
+    "id": "news_20260918_32af7195",
+    "title": "习近平就发展先进制造业作出重要指示",
+    "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081344.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-09-18",
+    "fetchedAt": "2026-09-18T02:16:08.635Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260918_d3bd6935",
+    "title": "总书记为持续做大做强先进制造业指明方向",
+    "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081384.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-09-18",
+    "fetchedAt": "2026-09-18T02:16:08.971Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
     "id": "news_20260917_375d90aa",
     "title": "习近平致信祝贺吉林大学建校80周年",
     "url": "https://www.court.gov.cn/zixun/xiangqing/512021.html",
@@ -867,96 +942,6 @@
     "legalPoint": "",
     "tags": [
       "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260910_f808b2ec",
-    "title": "习近平同英国首相伯纳姆通电话",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/511221.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-09-10",
-    "fetchedAt": "2026-09-10T02:10:47.141Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20260910_a42781e7",
-    "title": "国家知识产权局召开党组理论学习中心组专题学习会",
-    "url": "https://www.cnipa.gov.cn/art/2026/6/2/art_51_206620.html",
-    "source": "国家知识产权局",
-    "sourceType": "html-list",
-    "category": "知识产权",
-    "date": "2026-09-10",
-    "fetchedAt": "2026-09-10T02:10:48.682Z",
-    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "国家知识产权局"
-    ]
-  },
-  {
-    "id": "news_20260910_63eca1d3",
-    "title": "习近平向全国广大教师和教育工作者致以节日祝贺和诚挚问候",
-    "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7080532.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-10",
-    "fetchedAt": "2026-09-10T02:10:49.606Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260910_d59f847a",
-    "title": "需求保持扩张 我国物流市场预期呈现积极变化",
-    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202609/content_7080563.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-10",
-    "fetchedAt": "2026-09-10T02:10:50.690Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260910_e87d634a",
-    "title": "习近平就朝鲜国庆78周年向朝鲜最高领导人金正恩致贺电",
-    "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7080483.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-10",
-    "fetchedAt": "2026-09-10T02:10:51.000Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260910_07676fe9",
-    "title": "在第四十二个教师节到来之际 习近平向全国广大教师和教育工作者致以节日祝贺和诚挚问候",
-    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-09/09/c_1790703646226015.htm",
-    "source": "网信中国",
-    "sourceType": "html-list",
-    "category": "AI 与数据合规",
-    "date": "2026-09-10",
-    "fetchedAt": "2026-09-10T02:10:53.419Z",
-    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "网信中国"
     ]
   }
 ]
