@@ -1,5 +1,35 @@
 [
   {
+    "id": "news_20260919_a42781e7",
+    "title": "国家知识产权局召开党组理论学习中心组专题学习会",
+    "url": "https://www.cnipa.gov.cn/art/2026/6/2/art_51_206620.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-09-19",
+    "fetchedAt": "2026-09-19T02:19:22.099Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
+    "id": "news_20260919_05c602ca",
+    "title": "习近平总书记关于加强和改进民族工作的重要思想指引民族团结进步事业高质量发展",
+    "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081402.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-09-19",
+    "fetchedAt": "2026-09-19T02:19:23.700Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
     "id": "news_20260918_fb48b84f",
     "title": "习近平就发展先进制造业作出重要指示",
     "url": "https://www.court.gov.cn/zixun/xiangqing/512121.html",
@@ -882,66 +912,6 @@
     "legalPoint": "",
     "tags": [
       "工信部"
-    ]
-  },
-  {
-    "id": "news_20260911_3052cf6c",
-    "title": "习近平将赴印度出席金砖国家领导人第十八次会晤",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/511431.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-09-11",
-    "fetchedAt": "2026-09-11T02:07:23.856Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20260911_e10c0f6a",
-    "title": "习近平总书记的重要论述指引教师工作开创新局面",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/511391.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-09-11",
-    "fetchedAt": "2026-09-11T02:07:24.906Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20260911_251da092",
-    "title": "习近平将赴印度出席金砖国家领导人第十八次会晤",
-    "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7080661.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-11",
-    "fetchedAt": "2026-09-11T02:07:28.054Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260911_53bce713",
-    "title": "习近平对山东青岛市北海造船厂一货轮火灾事故作出重要指示",
-    "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7080636.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-11",
-    "fetchedAt": "2026-09-11T02:07:28.372Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
     ]
   }
 ]
