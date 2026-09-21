@@ -1,5 +1,95 @@
 [
   {
+    "id": "news_20260921_64e05421",
+    "title": "习近平总书记关切事丨以文化自觉，守护城市根脉",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/512301.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-09-21",
+    "fetchedAt": "2026-09-21T02:25:46.459Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20260921_1011db63",
+    "title": "习近平总书记关切事丨以人为本，让城市更有温度",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/512231.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-09-21",
+    "fetchedAt": "2026-09-21T02:25:47.392Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20260921_f312fe00",
+    "title": "为了共同繁荣的梦想——习近平主席引领全球发展倡议造福世界",
+    "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081605.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-09-21",
+    "fetchedAt": "2026-09-21T02:25:48.862Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260921_297b4f58",
+    "title": "五年笃行，中国坚定做全球发展合作的行动派——习近平主席引领推进落实全球发展倡议",
+    "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081624.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-09-21",
+    "fetchedAt": "2026-09-21T02:25:49.182Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260921_c9aa5f9f",
+    "title": "2026年前8个月国家铁路发送货物26.9亿吨",
+    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202609/content_7081603.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-09-21",
+    "fetchedAt": "2026-09-21T02:25:49.505Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260921_70a3e40a",
+    "title": "《深入学习贯彻习近平总书记在网络安全和信息化工作座谈会上的重要讲话精神》专题",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/gzzt/ztzl/zt/tenth/A0920011307index_1.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-09-21",
+    "fetchedAt": "2026-09-21T02:25:52.215Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
     "id": "news_20260920_e95ddca0",
     "title": "习近平总书记指引民族团结进步事业高质量发展",
     "url": "https://www.court.gov.cn/zixun/xiangqing/512141.html",
@@ -597,231 +687,6 @@
     "legalPoint": "",
     "tags": [
       "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260913_54ddd8d8",
-    "title": "习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话",
-    "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7080900.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-13",
-    "fetchedAt": "2026-09-13T02:09:30.854Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260913_aaeb0e76",
-    "title": "习近平宣布中国将于明年接任金砖主席国",
-    "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7080874.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-13",
-    "fetchedAt": "2026-09-13T02:09:31.757Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260913_6d893d2f",
-    "title": "总结金砖20年发展成就",
-    "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7080876.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-13",
-    "fetchedAt": "2026-09-13T02:09:32.038Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260913_dde31add",
-    "title": "习近平：金砖国家要坚定站在历史正确一边，勇做时代先锋",
-    "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7080877.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-13",
-    "fetchedAt": "2026-09-13T02:09:32.330Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260913_8f2b6062",
-    "title": "习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话",
-    "url": "https://www.gov.cn/home/toutu/202609/content_7080911.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-13",
-    "fetchedAt": "2026-09-13T02:09:32.608Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260913_179aaee0",
-    "title": "习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话",
-    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-09/12/c_1790968181579388.htm",
-    "source": "网信中国",
-    "sourceType": "html-list",
-    "category": "AI 与数据合规",
-    "date": "2026-09-13",
-    "fetchedAt": "2026-09-13T02:09:34.418Z",
-    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "网信中国"
-    ]
-  },
-  {
-    "id": "news_20260913_86f984d1",
-    "title": "习近平宣布中国将于明年接任金砖主席国",
-    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-09/12/c_1790966018117648.htm",
-    "source": "网信中国",
-    "sourceType": "html-list",
-    "category": "AI 与数据合规",
-    "date": "2026-09-13",
-    "fetchedAt": "2026-09-13T02:09:34.701Z",
-    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "网信中国"
-    ]
-  },
-  {
-    "id": "news_20260913_d3012364",
-    "title": "习近平总结金砖20年发展成就",
-    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-09/12/c_1790966018192835.htm",
-    "source": "网信中国",
-    "sourceType": "html-list",
-    "category": "AI 与数据合规",
-    "date": "2026-09-13",
-    "fetchedAt": "2026-09-13T02:09:34.978Z",
-    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "网信中国"
-    ]
-  },
-  {
-    "id": "news_20260913_89f4d87e",
-    "title": "习近平：金砖国家要坚定站在历史正确一边，勇做时代先锋",
-    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-09/12/c_1790966018220230.htm",
-    "source": "网信中国",
-    "sourceType": "html-list",
-    "category": "AI 与数据合规",
-    "date": "2026-09-13",
-    "fetchedAt": "2026-09-13T02:09:35.263Z",
-    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "网信中国"
-    ]
-  },
-  {
-    "id": "news_20260913_99c7d854",
-    "title": "习近平：中方愿同金砖成员一道，为实现中东海湾地区和平安宁发挥应有作用",
-    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-09/12/c_1790966018271487.htm",
-    "source": "网信中国",
-    "sourceType": "html-list",
-    "category": "AI 与数据合规",
-    "date": "2026-09-13",
-    "fetchedAt": "2026-09-13T02:09:35.538Z",
-    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "网信中国"
-    ]
-  },
-  {
-    "id": "news_20260913_ef9f84f5",
-    "title": "缺陷产品 召回查询",
-    "url": "http://qxzh.samr.gov.cn/qxzh/qxxxcx/web.jsp",
-    "source": "市场监管总局",
-    "sourceType": "html-list",
-    "category": "企业合规",
-    "date": "2026-09-13",
-    "fetchedAt": "2026-09-13T02:09:40.597Z",
-    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "市场监管总局"
-    ]
-  },
-  {
-    "id": "news_20260913_2c3826d7",
-    "title": "缺陷线索 报告",
-    "url": "http://qxzh.samr.gov.cn/qxzh/qxxxbg/web.jsp?sour=samr",
-    "source": "市场监管总局",
-    "sourceType": "html-list",
-    "category": "企业合规",
-    "date": "2026-09-13",
-    "fetchedAt": "2026-09-13T02:09:41.663Z",
-    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "市场监管总局"
-    ]
-  },
-  {
-    "id": "news_20260913_ca2c3b5e",
-    "title": "国产（进口）保健食品注册管理信息系统",
-    "url": "https://zwfw.samr.gov.cn/guideDetail?id=22d18e7b4dc749fa9d1a52d172c2b3f8",
-    "source": "市场监管总局",
-    "sourceType": "html-list",
-    "category": "企业合规",
-    "date": "2026-09-13",
-    "fetchedAt": "2026-09-13T02:09:41.942Z",
-    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "市场监管总局"
-    ]
-  },
-  {
-    "id": "news_20260913_cea4f50a",
-    "title": "特殊医学用途配方食品注册申请系统",
-    "url": "https://zwfw.samr.gov.cn/guideDetail?id=22d18e7b4dc749fa9d1a52d172c2b2f8",
-    "source": "市场监管总局",
-    "sourceType": "html-list",
-    "category": "企业合规",
-    "date": "2026-09-13",
-    "fetchedAt": "2026-09-13T02:09:42.227Z",
-    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "市场监管总局"
-    ]
-  },
-  {
-    "id": "news_20260913_a33a7030",
-    "title": "婴幼儿配方乳粉产品配方注册申请系统",
-    "url": "https://zwfw.samr.gov.cn/guideDetail?id=22d18e7b4dc749fa9d1a52d172c2b1f8",
-    "source": "市场监管总局",
-    "sourceType": "html-list",
-    "category": "企业合规",
-    "date": "2026-09-13",
-    "fetchedAt": "2026-09-13T02:09:42.504Z",
-    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "市场监管总局"
     ]
   }
 ]
