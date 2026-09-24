@@ -1,5 +1,95 @@
 [
   {
+    "id": "news_20260924_2b5b96fb",
+    "title": "习近平抵达美国安德鲁斯空军基地发表书面讲话",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/512821.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-09-24",
+    "fetchedAt": "2026-09-24T02:18:10.769Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20260924_387c67e9",
+    "title": "习近平抵达华盛顿对美国进行国事访问",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/512811.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-09-24",
+    "fetchedAt": "2026-09-24T02:18:11.677Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20260924_4cc80559",
+    "title": "《知识产权保护和运用“十五五”规划》",
+    "url": "https://www.cnipa.gov.cn/col/col3692/index.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-09-24",
+    "fetchedAt": "2026-09-24T02:18:13.123Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
+    "id": "news_20260924_99106294",
+    "title": "习近平抵达华盛顿对美国进行国事访问",
+    "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081919.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-09-24",
+    "fetchedAt": "2026-09-24T02:18:14.708Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260924_d1084dc1",
+    "title": "习近平抵达美国安德鲁斯空军基地发表书面讲话",
+    "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081944.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-09-24",
+    "fetchedAt": "2026-09-24T02:18:15.027Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260924_d39b3f3c",
+    "title": "习近平抵达华盛顿对美国进行国事访问",
+    "url": "https://www.gov.cn/home/toutu/202609/content_7081958.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-09-24",
+    "fetchedAt": "2026-09-24T02:18:15.365Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
     "id": "news_20260923_69a6b676",
     "title": "习近平向第48届世界技能大赛致贺信",
     "url": "https://www.court.gov.cn/zixun/xiangqing/512641.html",
@@ -728,66 +818,6 @@
     "category": "政策法规",
     "date": "2026-09-17",
     "fetchedAt": "2026-09-17T02:30:14.154Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260916_81696e56",
-    "title": "习近平给福建省“漳州110”全体队员回信",
-    "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081125.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-16",
-    "fetchedAt": "2026-09-16T02:26:19.660Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260916_8e9a1622",
-    "title": "习近平：在加强基础研究座谈会上的讲话",
-    "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081174.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-16",
-    "fetchedAt": "2026-09-16T02:26:20.858Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260916_23e886c0",
-    "title": "总体平稳 向新向优：7组数字看8月份中国经济",
-    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202609/content_7081201.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-16",
-    "fetchedAt": "2026-09-16T02:26:21.193Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260916_4a1805fd",
-    "title": "《求是》杂志发表习近平总书记重要文章《在加强基础研究座谈会上的讲话》",
-    "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081172.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-16",
-    "fetchedAt": "2026-09-16T02:26:21.518Z",
     "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
     "legalPoint": "",
     "tags": [
