@@ -1,5 +1,125 @@
 [
   {
+    "id": "news_20260928_e5cc24eb",
+    "title": "中美达成八点成果共识",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/513061.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-09-28",
+    "fetchedAt": "2026-09-28T02:39:14.930Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20260928_a42781e7",
+    "title": "国家知识产权局召开党组理论学习中心组专题学习会",
+    "url": "https://www.cnipa.gov.cn/art/2026/6/2/art_51_206620.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-09-28",
+    "fetchedAt": "2026-09-28T02:39:15.941Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
+    "id": "news_20260928_589aed4b",
+    "title": "大国正确相处的新路，就在脚下——习近平主席对美国进行国事访问纪实",
+    "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7082196.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-09-28",
+    "fetchedAt": "2026-09-28T02:39:16.648Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260928_8a544c60",
+    "title": "习近平同美国总统特朗普会谈",
+    "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7082035.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-09-28",
+    "fetchedAt": "2026-09-28T02:39:17.322Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260928_5a4f318d",
+    "title": "习近平结束对美国的国事访问回到北京",
+    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_298809c887d44af9b985bba0b978ae5e.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-09-28",
+    "fetchedAt": "2026-09-28T02:39:20.301Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
+    "id": "news_20260928_e98ad53f",
+    "title": "中美达成八点成果共识",
+    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_dba39b35d7de4991a77e73f05285fa5d.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-09-28",
+    "fetchedAt": "2026-09-28T02:39:20.557Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
+    "id": "news_20260928_7e9028bc",
+    "title": "开辟大国相处正确之道 书写中美关系历史新篇",
+    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_0584296fb2f24a8086009fea4d3cf87a.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-09-28",
+    "fetchedAt": "2026-09-28T02:39:20.811Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
+    "id": "news_20260928_8529793f",
+    "title": "习近平和彭丽媛同美国总统特朗普夫妇茶叙",
+    "url": "http://www.miit.gov.cn/xwfb/szyw/art/2026/art_d8f74062b48f4f6189f75920c928a42c.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-09-28",
+    "fetchedAt": "2026-09-28T02:39:21.070Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
     "id": "news_20260927_cc313bd0",
     "title": "习近平结束对美国的国事访问回到北京",
     "url": "https://www.court.gov.cn/zixun/xiangqing/513051.html",
@@ -1103,96 +1223,6 @@
     "category": "AI 与数据合规",
     "date": "2026-09-21",
     "fetchedAt": "2026-09-21T02:25:52.215Z",
-    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "网信中国"
-    ]
-  },
-  {
-    "id": "news_20260920_e95ddca0",
-    "title": "习近平总书记指引民族团结进步事业高质量发展",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/512141.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-09-20",
-    "fetchedAt": "2026-09-20T02:27:23.924Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20260920_04b8c9dc",
-    "title": "四方面措施建设改造城市地下管网",
-    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202609/content_7081477.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-20",
-    "fetchedAt": "2026-09-20T02:27:25.896Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260920_aca07529",
-    "title": "李强主持召开国务院常务会议 听取老龄工作情况汇报等",
-    "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081464.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-20",
-    "fetchedAt": "2026-09-20T02:27:26.819Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260920_517eab81",
-    "title": "习近平就发展先进制造业作出重要指示",
-    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-09/17/c_1791396323307625.htm",
-    "source": "网信中国",
-    "sourceType": "html-list",
-    "category": "AI 与数据合规",
-    "date": "2026-09-20",
-    "fetchedAt": "2026-09-20T02:27:29.160Z",
-    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "网信中国"
-    ]
-  },
-  {
-    "id": "news_20260920_411f3840",
-    "title": "习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话",
-    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-09/13/c_1791070543981899.htm",
-    "source": "网信中国",
-    "sourceType": "html-list",
-    "category": "AI 与数据合规",
-    "date": "2026-09-20",
-    "fetchedAt": "2026-09-20T02:27:29.459Z",
-    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "网信中国"
-    ]
-  },
-  {
-    "id": "news_20260920_604ec7d9",
-    "title": "《2026国家网络安全宣传周》专题",
-    "url": "https://www.cac.gov.cn//www.cac.gov.cn/gzzt/ztzl/zt/waz/A0920011313index_1.htm",
-    "source": "网信中国",
-    "sourceType": "html-list",
-    "category": "AI 与数据合规",
-    "date": "2026-09-20",
-    "fetchedAt": "2026-09-20T02:27:29.754Z",
     "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
     "legalPoint": "",
     "tags": [
