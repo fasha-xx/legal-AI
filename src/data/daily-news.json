@@ -1,5 +1,35 @@
 [
   {
+    "id": "news_20261002_9faad794",
+    "title": "知识产权强国建设纲要（2021－2035年）",
+    "url": "https://www.cnipa.gov.cn/col/col2741/index.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-10-02",
+    "fetchedAt": "2026-10-02T03:12:17.128Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
+    "id": "news_20261002_2befcd76",
+    "title": "2026年9月份我国制造业采购经理指数（PMI）为50.1%",
+    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202609/content_7082543.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-10-02",
+    "fetchedAt": "2026-10-02T03:12:17.615Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
     "id": "news_20261001_677a0cae",
     "title": "烈士纪念日向人民英雄敬献花篮仪式在京隆重举行",
     "url": "https://www.court.gov.cn/zixun/xiangqing/513471.html",
@@ -1137,96 +1167,6 @@
     "legalPoint": "",
     "tags": [
       "工信部"
-    ]
-  },
-  {
-    "id": "news_20260924_2b5b96fb",
-    "title": "习近平抵达美国安德鲁斯空军基地发表书面讲话",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/512821.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-09-24",
-    "fetchedAt": "2026-09-24T02:18:10.769Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20260924_387c67e9",
-    "title": "习近平抵达华盛顿对美国进行国事访问",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/512811.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-09-24",
-    "fetchedAt": "2026-09-24T02:18:11.677Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20260924_4cc80559",
-    "title": "《知识产权保护和运用“十五五”规划》",
-    "url": "https://www.cnipa.gov.cn/col/col3692/index.html",
-    "source": "国家知识产权局",
-    "sourceType": "html-list",
-    "category": "知识产权",
-    "date": "2026-09-24",
-    "fetchedAt": "2026-09-24T02:18:13.123Z",
-    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "国家知识产权局"
-    ]
-  },
-  {
-    "id": "news_20260924_99106294",
-    "title": "习近平抵达华盛顿对美国进行国事访问",
-    "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081919.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-24",
-    "fetchedAt": "2026-09-24T02:18:14.708Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260924_d1084dc1",
-    "title": "习近平抵达美国安德鲁斯空军基地发表书面讲话",
-    "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7081944.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-24",
-    "fetchedAt": "2026-09-24T02:18:15.027Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260924_d39b3f3c",
-    "title": "习近平抵达华盛顿对美国进行国事访问",
-    "url": "https://www.gov.cn/home/toutu/202609/content_7081958.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-24",
-    "fetchedAt": "2026-09-24T02:18:15.365Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
     ]
   }
 ]
