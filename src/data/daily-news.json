@@ -1,5 +1,50 @@
 [
   {
+    "id": "news_20261006_59542a52",
+    "title": "习近平和彭丽媛同美国总统特朗普夫妇共同参观美国国家档案馆",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/513031.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-10-06",
+    "fetchedAt": "2026-10-06T03:55:14.853Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20261006_fdf42039",
+    "title": "习近平和彭丽媛同美国总统特朗普夫妇茶叙",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/513041.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-10-06",
+    "fetchedAt": "2026-10-06T03:55:15.693Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20261006_ff36cbd7",
+    "title": "第十五届中国知识产权年会在京开幕",
+    "url": "https://www.cnipa.gov.cn/art/2026/9/8/art_51_208064.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-10-06",
+    "fetchedAt": "2026-10-06T03:55:17.505Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
     "id": "news_20261003_4cc80559",
     "title": "《知识产权保护和运用“十五五”规划》",
     "url": "https://www.cnipa.gov.cn/col/col3692/index.html",
@@ -533,126 +578,6 @@
     "category": "政策法规",
     "date": "2026-09-29",
     "fetchedAt": "2026-09-29T03:21:52.597Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20260928_e5cc24eb",
-    "title": "中美达成八点成果共识",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/513061.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-09-28",
-    "fetchedAt": "2026-09-28T02:39:14.930Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20260928_a42781e7",
-    "title": "国家知识产权局召开党组理论学习中心组专题学习会",
-    "url": "https://www.cnipa.gov.cn/art/2026/6/2/art_51_206620.html",
-    "source": "国家知识产权局",
-    "sourceType": "html-list",
-    "category": "知识产权",
-    "date": "2026-09-28",
-    "fetchedAt": "2026-09-28T02:39:15.941Z",
-    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "国家知识产权局"
-    ]
-  },
-  {
-    "id": "news_20260928_589aed4b",
-    "title": "大国正确相处的新路，就在脚下——习近平主席对美国进行国事访问纪实",
-    "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7082196.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-28",
-    "fetchedAt": "2026-09-28T02:39:16.648Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260928_8a544c60",
-    "title": "习近平同美国总统特朗普会谈",
-    "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7082035.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-28",
-    "fetchedAt": "2026-09-28T02:39:17.322Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260928_5a4f318d",
-    "title": "习近平结束对美国的国事访问回到北京",
-    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_298809c887d44af9b985bba0b978ae5e.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-28",
-    "fetchedAt": "2026-09-28T02:39:20.301Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20260928_e98ad53f",
-    "title": "中美达成八点成果共识",
-    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_dba39b35d7de4991a77e73f05285fa5d.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-28",
-    "fetchedAt": "2026-09-28T02:39:20.557Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20260928_7e9028bc",
-    "title": "开辟大国相处正确之道 书写中美关系历史新篇",
-    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_0584296fb2f24a8086009fea4d3cf87a.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-28",
-    "fetchedAt": "2026-09-28T02:39:20.811Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20260928_8529793f",
-    "title": "习近平和彭丽媛同美国总统特朗普夫妇茶叙",
-    "url": "http://www.miit.gov.cn/xwfb/szyw/art/2026/art_d8f74062b48f4f6189f75920c928a42c.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-28",
-    "fetchedAt": "2026-09-28T02:39:21.070Z",
     "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
     "legalPoint": "",
     "tags": [
