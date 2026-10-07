@@ -1,5 +1,20 @@
 [
   {
+    "id": "news_20261007_a42781e7",
+    "title": "国家知识产权局召开党组理论学习中心组专题学习会",
+    "url": "https://www.cnipa.gov.cn/art/2026/6/2/art_51_206620.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-10-07",
+    "fetchedAt": "2026-10-07T03:23:12.422Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
     "id": "news_20261006_59542a52",
     "title": "习近平和彭丽媛同美国总统特朗普夫妇共同参观美国国家档案馆",
     "url": "https://www.court.gov.cn/zixun/xiangqing/513031.html",
@@ -447,141 +462,6 @@
     "legalPoint": "",
     "tags": [
       "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260929_ed21f490",
-    "title": "习近平给四川大学全体师生的回信",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/513311.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-09-29",
-    "fetchedAt": "2026-09-29T03:21:44.704Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20260929_49eefbcb",
-    "title": "习近平就建设更高水平平安中国作出重要指示",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/513211.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-09-29",
-    "fetchedAt": "2026-09-29T03:21:45.413Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20260929_d8647b1b",
-    "title": "陈福利会见泰国商业部知识产权厅厅长奥拉蒙·苏塔维通一行",
-    "url": "https://www.cnipa.gov.cn/art/2026/9/28/art_51_208340.html",
-    "source": "国家知识产权局",
-    "sourceType": "html-list",
-    "category": "知识产权",
-    "date": "2026-09-29",
-    "fetchedAt": "2026-09-29T03:21:46.701Z",
-    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "国家知识产权局"
-    ]
-  },
-  {
-    "id": "news_20260929_ffeab61f",
-    "title": "习近平给四川大学全体师生回信",
-    "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7082344.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-29",
-    "fetchedAt": "2026-09-29T03:21:48.232Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260929_9c121d24",
-    "title": "2026年前8个月全国规模以上工业企业利润增长15.7%",
-    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202609/content_7082228.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-29",
-    "fetchedAt": "2026-09-29T03:21:48.510Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260929_ea59baa1",
-    "title": "烈士纪念日向人民英雄敬献花篮仪式9月30日上午举行 习近平等党和国家领导人将出席",
-    "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7082275.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-29",
-    "fetchedAt": "2026-09-29T03:21:48.791Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260929_0f56574f",
-    "title": "习近平给四川大学全体师生回信",
-    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-09/29/c_1792433371798270.htm",
-    "source": "网信中国",
-    "sourceType": "html-list",
-    "category": "AI 与数据合规",
-    "date": "2026-09-29",
-    "fetchedAt": "2026-09-29T03:21:50.341Z",
-    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "网信中国"
-    ]
-  },
-  {
-    "id": "news_20260929_604ec7d9",
-    "title": "《2026国家网络安全宣传周》专题",
-    "url": "https://www.cac.gov.cn//www.cac.gov.cn/gzzt/ztzl/zt/waz/A0920011313index_1.htm",
-    "source": "网信中国",
-    "sourceType": "html-list",
-    "category": "AI 与数据合规",
-    "date": "2026-09-29",
-    "fetchedAt": "2026-09-29T03:21:50.616Z",
-    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "网信中国"
-    ]
-  },
-  {
-    "id": "news_20260929_8a1fcd4b",
-    "title": "习近平就建设更高水平平安中国作出重要指示",
-    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_9cae67d74a5946e0adb4dfadf6ed0847.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-29",
-    "fetchedAt": "2026-09-29T03:21:52.597Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
     ]
   }
 ]
