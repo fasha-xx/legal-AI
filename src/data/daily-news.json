@@ -1,5 +1,95 @@
 [
   {
+    "id": "news_20261008_c8947933",
+    "title": "习近平和彭丽媛出席特朗普总统夫妇举行的欢迎宴会",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/512931.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-10-08",
+    "fetchedAt": "2026-10-08T03:38:13.505Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20261008_d8647b1b",
+    "title": "陈福利会见泰国商业部知识产权厅厅长奥拉蒙·苏塔维通一行",
+    "url": "https://www.cnipa.gov.cn/art/2026/9/28/art_51_208340.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-10-08",
+    "fetchedAt": "2026-10-08T03:38:15.609Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
+    "id": "news_20261008_ce378694",
+    "title": "铸就社会主义文化新辉煌——习近平文化思想引领文化强国建设迈出坚实步伐",
+    "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7082681.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-10-08",
+    "fetchedAt": "2026-10-08T03:38:17.527Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20261008_604ec7d9",
+    "title": "《2026国家网络安全宣传周》专题",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/gzzt/ztzl/zt/waz/A0920011313index_1.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-10-08",
+    "fetchedAt": "2026-10-08T03:38:19.299Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
+    "id": "news_20261008_8673210a",
+    "title": "铸就社会主义文化新辉煌——习近平文化思想引领文化强国建设迈出坚实步伐",
+    "url": "http://www.miit.gov.cn/xwfb/szyw/art/2026/art_d074becf8328487fbfb165318f8ad998.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-10-08",
+    "fetchedAt": "2026-10-08T03:38:22.303Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
+    "id": "news_20261008_4279858c",
+    "title": "庆祝中华人民共和国成立77周年招待会在京举行 习近平发表重要讲话",
+    "url": "http://www.miit.gov.cn/xwfb/szyw/art/2026/art_1c718f888c864b1d8a7fb68b0f513017.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-10-08",
+    "fetchedAt": "2026-10-08T03:38:23.156Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
     "id": "news_20261007_a42781e7",
     "title": "国家知识产权局召开党组理论学习中心组专题学习会",
     "url": "https://www.cnipa.gov.cn/art/2026/6/2/art_51_206620.html",
@@ -417,51 +507,6 @@
     "legalPoint": "",
     "tags": [
       "市场监管总局"
-    ]
-  },
-  {
-    "id": "news_20260930_16e30bae",
-    "title": "烈士纪念日向人民英雄敬献花篮仪式",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/513451.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-09-30",
-    "fetchedAt": "2026-09-30T03:04:15.110Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20260930_2a39e690",
-    "title": "习近平给四川大学全体师生回信",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/513301.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-09-30",
-    "fetchedAt": "2026-09-30T03:04:16.186Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20260930_d8037d36",
-    "title": "习近平总书记重要指示激励广大干部群众奋力建设更高水平平安中国",
-    "url": "https://www.gov.cn/yaowen/liebiao/202609/content_7082440.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-09-30",
-    "fetchedAt": "2026-09-30T03:04:18.207Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
     ]
   }
 ]
