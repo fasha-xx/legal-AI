@@ -1,5 +1,50 @@
 [
   {
+    "id": "news_20261011_68b88969",
+    "title": "习近平经济思想引领中国加快发展新质生产力",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/513771.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-10-11",
+    "fetchedAt": "2026-10-11T02:59:00.556Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20261011_9faad794",
+    "title": "知识产权强国建设纲要（2021－2035年）",
+    "url": "https://www.cnipa.gov.cn/col/col2741/index.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-10-11",
+    "fetchedAt": "2026-10-11T02:59:02.699Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
+    "id": "news_20261011_de0f1da4",
+    "title": "中共中央、国务院印发《关于发展新质生产力的意见》围绕5方面创新",
+    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202610/content_7082855.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-10-11",
+    "fetchedAt": "2026-10-11T02:59:04.272Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
     "id": "news_20261010_35607157",
     "title": "习近平总书记重要论述引领加快建设航天强国",
     "url": "https://www.court.gov.cn/zixun/xiangqing/513711.html",
@@ -458,21 +503,6 @@
     "category": "知识产权",
     "date": "2026-10-06",
     "fetchedAt": "2026-10-06T03:55:17.505Z",
-    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "国家知识产权局"
-    ]
-  },
-  {
-    "id": "news_20261003_4cc80559",
-    "title": "《知识产权保护和运用“十五五”规划》",
-    "url": "https://www.cnipa.gov.cn/col/col3692/index.html",
-    "source": "国家知识产权局",
-    "sourceType": "html-list",
-    "category": "知识产权",
-    "date": "2026-10-03",
-    "fetchedAt": "2026-10-03T02:58:08.781Z",
     "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
     "legalPoint": "",
     "tags": [
