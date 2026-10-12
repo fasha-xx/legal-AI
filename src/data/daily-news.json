@@ -1,5 +1,110 @@
 [
   {
+    "id": "news_20261012_71716829",
+    "title": "大道致远，笃行不怠——记中国元首外交金秋繁忙季",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/513871.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-10-12",
+    "fetchedAt": "2026-10-12T03:22:10.385Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20261012_415e375d",
+    "title": "习近平总书记同卫生健康工作者的故事",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/513851.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-10-12",
+    "fetchedAt": "2026-10-12T03:22:11.200Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20261012_4cc80559",
+    "title": "《知识产权保护和运用“十五五”规划》",
+    "url": "https://www.cnipa.gov.cn/col/col3692/index.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-10-12",
+    "fetchedAt": "2026-10-12T03:22:12.562Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
+    "id": "news_20261012_8b94d92a",
+    "title": "坚持人民至上、生命至上——习近平总书记引领健康中国建设",
+    "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7082974.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-10-12",
+    "fetchedAt": "2026-10-12T03:22:13.500Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20261012_3f4c05d8",
+    "title": "2026年前三季度全国城镇新增就业1052万人",
+    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202610/content_7082934.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-10-12",
+    "fetchedAt": "2026-10-12T03:22:13.762Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20261012_a7b0d50e",
+    "title": "以创新赢未来——习近平经济思想引领中国加快发展新质生产力",
+    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_a580a8e97473409a9cdf779f1aa09c74.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-10-12",
+    "fetchedAt": "2026-10-12T03:22:16.695Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
+    "id": "news_20261012_fe5d37f1",
+    "title": "中共中央、国务院印发《关于发展新质生产力的意见》",
+    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_e28d611d2ad9441eab88698db2dc89dd.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-10-12",
+    "fetchedAt": "2026-10-12T03:22:16.966Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
     "id": "news_20261011_68b88969",
     "title": "习近平经济思想引领中国加快发展新质生产力",
     "url": "https://www.court.gov.cn/zixun/xiangqing/513771.html",
