@@ -1,5 +1,95 @@
 [
   {
+    "id": "news_20261015_f62b408a",
+    "title": "习近平向第140届中国进出口商品交易会致贺信",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/514221.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-10-15",
+    "fetchedAt": "2026-10-15T02:25:16.620Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20261015_b096841a",
+    "title": "习近平总书记为健康中国建设取得决定性进展指明方向",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/514201.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-10-15",
+    "fetchedAt": "2026-10-15T02:25:17.437Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20261015_ff36cbd7",
+    "title": "第十五届中国知识产权年会在京开幕",
+    "url": "https://www.cnipa.gov.cn/art/2026/9/8/art_51_208064.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-10-15",
+    "fetchedAt": "2026-10-15T02:25:18.897Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
+    "id": "news_20261015_801fc1e5",
+    "title": "习近平向第140届中国进出口商品交易会致贺信",
+    "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7083239.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-10-15",
+    "fetchedAt": "2026-10-15T02:25:19.991Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20261015_bb0e6572",
+    "title": "习近平向第140届中国进出口商品交易会致贺信",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-10/14/c_1793728945952358.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-10-15",
+    "fetchedAt": "2026-10-15T02:25:23.421Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
+    "id": "news_20261015_a41d4c97",
+    "title": "习近平向第140届中国进出口商品交易会致贺信",
+    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_72185c194b72461fad360cebfc7467b1.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-10-15",
+    "fetchedAt": "2026-10-15T02:25:25.740Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
     "id": "news_20261014_7a70d5ad",
     "title": "习近平出席全国卫生与健康大会并发表重要讲话",
     "url": "https://www.court.gov.cn/zixun/xiangqing/514071.html",
@@ -792,21 +882,6 @@
     "legalPoint": "",
     "tags": [
       "工信部"
-    ]
-  },
-  {
-    "id": "news_20261007_a42781e7",
-    "title": "国家知识产权局召开党组理论学习中心组专题学习会",
-    "url": "https://www.cnipa.gov.cn/art/2026/6/2/art_51_206620.html",
-    "source": "国家知识产权局",
-    "sourceType": "html-list",
-    "category": "知识产权",
-    "date": "2026-10-07",
-    "fetchedAt": "2026-10-07T03:23:12.422Z",
-    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "国家知识产权局"
     ]
   }
 ]
