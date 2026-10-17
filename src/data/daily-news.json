@@ -1,5 +1,125 @@
 [
   {
+    "id": "news_20261017_8f09576a",
+    "title": "习近平致信祝贺湖南大学建校100周年",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/514401.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-10-17",
+    "fetchedAt": "2026-10-17T02:11:55.559Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20261017_5bf330b7",
+    "title": "《求是》杂志发表习近平总书记重要文章",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/514301.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-10-17",
+    "fetchedAt": "2026-10-17T02:11:56.688Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20261017_33a0616b",
+    "title": "习近平在内蒙古乌兰察布考察",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/514421.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-10-17",
+    "fetchedAt": "2026-10-17T02:11:57.008Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20261017_d8647b1b",
+    "title": "陈福利会见泰国商业部知识产权厅厅长奥拉蒙·苏塔维通一行",
+    "url": "https://www.cnipa.gov.cn/art/2026/9/28/art_51_208340.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-10-17",
+    "fetchedAt": "2026-10-17T02:11:58.747Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
+    "id": "news_20261017_bd85200e",
+    "title": "习近平在内蒙古乌兰察布考察",
+    "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7083416.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-10-17",
+    "fetchedAt": "2026-10-17T02:11:59.969Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20261017_b3a18c5c",
+    "title": "习近平在内蒙古乌兰察布考察",
+    "url": "https://www.gov.cn/home/toutu/202610/content_7083433.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-10-17",
+    "fetchedAt": "2026-10-17T02:12:00.289Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20261017_4dc6e217",
+    "title": "第140届广交会开展 吸引境外采购商约34万名",
+    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202610/content_7083353.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-10-17",
+    "fetchedAt": "2026-10-17T02:12:00.608Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20261017_8398cbfc",
+    "title": "习近平致信祝贺湖南大学建校100周年",
+    "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7083377.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-10-17",
+    "fetchedAt": "2026-10-17T02:12:00.923Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
     "id": "news_20261016_6799cb5b",
     "title": "习近平：以更高标准、更实举措推进全面从严治党",
     "url": "https://www.court.gov.cn/zixun/xiangqing/514311.html",
@@ -852,21 +972,6 @@
     "legalPoint": "",
     "tags": [
       "市场监管总局"
-    ]
-  },
-  {
-    "id": "news_20261009_e62f16d0",
-    "title": "习近平文化思想引领文化强国建设迈出坚实步伐",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/513561.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-10-09",
-    "fetchedAt": "2026-10-09T03:43:29.840Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
     ]
   }
 ]
