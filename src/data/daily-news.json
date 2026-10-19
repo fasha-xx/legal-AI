@@ -1,5 +1,50 @@
 [
   {
+    "id": "news_20261019_49eeb07d",
+    "title": "“有高远目标，更有耐心有定力”——习近平总书记在内蒙古乌兰察布考察纪实",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/514451.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-10-19",
+    "fetchedAt": "2026-10-19T02:27:44.184Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20261019_70a3e40a",
+    "title": "《深入学习贯彻习近平总书记在网络安全和信息化工作座谈会上的重要讲话精神》专题",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/gzzt/ztzl/zt/tenth/A0920011307index_1.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-10-19",
+    "fetchedAt": "2026-10-19T02:27:47.088Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
+    "id": "news_20261019_e1261957",
+    "title": "《全国网信系统深入学习贯彻中共中央政治局第二十三次集体学习会议精神》专题",
+    "url": "https://www.cac.gov.cn/gzzt/ztzl/zt/wlstzl/A0920011220index_1.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-10-19",
+    "fetchedAt": "2026-10-19T02:27:48.129Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
     "id": "news_20261018_31f642f5",
     "title": "“有高远目标，更有耐心有定力”——习近平总书记在内蒙古乌兰察布考察纪实",
     "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7083537.htm",
@@ -672,51 +717,6 @@
     "legalPoint": "",
     "tags": [
       "工信部"
-    ]
-  },
-  {
-    "id": "news_20261011_68b88969",
-    "title": "习近平经济思想引领中国加快发展新质生产力",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/513771.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-10-11",
-    "fetchedAt": "2026-10-11T02:59:00.556Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20261011_9faad794",
-    "title": "知识产权强国建设纲要（2021－2035年）",
-    "url": "https://www.cnipa.gov.cn/col/col2741/index.html",
-    "source": "国家知识产权局",
-    "sourceType": "html-list",
-    "category": "知识产权",
-    "date": "2026-10-11",
-    "fetchedAt": "2026-10-11T02:59:02.699Z",
-    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "国家知识产权局"
-    ]
-  },
-  {
-    "id": "news_20261011_de0f1da4",
-    "title": "中共中央、国务院印发《关于发展新质生产力的意见》围绕5方面创新",
-    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202610/content_7082855.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-10-11",
-    "fetchedAt": "2026-10-11T02:59:04.272Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
     ]
   }
 ]
