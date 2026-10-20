@@ -1,5 +1,140 @@
 [
   {
+    "id": "news_20261020_dd2947ba",
+    "title": "习近平总书记关切事·长征丨革命老区奋进新程",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/514541.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-10-20",
+    "fetchedAt": "2026-10-20T02:40:44.025Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20261020_3489c2dd",
+    "title": "钟华论：在新的长征路上继续奋勇前进",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/514481.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-10-20",
+    "fetchedAt": "2026-10-20T02:40:45.023Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20261020_9faad794",
+    "title": "知识产权强国建设纲要（2021－2035年）",
+    "url": "https://www.cnipa.gov.cn/col/col2741/index.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-10-20",
+    "fetchedAt": "2026-10-20T02:40:46.559Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
+    "id": "news_20261020_83625eca",
+    "title": "动能向新 结构向优：9组数字看前三季度经济运行总体平稳 高质量发展取得新成效",
+    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202610/content_7083703.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-10-20",
+    "fetchedAt": "2026-10-20T02:40:48.011Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20261020_ef9f84f5",
+    "title": "缺陷产品 召回查询",
+    "url": "http://qxzh.samr.gov.cn/qxzh/qxxxcx/web.jsp",
+    "source": "市场监管总局",
+    "sourceType": "html-list",
+    "category": "企业合规",
+    "date": "2026-10-20",
+    "fetchedAt": "2026-10-20T02:40:53.909Z",
+    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "市场监管总局"
+    ]
+  },
+  {
+    "id": "news_20261020_2c3826d7",
+    "title": "缺陷线索 报告",
+    "url": "http://qxzh.samr.gov.cn/qxzh/qxxxbg/web.jsp?sour=samr",
+    "source": "市场监管总局",
+    "sourceType": "html-list",
+    "category": "企业合规",
+    "date": "2026-10-20",
+    "fetchedAt": "2026-10-20T02:40:54.921Z",
+    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "市场监管总局"
+    ]
+  },
+  {
+    "id": "news_20261020_ca2c3b5e",
+    "title": "国产（进口）保健食品注册管理信息系统",
+    "url": "https://zwfw.samr.gov.cn/guideDetail?id=22d18e7b4dc749fa9d1a52d172c2b3f8",
+    "source": "市场监管总局",
+    "sourceType": "html-list",
+    "category": "企业合规",
+    "date": "2026-10-20",
+    "fetchedAt": "2026-10-20T02:40:55.238Z",
+    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "市场监管总局"
+    ]
+  },
+  {
+    "id": "news_20261020_cea4f50a",
+    "title": "特殊医学用途配方食品注册申请系统",
+    "url": "https://zwfw.samr.gov.cn/guideDetail?id=22d18e7b4dc749fa9d1a52d172c2b2f8",
+    "source": "市场监管总局",
+    "sourceType": "html-list",
+    "category": "企业合规",
+    "date": "2026-10-20",
+    "fetchedAt": "2026-10-20T02:40:55.560Z",
+    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "市场监管总局"
+    ]
+  },
+  {
+    "id": "news_20261020_a33a7030",
+    "title": "婴幼儿配方乳粉产品配方注册申请系统",
+    "url": "https://zwfw.samr.gov.cn/guideDetail?id=22d18e7b4dc749fa9d1a52d172c2b1f8",
+    "source": "市场监管总局",
+    "sourceType": "html-list",
+    "category": "企业合规",
+    "date": "2026-10-20",
+    "fetchedAt": "2026-10-20T02:40:55.872Z",
+    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "市场监管总局"
+    ]
+  },
+  {
     "id": "news_20261019_49eeb07d",
     "title": "“有高远目标，更有耐心有定力”——习近平总书记在内蒙古乌兰察布考察纪实",
     "url": "https://www.court.gov.cn/zixun/xiangqing/514451.html",
@@ -612,111 +747,6 @@
     "legalPoint": "",
     "tags": [
       "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20261012_71716829",
-    "title": "大道致远，笃行不怠——记中国元首外交金秋繁忙季",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/513871.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-10-12",
-    "fetchedAt": "2026-10-12T03:22:10.385Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20261012_415e375d",
-    "title": "习近平总书记同卫生健康工作者的故事",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/513851.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-10-12",
-    "fetchedAt": "2026-10-12T03:22:11.200Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20261012_4cc80559",
-    "title": "《知识产权保护和运用“十五五”规划》",
-    "url": "https://www.cnipa.gov.cn/col/col3692/index.html",
-    "source": "国家知识产权局",
-    "sourceType": "html-list",
-    "category": "知识产权",
-    "date": "2026-10-12",
-    "fetchedAt": "2026-10-12T03:22:12.562Z",
-    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "国家知识产权局"
-    ]
-  },
-  {
-    "id": "news_20261012_8b94d92a",
-    "title": "坚持人民至上、生命至上——习近平总书记引领健康中国建设",
-    "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7082974.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-10-12",
-    "fetchedAt": "2026-10-12T03:22:13.500Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20261012_3f4c05d8",
-    "title": "2026年前三季度全国城镇新增就业1052万人",
-    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202610/content_7082934.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-10-12",
-    "fetchedAt": "2026-10-12T03:22:13.762Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20261012_a7b0d50e",
-    "title": "以创新赢未来——习近平经济思想引领中国加快发展新质生产力",
-    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_a580a8e97473409a9cdf779f1aa09c74.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-10-12",
-    "fetchedAt": "2026-10-12T03:22:16.695Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20261012_fe5d37f1",
-    "title": "中共中央、国务院印发《关于发展新质生产力的意见》",
-    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_e28d611d2ad9441eab88698db2dc89dd.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-10-12",
-    "fetchedAt": "2026-10-12T03:22:16.966Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
     ]
   }
 ]
