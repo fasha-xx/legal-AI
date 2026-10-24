@@ -1,5 +1,110 @@
 [
   {
+    "id": "news_20261024_7706f312",
+    "title": "中共中央政治局召开会议 中共中央总书记习近平主持会议",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/515131.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-10-24",
+    "fetchedAt": "2026-10-24T02:34:38.267Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20261024_cb24d9c0",
+    "title": "习近平对西藏那曲市巴青县7.0级地震作出重要指示",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/515121.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-10-24",
+    "fetchedAt": "2026-10-24T02:34:39.009Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20261024_ff36cbd7",
+    "title": "第十五届中国知识产权年会在京开幕",
+    "url": "https://www.cnipa.gov.cn/art/2026/9/8/art_51_208064.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-10-24",
+    "fetchedAt": "2026-10-24T02:34:40.866Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
+    "id": "news_20261024_62dd38ed",
+    "title": "中共中央政治局召开会议 中共中央总书记习近平主持会议",
+    "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7084091.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-10-24",
+    "fetchedAt": "2026-10-24T02:34:42.133Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20261024_244c8e36",
+    "title": "习近平向2026全球治理论坛（雄安）致信",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-10/23/c_1794509595792047.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-10-24",
+    "fetchedAt": "2026-10-24T02:34:43.932Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
+    "id": "news_20261024_722185df",
+    "title": "中共中央政治局召开会议 中共中央总书记习近平主持会议",
+    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_482484d0f4bd4f9c9f5b5069cae8c510.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-10-24",
+    "fetchedAt": "2026-10-24T02:34:45.876Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
+    "id": "news_20261024_3fa1a258",
+    "title": "大力发展信息技术产业增强先进制造业发展动力推进会在杭州召开",
+    "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_aaa217e631b34106923ca804be699d20.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-10-24",
+    "fetchedAt": "2026-10-24T02:34:46.725Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
     "id": "news_20261023_81ac9638",
     "title": "总书记重要讲话激励全党全军全国各族人民勇毅前行",
     "url": "https://www.court.gov.cn/zixun/xiangqing/515041.html",
@@ -713,81 +818,6 @@
     "category": "政策法规",
     "date": "2026-10-17",
     "fetchedAt": "2026-10-17T02:12:00.923Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20261016_6799cb5b",
-    "title": "习近平：以更高标准、更实举措推进全面从严治党",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/514311.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-10-16",
-    "fetchedAt": "2026-10-16T02:19:17.471Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20261016_f8b897b6",
-    "title": "习近平主席向广交会致贺信传递高水平开放强音",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/514251.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-10-16",
-    "fetchedAt": "2026-10-16T02:19:18.387Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20261016_a42781e7",
-    "title": "国家知识产权局召开党组理论学习中心组专题学习会",
-    "url": "https://www.cnipa.gov.cn/art/2026/6/2/art_51_206620.html",
-    "source": "国家知识产权局",
-    "sourceType": "html-list",
-    "category": "知识产权",
-    "date": "2026-10-16",
-    "fetchedAt": "2026-10-16T02:19:20.049Z",
-    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "国家知识产权局"
-    ]
-  },
-  {
-    "id": "news_20261016_f657f5f2",
-    "title": "《求是》杂志发表习近平总书记重要文章《以更高标准、更实举措推进全面从严治党》",
-    "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7083319.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-10-16",
-    "fetchedAt": "2026-10-16T02:19:20.865Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20261016_4bacffac",
-    "title": "习近平：以更高标准、更实举措推进全面从严治党",
-    "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7083321.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-10-16",
-    "fetchedAt": "2026-10-16T02:19:21.205Z",
     "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
     "legalPoint": "",
     "tags": [
