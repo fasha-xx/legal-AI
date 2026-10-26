@@ -1,5 +1,110 @@
 [
   {
+    "id": "news_20261026_5c074944",
+    "title": "以习近平同志为核心的党中央引领新时代全面从严治党纪实",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/515211.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-10-26",
+    "fetchedAt": "2026-10-26T02:22:27.544Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20261026_a98d9e9c",
+    "title": "习近平同比利时国王菲利普就中比建交55周年互致贺信",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/515241.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-10-26",
+    "fetchedAt": "2026-10-26T02:22:28.550Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20261026_33a0616b",
+    "title": "习近平在内蒙古乌兰察布考察",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/514421.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-10-26",
+    "fetchedAt": "2026-10-26T02:22:28.844Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20261026_d8647b1b",
+    "title": "陈福利会见泰国商业部知识产权厅厅长奥拉蒙·苏塔维通一行",
+    "url": "https://www.cnipa.gov.cn/art/2026/9/28/art_51_208340.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-10-26",
+    "fetchedAt": "2026-10-26T02:22:30.365Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
+    "id": "news_20261026_b3a18c5c",
+    "title": "习近平在内蒙古乌兰察布考察",
+    "url": "https://www.gov.cn/home/toutu/202610/content_7083433.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-10-26",
+    "fetchedAt": "2026-10-26T02:22:32.170Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20261026_1ba2b4b0",
+    "title": "习近平同比利时国王菲利普就中比建交55周年互致贺信",
+    "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7084243.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-10-26",
+    "fetchedAt": "2026-10-26T02:22:32.462Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20261026_5e83b078",
+    "title": "以习近平同志为核心的党中央引领新时代全面从严治党纪实",
+    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_0ec60454b09b44218cda5c92349aa474.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-10-26",
+    "fetchedAt": "2026-10-26T02:22:35.393Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
     "id": "news_20261025_a5aa7162",
     "title": "习近平向2026全球治理论坛（雄安）致信",
     "url": "https://www.court.gov.cn/zixun/xiangqing/515191.html",
@@ -702,51 +807,6 @@
     "legalPoint": "",
     "tags": [
       "网信中国"
-    ]
-  },
-  {
-    "id": "news_20261018_31f642f5",
-    "title": "“有高远目标，更有耐心有定力”——习近平总书记在内蒙古乌兰察布考察纪实",
-    "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7083537.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-10-18",
-    "fetchedAt": "2026-10-18T02:11:44.064Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20261018_2103fe73",
-    "title": "习近平在内蒙古乌兰察布考察",
-    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-10/16/c_1793900346132299.htm",
-    "source": "网信中国",
-    "sourceType": "html-list",
-    "category": "AI 与数据合规",
-    "date": "2026-10-18",
-    "fetchedAt": "2026-10-18T02:11:46.254Z",
-    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "网信中国"
-    ]
-  },
-  {
-    "id": "news_20261018_ca0c8401",
-    "title": "《求是》杂志发表习近平总书记重要文章《以更高标准、更实举措推进全面从严治党》",
-    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_03d9a3b526d745959840dba30872809e.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-10-18",
-    "fetchedAt": "2026-10-18T02:11:49.049Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
     ]
   }
 ]
