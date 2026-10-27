@@ -1,5 +1,80 @@
 [
   {
+    "id": "news_20261027_a65b3cc6",
+    "title": "习近平党建思想引领新时代全面从严治党系列述评之一",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/515231.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-10-27",
+    "fetchedAt": "2026-10-27T02:57:45.992Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20261027_e4dad5e5",
+    "title": "中国共产党第二十届中央委员会第五次全体会议在北京开始举行",
+    "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7084265.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-10-27",
+    "fetchedAt": "2026-10-27T02:57:47.883Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20261027_ba7d179c",
+    "title": "思想如炬，照亮新的赶考路——习近平党建思想书写马克思主义建党学说中国化时代化新篇章",
+    "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7084317.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-10-27",
+    "fetchedAt": "2026-10-27T02:57:49.063Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20261027_d3853436",
+    "title": "中国共产党第二十届中央委员会第五次全体会议在北京开始举行",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-10/26/c_1794769071772186.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-10-27",
+    "fetchedAt": "2026-10-27T02:57:51.149Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
+    "id": "news_20261027_2103fe73",
+    "title": "习近平在内蒙古乌兰察布考察",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-10/16/c_1793900346132299.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-10-27",
+    "fetchedAt": "2026-10-27T02:57:51.447Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
     "id": "news_20261026_5c074944",
     "title": "以习近平同志为核心的党中央引领新时代全面从严治党纪实",
     "url": "https://www.court.gov.cn/zixun/xiangqing/515211.html",
@@ -762,51 +837,6 @@
     "legalPoint": "",
     "tags": [
       "市场监管总局"
-    ]
-  },
-  {
-    "id": "news_20261019_49eeb07d",
-    "title": "“有高远目标，更有耐心有定力”——习近平总书记在内蒙古乌兰察布考察纪实",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/514451.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-10-19",
-    "fetchedAt": "2026-10-19T02:27:44.184Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20261019_70a3e40a",
-    "title": "《深入学习贯彻习近平总书记在网络安全和信息化工作座谈会上的重要讲话精神》专题",
-    "url": "https://www.cac.gov.cn//www.cac.gov.cn/gzzt/ztzl/zt/tenth/A0920011307index_1.htm",
-    "source": "网信中国",
-    "sourceType": "html-list",
-    "category": "AI 与数据合规",
-    "date": "2026-10-19",
-    "fetchedAt": "2026-10-19T02:27:47.088Z",
-    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "网信中国"
-    ]
-  },
-  {
-    "id": "news_20261019_e1261957",
-    "title": "《全国网信系统深入学习贯彻中共中央政治局第二十三次集体学习会议精神》专题",
-    "url": "https://www.cac.gov.cn/gzzt/ztzl/zt/wlstzl/A0920011220index_1.htm",
-    "source": "网信中国",
-    "sourceType": "html-list",
-    "category": "AI 与数据合规",
-    "date": "2026-10-19",
-    "fetchedAt": "2026-10-19T02:27:48.129Z",
-    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "网信中国"
     ]
   }
 ]
