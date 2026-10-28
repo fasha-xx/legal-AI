@@ -1,5 +1,80 @@
 [
   {
+    "id": "news_20261028_fb9b39ae",
+    "title": "“我将无我，不负人民”的时代答卷",
+    "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7084377.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-10-28",
+    "fetchedAt": "2026-10-28T03:07:21.837Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20261028_c5372927",
+    "title": "2026年前9个月全国规模以上工业企业利润增长15.5%",
+    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202610/content_7084350.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-10-28",
+    "fetchedAt": "2026-10-28T03:07:22.867Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20261028_70a3e40a",
+    "title": "《深入学习贯彻习近平总书记在网络安全和信息化工作座谈会上的重要讲话精神》专题",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/gzzt/ztzl/zt/tenth/A0920011307index_1.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-10-28",
+    "fetchedAt": "2026-10-28T03:07:24.295Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
+    "id": "news_20261028_5f7ed899",
+    "title": "“我将无我，不负人民”的时代答卷",
+    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_cc9757ffd6a5497eb4afb9e158874f11.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-10-28",
+    "fetchedAt": "2026-10-28T03:07:27.916Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
+    "id": "news_20261028_68c77052",
+    "title": "工业和信息化部组织召开汽车产业国际合作圆桌会",
+    "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_c0de857d7adc4bb9a00894714ee2993f.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-10-28",
+    "fetchedAt": "2026-10-28T03:07:28.714Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
     "id": "news_20261027_a65b3cc6",
     "title": "习近平党建思想引领新时代全面从严治党系列述评之一",
     "url": "https://www.court.gov.cn/zixun/xiangqing/515231.html",
@@ -702,141 +777,6 @@
     "legalPoint": "",
     "tags": [
       "工信部"
-    ]
-  },
-  {
-    "id": "news_20261020_dd2947ba",
-    "title": "习近平总书记关切事·长征丨革命老区奋进新程",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/514541.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-10-20",
-    "fetchedAt": "2026-10-20T02:40:44.025Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20261020_3489c2dd",
-    "title": "钟华论：在新的长征路上继续奋勇前进",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/514481.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-10-20",
-    "fetchedAt": "2026-10-20T02:40:45.023Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20261020_9faad794",
-    "title": "知识产权强国建设纲要（2021－2035年）",
-    "url": "https://www.cnipa.gov.cn/col/col2741/index.html",
-    "source": "国家知识产权局",
-    "sourceType": "html-list",
-    "category": "知识产权",
-    "date": "2026-10-20",
-    "fetchedAt": "2026-10-20T02:40:46.559Z",
-    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "国家知识产权局"
-    ]
-  },
-  {
-    "id": "news_20261020_83625eca",
-    "title": "动能向新 结构向优：9组数字看前三季度经济运行总体平稳 高质量发展取得新成效",
-    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202610/content_7083703.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-10-20",
-    "fetchedAt": "2026-10-20T02:40:48.011Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20261020_ef9f84f5",
-    "title": "缺陷产品 召回查询",
-    "url": "http://qxzh.samr.gov.cn/qxzh/qxxxcx/web.jsp",
-    "source": "市场监管总局",
-    "sourceType": "html-list",
-    "category": "企业合规",
-    "date": "2026-10-20",
-    "fetchedAt": "2026-10-20T02:40:53.909Z",
-    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "市场监管总局"
-    ]
-  },
-  {
-    "id": "news_20261020_2c3826d7",
-    "title": "缺陷线索 报告",
-    "url": "http://qxzh.samr.gov.cn/qxzh/qxxxbg/web.jsp?sour=samr",
-    "source": "市场监管总局",
-    "sourceType": "html-list",
-    "category": "企业合规",
-    "date": "2026-10-20",
-    "fetchedAt": "2026-10-20T02:40:54.921Z",
-    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "市场监管总局"
-    ]
-  },
-  {
-    "id": "news_20261020_ca2c3b5e",
-    "title": "国产（进口）保健食品注册管理信息系统",
-    "url": "https://zwfw.samr.gov.cn/guideDetail?id=22d18e7b4dc749fa9d1a52d172c2b3f8",
-    "source": "市场监管总局",
-    "sourceType": "html-list",
-    "category": "企业合规",
-    "date": "2026-10-20",
-    "fetchedAt": "2026-10-20T02:40:55.238Z",
-    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "市场监管总局"
-    ]
-  },
-  {
-    "id": "news_20261020_cea4f50a",
-    "title": "特殊医学用途配方食品注册申请系统",
-    "url": "https://zwfw.samr.gov.cn/guideDetail?id=22d18e7b4dc749fa9d1a52d172c2b2f8",
-    "source": "市场监管总局",
-    "sourceType": "html-list",
-    "category": "企业合规",
-    "date": "2026-10-20",
-    "fetchedAt": "2026-10-20T02:40:55.560Z",
-    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "市场监管总局"
-    ]
-  },
-  {
-    "id": "news_20261020_a33a7030",
-    "title": "婴幼儿配方乳粉产品配方注册申请系统",
-    "url": "https://zwfw.samr.gov.cn/guideDetail?id=22d18e7b4dc749fa9d1a52d172c2b1f8",
-    "source": "市场监管总局",
-    "sourceType": "html-list",
-    "category": "企业合规",
-    "date": "2026-10-20",
-    "fetchedAt": "2026-10-20T02:40:55.872Z",
-    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "市场监管总局"
     ]
   }
 ]
