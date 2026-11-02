@@ -1,5 +1,110 @@
 [
   {
+    "id": "news_20261102_574a2c0e",
+    "title": "以习近平党建思想为根本遵循 持之以恒推进全面从严治党",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/515861.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-11-02",
+    "fetchedAt": "2026-11-02T03:29:45.044Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20261102_cfaeebab",
+    "title": "习近平总书记关心推动黄河流域生态保护和高质量发展纪实",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/515811.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-11-02",
+    "fetchedAt": "2026-11-02T03:29:46.113Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20261102_ff36cbd7",
+    "title": "第十五届中国知识产权年会在京开幕",
+    "url": "https://www.cnipa.gov.cn/art/2026/9/8/art_51_208064.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-11-02",
+    "fetchedAt": "2026-11-02T03:29:47.438Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
+    "id": "news_20261102_f95a761d",
+    "title": "中共中央关于持之以恒推进全面从严治党若干重大问题的决定",
+    "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7084688.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-11-02",
+    "fetchedAt": "2026-11-02T03:29:48.721Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20261102_1dd36499",
+    "title": "习近平：关于《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》的说明",
+    "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7084692.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-11-02",
+    "fetchedAt": "2026-11-02T03:29:49.058Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20261102_3b411d3d",
+    "title": "习近平：关于《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》的说明",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-11/01/c_1795308908183011.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-11-02",
+    "fetchedAt": "2026-11-02T03:29:51.123Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
+    "id": "news_20261102_ccb0ed64",
+    "title": "中共中央关于持之以恒推进全面从严治党若干重大问题的决定",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-11/01/c_1795308908373679.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-11-02",
+    "fetchedAt": "2026-11-02T03:29:51.453Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
     "id": "news_20261101_01d9f920",
     "title": "党的二十届五中全会侧记",
     "url": "https://www.court.gov.cn/zixun/xiangqing/515761.html",
@@ -837,51 +942,6 @@
     "legalPoint": "",
     "tags": [
       "工信部"
-    ]
-  },
-  {
-    "id": "news_20261025_a5aa7162",
-    "title": "习近平向2026全球治理论坛（雄安）致信",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/515191.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-10-25",
-    "fetchedAt": "2026-10-25T02:22:22.155Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20261025_a42781e7",
-    "title": "国家知识产权局召开党组理论学习中心组专题学习会",
-    "url": "https://www.cnipa.gov.cn/art/2026/6/2/art_51_206620.html",
-    "source": "国家知识产权局",
-    "sourceType": "html-list",
-    "category": "知识产权",
-    "date": "2026-10-25",
-    "fetchedAt": "2026-10-25T02:22:23.510Z",
-    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "国家知识产权局"
-    ]
-  },
-  {
-    "id": "news_20261025_240e7c9f",
-    "title": "以习近平同志为核心的党中央引领新时代全面从严治党纪实",
-    "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7084202.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-10-25",
-    "fetchedAt": "2026-10-25T02:22:24.065Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
     ]
   }
 ]
