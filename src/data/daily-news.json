@@ -1,5 +1,185 @@
 [
   {
+    "id": "news_20261103_3de3ae4a",
+    "title": "习近平对进一步做好黄河保护治理工作作出重要指示",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/515911.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-11-03",
+    "fetchedAt": "2026-11-03T04:38:46.604Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20261103_a6be6c40",
+    "title": "习近平同阿曼苏丹海赛姆会谈",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/515871.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-11-03",
+    "fetchedAt": "2026-11-03T04:38:47.640Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20261103_d6f1a172",
+    "title": "习近平同阿曼苏丹海赛姆会谈",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/515881.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-11-03",
+    "fetchedAt": "2026-11-03T04:38:47.942Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20261103_a42781e7",
+    "title": "国家知识产权局召开党组理论学习中心组专题学习会",
+    "url": "https://www.cnipa.gov.cn/art/2026/6/2/art_51_206620.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-11-03",
+    "fetchedAt": "2026-11-03T04:38:49.535Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
+    "id": "news_20261103_dc7d9234",
+    "title": "《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》诞生记",
+    "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7084758.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-11-03",
+    "fetchedAt": "2026-11-03T04:38:50.194Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20261103_41586d88",
+    "title": "习近平同阿曼苏丹海赛姆会谈",
+    "url": "https://www.gov.cn/home/toutu/202611/content_7084756.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-11-03",
+    "fetchedAt": "2026-11-03T04:38:50.482Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20261103_6af5094b",
+    "title": "习近平对进一步做好黄河保护治理工作作出重要指示",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-11/02/c_1795373861848905.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-11-03",
+    "fetchedAt": "2026-11-03T04:38:52.414Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
+    "id": "news_20261103_37baa5a6",
+    "title": "习近平同阿曼苏丹海赛姆会谈",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-11/02/c_1795373850783246.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-11-03",
+    "fetchedAt": "2026-11-03T04:38:52.695Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
+    "id": "news_20261103_93d43340",
+    "title": "《2026年世界互联网大会乌镇峰会》专题",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/gzzt/ztzl/zt/wicinternet/A0920011317index_1.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-11-03",
+    "fetchedAt": "2026-11-03T04:38:52.988Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
+    "id": "news_20261103_e9b9898a",
+    "title": "习近平对进一步做好黄河保护治理工作作出重要指示",
+    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_6a9353f6c557448ea2ea449bd7da453e.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-11-03",
+    "fetchedAt": "2026-11-03T04:38:55.153Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
+    "id": "news_20261103_3f60f809",
+    "title": "习近平同阿曼苏丹海赛姆会谈",
+    "url": "http://www.miit.gov.cn/xwfb/szyw/art/2026/art_227563808957450a8e2fd181ef08f75f.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-11-03",
+    "fetchedAt": "2026-11-03T04:38:55.441Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
+    "id": "news_20261103_3fa1a258",
+    "title": "大力发展信息技术产业增强先进制造业发展动力推进会在杭州召开",
+    "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_aaa217e631b34106923ca804be699d20.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-11-03",
+    "fetchedAt": "2026-11-03T04:38:55.727Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
     "id": "news_20261102_574a2c0e",
     "title": "以习近平党建思想为根本遵循 持之以恒推进全面从严治党",
     "url": "https://www.court.gov.cn/zixun/xiangqing/515861.html",
@@ -837,111 +1017,6 @@
     "legalPoint": "",
     "tags": [
       "网信中国"
-    ]
-  },
-  {
-    "id": "news_20261026_5c074944",
-    "title": "以习近平同志为核心的党中央引领新时代全面从严治党纪实",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/515211.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-10-26",
-    "fetchedAt": "2026-10-26T02:22:27.544Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20261026_a98d9e9c",
-    "title": "习近平同比利时国王菲利普就中比建交55周年互致贺信",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/515241.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-10-26",
-    "fetchedAt": "2026-10-26T02:22:28.550Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20261026_33a0616b",
-    "title": "习近平在内蒙古乌兰察布考察",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/514421.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-10-26",
-    "fetchedAt": "2026-10-26T02:22:28.844Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20261026_d8647b1b",
-    "title": "陈福利会见泰国商业部知识产权厅厅长奥拉蒙·苏塔维通一行",
-    "url": "https://www.cnipa.gov.cn/art/2026/9/28/art_51_208340.html",
-    "source": "国家知识产权局",
-    "sourceType": "html-list",
-    "category": "知识产权",
-    "date": "2026-10-26",
-    "fetchedAt": "2026-10-26T02:22:30.365Z",
-    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "国家知识产权局"
-    ]
-  },
-  {
-    "id": "news_20261026_b3a18c5c",
-    "title": "习近平在内蒙古乌兰察布考察",
-    "url": "https://www.gov.cn/home/toutu/202610/content_7083433.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-10-26",
-    "fetchedAt": "2026-10-26T02:22:32.170Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20261026_1ba2b4b0",
-    "title": "习近平同比利时国王菲利普就中比建交55周年互致贺信",
-    "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7084243.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-10-26",
-    "fetchedAt": "2026-10-26T02:22:32.462Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20261026_5e83b078",
-    "title": "以习近平同志为核心的党中央引领新时代全面从严治党纪实",
-    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_0ec60454b09b44218cda5c92349aa474.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-10-26",
-    "fetchedAt": "2026-10-26T02:22:35.393Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
     ]
   }
 ]
