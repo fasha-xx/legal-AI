@@ -1,5 +1,35 @@
 [
   {
+    "id": "news_20261106_3731ff55",
+    "title": "世界互联网大会乌镇峰会凝聚全球数字治理共识",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/516131.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-11-06",
+    "fetchedAt": "2026-11-06T04:16:31.552Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20261106_88733ef9",
+    "title": "图文直播：第十五届中国国际专利技术与产品交易会开幕式暨第二十六届中国专利奖颁奖大会",
+    "url": "https://www.cnipa.gov.cn/col/col3715/index.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-11-06",
+    "fetchedAt": "2026-11-06T04:16:35.327Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
     "id": "news_20261105_fb0ea095",
     "title": "把加强党性修养作为终身课题",
     "url": "https://www.court.gov.cn/zixun/xiangqing/516111.html",
@@ -882,141 +912,6 @@
     "legalPoint": "",
     "tags": [
       "工信部"
-    ]
-  },
-  {
-    "id": "news_20261029_88de6d11",
-    "title": "习近平党建思想引领新时代全面从严治党系列述评之三",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/515421.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-10-29",
-    "fetchedAt": "2026-10-29T03:33:41.409Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20261029_7baf8c1b",
-    "title": "习近平致电祝贺卢拉当选连任巴西总统",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/515401.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-10-29",
-    "fetchedAt": "2026-10-29T03:33:42.272Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20261029_9faad794",
-    "title": "知识产权强国建设纲要（2021－2035年）",
-    "url": "https://www.cnipa.gov.cn/col/col2741/index.html",
-    "source": "国家知识产权局",
-    "sourceType": "html-list",
-    "category": "知识产权",
-    "date": "2026-10-29",
-    "fetchedAt": "2026-10-29T03:33:44.343Z",
-    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "国家知识产权局"
-    ]
-  },
-  {
-    "id": "news_20261029_eacbd14c",
-    "title": "总书记的人民情怀 | “更加清醒坚定地推进反腐败斗争”",
-    "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7084430.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-10-29",
-    "fetchedAt": "2026-10-29T03:33:45.810Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20261029_ef9f84f5",
-    "title": "缺陷产品 召回查询",
-    "url": "http://qxzh.samr.gov.cn/qxzh/qxxxcx/web.jsp",
-    "source": "市场监管总局",
-    "sourceType": "html-list",
-    "category": "企业合规",
-    "date": "2026-10-29",
-    "fetchedAt": "2026-10-29T03:33:51.983Z",
-    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "市场监管总局"
-    ]
-  },
-  {
-    "id": "news_20261029_2c3826d7",
-    "title": "缺陷线索 报告",
-    "url": "http://qxzh.samr.gov.cn/qxzh/qxxxbg/web.jsp?sour=samr",
-    "source": "市场监管总局",
-    "sourceType": "html-list",
-    "category": "企业合规",
-    "date": "2026-10-29",
-    "fetchedAt": "2026-10-29T03:33:52.828Z",
-    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "市场监管总局"
-    ]
-  },
-  {
-    "id": "news_20261029_ca2c3b5e",
-    "title": "国产（进口）保健食品注册管理信息系统",
-    "url": "https://zwfw.samr.gov.cn/guideDetail?id=22d18e7b4dc749fa9d1a52d172c2b3f8",
-    "source": "市场监管总局",
-    "sourceType": "html-list",
-    "category": "企业合规",
-    "date": "2026-10-29",
-    "fetchedAt": "2026-10-29T03:33:53.097Z",
-    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "市场监管总局"
-    ]
-  },
-  {
-    "id": "news_20261029_cea4f50a",
-    "title": "特殊医学用途配方食品注册申请系统",
-    "url": "https://zwfw.samr.gov.cn/guideDetail?id=22d18e7b4dc749fa9d1a52d172c2b2f8",
-    "source": "市场监管总局",
-    "sourceType": "html-list",
-    "category": "企业合规",
-    "date": "2026-10-29",
-    "fetchedAt": "2026-10-29T03:33:53.364Z",
-    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "市场监管总局"
-    ]
-  },
-  {
-    "id": "news_20261029_a33a7030",
-    "title": "婴幼儿配方乳粉产品配方注册申请系统",
-    "url": "https://zwfw.samr.gov.cn/guideDetail?id=22d18e7b4dc749fa9d1a52d172c2b1f8",
-    "source": "市场监管总局",
-    "sourceType": "html-list",
-    "category": "企业合规",
-    "date": "2026-10-29",
-    "fetchedAt": "2026-10-29T03:33:53.636Z",
-    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "市场监管总局"
     ]
   }
 ]
