@@ -1,5 +1,50 @@
 [
   {
+    "id": "news_20261108_4cc80559",
+    "title": "《知识产权保护和运用“十五五”规划》",
+    "url": "https://www.cnipa.gov.cn/col/col3692/index.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-11-08",
+    "fetchedAt": "2026-11-08T03:28:05.279Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
+    "id": "news_20261108_c9a6384e",
+    "title": "《网信系统学习宣传贯彻党的二十届五中全会精神》专题",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/gzzt/ztzl/zt/esjwzqh/A0920011316index_1.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-11-08",
+    "fetchedAt": "2026-11-08T03:28:08.164Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
+    "id": "news_20261108_0d5ea346",
+    "title": "学习贯彻党的二十届五中全会精神",
+    "url": "https://www.miit.gov.cn/ztzl/rdzt/xxgcddesjwzqhjs/index.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-11-08",
+    "fetchedAt": "2026-11-08T03:28:11.093Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
     "id": "news_20261107_1a7ec72e",
     "title": "习近平参加北京市区人大代表换届选举投票",
     "url": "https://www.court.gov.cn/zixun/xiangqing/516321.html",
@@ -882,111 +927,6 @@
     "legalPoint": "",
     "tags": [
       "工信部"
-    ]
-  },
-  {
-    "id": "news_20261031_73849de2",
-    "title": "中共中央召开党外人士座谈会 习近平主持并发表重要讲话",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/515681.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-10-31",
-    "fetchedAt": "2026-10-31T03:30:50.718Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20261031_5026c052",
-    "title": "习近平同德国总统施泰因迈尔会谈",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/515751.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-10-31",
-    "fetchedAt": "2026-10-31T03:30:51.755Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20261031_d70e889d",
-    "title": "习近平会见瑞士联邦主席帕姆兰",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/515691.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-10-31",
-    "fetchedAt": "2026-10-31T03:30:52.068Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20261031_e35a8b1e",
-    "title": "中国共产党第二十届中央委员会第五次全体会议在京举行",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/515701.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-10-31",
-    "fetchedAt": "2026-10-31T03:30:52.377Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20261031_ed4d4a8a",
-    "title": "中共中央召开党外人士座谈会 习近平主持并发表重要讲话",
-    "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7084542.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-10-31",
-    "fetchedAt": "2026-10-31T03:30:55.532Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20261031_5d39a49c",
-    "title": "习近平同德国总统施泰因迈尔会谈",
-    "url": "https://www.gov.cn/home/toutu/202610/content_7084595.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-10-31",
-    "fetchedAt": "2026-10-31T03:30:55.847Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20261031_3158de4b",
-    "title": "习近平会见瑞士联邦主席帕姆兰",
-    "url": "https://www.gov.cn/home/toutu/202610/content_7084604.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-10-31",
-    "fetchedAt": "2026-10-31T03:30:56.152Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
     ]
   }
 ]
