@@ -1,5 +1,125 @@
 [
   {
+    "id": "news_20261112_58efba58",
+    "title": "高质量共建“一带一路”，赋能现代化与文明互鉴",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/516791.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-11-12",
+    "fetchedAt": "2026-11-12T04:57:29.226Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20261112_dd69630b",
+    "title": "习近平同志《论减贫脱贫》出版发行",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/516681.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-11-12",
+    "fetchedAt": "2026-11-12T04:57:30.295Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20261112_9b41690f",
+    "title": "纪念孙中山先生诞辰160周年大会在京举行 习近平出席大会并发表重要讲话",
+    "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7085870.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-11-12",
+    "fetchedAt": "2026-11-12T04:57:34.832Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20261112_d5370364",
+    "title": "纪念孙中山先生诞辰160周年大会在京举行 习近平出席大会并发表重要讲话",
+    "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7085879.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-11-12",
+    "fetchedAt": "2026-11-12T04:57:36.019Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20261112_68620e2d",
+    "title": "学习贯彻党的二十届五中全会精神专栏",
+    "url": "https://www.gov.cn/zhuanti/ddesjwzqh/index.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-11-12",
+    "fetchedAt": "2026-11-12T04:57:37.015Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20261112_ad7dbae1",
+    "title": "习近平法治思想指引全面依法治国向纵深推进",
+    "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7085852.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-11-12",
+    "fetchedAt": "2026-11-12T04:57:38.070Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20261112_b47f1968",
+    "title": "纪念孙中山先生诞辰160周年大会在京举行 习近平发表重要讲话",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-11/12/c_1796238057585957.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-11-12",
+    "fetchedAt": "2026-11-12T04:57:42.505Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
+    "id": "news_20261112_93d43340",
+    "title": "《2026年世界互联网大会乌镇峰会》专题",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/gzzt/ztzl/zt/wicinternet/A0920011317index_1.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-11-12",
+    "fetchedAt": "2026-11-12T04:57:43.361Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
     "id": "news_20261111_0e4f8e3c",
     "title": "习近平同志《论减贫脱贫》主要篇目介绍",
     "url": "https://www.court.gov.cn/zixun/xiangqing/516711.html",
@@ -642,111 +762,6 @@
     "legalPoint": "",
     "tags": [
       "国家知识产权局"
-    ]
-  },
-  {
-    "id": "news_20261104_d8386f97",
-    "title": "努力让这条母亲河越来越美——写在党领导人民治黄80年之际",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/516051.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-11-04",
-    "fetchedAt": "2026-11-04T03:58:06.743Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20261104_f93f88cd",
-    "title": "党的二十届五中全会《决定》诞生记",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/515901.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-11-04",
-    "fetchedAt": "2026-11-04T03:58:07.576Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20261104_d8647b1b",
-    "title": "陈福利会见泰国商业部知识产权厅厅长奥拉蒙·苏塔维通一行",
-    "url": "https://www.cnipa.gov.cn/art/2026/9/28/art_51_208340.html",
-    "source": "国家知识产权局",
-    "sourceType": "html-list",
-    "category": "知识产权",
-    "date": "2026-11-04",
-    "fetchedAt": "2026-11-04T03:58:09.662Z",
-    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "国家知识产权局"
-    ]
-  },
-  {
-    "id": "news_20261104_cfd35cfb",
-    "title": "《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》诞生记",
-    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_8c3944f3ca80455b9221a22f829571f7.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-11-04",
-    "fetchedAt": "2026-11-04T03:58:15.276Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20261104_922e886b",
-    "title": "党的二十届五中全会《决定》",
-    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_bd4a140ab5aa4b45a9229509b34fafb0.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-11-04",
-    "fetchedAt": "2026-11-04T03:58:16.080Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20261104_1a9bf788",
-    "title": "习近平：关于《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》的说明",
-    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_167d83481564440daec34257c6596c3a.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-11-04",
-    "fetchedAt": "2026-11-04T03:58:16.373Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20261104_93d535d5",
-    "title": "刘延东同志遗体在京火化 习近平等到八宝山革命公墓送别",
-    "url": "http://www.miit.gov.cn/xwfb/szyw/art/2026/art_24cf95055c1c4f9cb8d7e80abf8fc59c.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-11-04",
-    "fetchedAt": "2026-11-04T03:58:16.659Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
     ]
   }
 ]
