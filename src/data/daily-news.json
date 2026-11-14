@@ -1,5 +1,65 @@
 [
   {
+    "id": "news_20261114_1a4f0461",
+    "title": "习近平将出席亚太经合组织第三十三次领导人非正式会议及相关活动",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/517001.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-11-14",
+    "fetchedAt": "2026-11-14T04:07:20.274Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20261114_ff658e85",
+    "title": "习近平对国有企业党的建设工作作出重要指示",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/517011.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-11-14",
+    "fetchedAt": "2026-11-14T04:07:21.418Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20261114_aeeff98b",
+    "title": "习近平对国有企业党的建设工作作出重要指示",
+    "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7085945.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-11-14",
+    "fetchedAt": "2026-11-14T04:07:24.470Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20261114_f9bf49fc",
+    "title": "习近平对国有企业党的建设工作作出重要指示",
+    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_5453a36cd4604e8aa9c54996c36c295e.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-11-14",
+    "fetchedAt": "2026-11-14T04:07:28.105Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
     "id": "news_20261113_67b6d9cc",
     "title": "纪念孙中山先生诞辰160周年大会在京举行 习近平发表重要讲话",
     "url": "https://www.court.gov.cn/zixun/xiangqing/516891.html",
@@ -882,36 +942,6 @@
     "legalPoint": "",
     "tags": [
       "市场监管总局"
-    ]
-  },
-  {
-    "id": "news_20261106_3731ff55",
-    "title": "世界互联网大会乌镇峰会凝聚全球数字治理共识",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/516131.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-11-06",
-    "fetchedAt": "2026-11-06T04:16:31.552Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20261106_88733ef9",
-    "title": "图文直播：第十五届中国国际专利技术与产品交易会开幕式暨第二十六届中国专利奖颁奖大会",
-    "url": "https://www.cnipa.gov.cn/col/col3715/index.html",
-    "source": "国家知识产权局",
-    "sourceType": "html-list",
-    "category": "知识产权",
-    "date": "2026-11-06",
-    "fetchedAt": "2026-11-06T04:16:35.327Z",
-    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "国家知识产权局"
     ]
   }
 ]
