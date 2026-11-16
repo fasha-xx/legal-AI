@@ -1,5 +1,275 @@
 [
   {
+    "id": "news_20261116_9d34528e",
+    "title": "习近平致信祝贺暨南大学建校120周年",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/517191.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-11-16",
+    "fetchedAt": "2026-11-16T03:53:26.092Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20261116_1c7d9fbe",
+    "title": "习近平致暨南大学建校120周年的贺信",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/517201.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-11-16",
+    "fetchedAt": "2026-11-16T03:53:26.881Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20261116_2c37d014",
+    "title": "习近平同加蓬总统恩圭马会谈",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/516441.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-11-16",
+    "fetchedAt": "2026-11-16T03:53:27.182Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20261116_1a7ec72e",
+    "title": "习近平参加北京市区人大代表换届选举投票",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/516321.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-11-16",
+    "fetchedAt": "2026-11-16T03:53:27.484Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20261116_9faad794",
+    "title": "知识产权强国建设纲要（2021－2035年）",
+    "url": "https://www.cnipa.gov.cn/col/col2741/index.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-11-16",
+    "fetchedAt": "2026-11-16T03:53:29.232Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
+    "id": "news_20261116_1692b8a1",
+    "title": "第十五届中国国际专利技术与产品交易会开幕式暨第二十六届中国专利奖颁奖大会在无锡举办",
+    "url": "https://www.cnipa.gov.cn/art/2026/11/7/art_51_209001.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-11-16",
+    "fetchedAt": "2026-11-16T03:53:29.557Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
+    "id": "news_20261116_479f9fee",
+    "title": "《求是》杂志发表习近平总书记重要文章《携手共建亚太命运共同体》",
+    "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7086074.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-11-16",
+    "fetchedAt": "2026-11-16T03:53:30.946Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20261116_7c41f417",
+    "title": "习近平参加北京市区人大代表换届选举投票",
+    "url": "https://www.gov.cn/home/toutu/202611/content_7085383.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-11-16",
+    "fetchedAt": "2026-11-16T03:53:31.243Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20261116_b63e178a",
+    "title": "习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤",
+    "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7086137.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-11-16",
+    "fetchedAt": "2026-11-16T03:53:31.541Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20261116_b001478f",
+    "title": "习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-11/16/c_1796583870571574.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-11-16",
+    "fetchedAt": "2026-11-16T03:53:33.540Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
+    "id": "news_20261116_d84830e1",
+    "title": "习近平参加北京市区人大代表换届选举投票",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-11/06/c_1795719664562945.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-11-16",
+    "fetchedAt": "2026-11-16T03:53:33.841Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
+    "id": "news_20261116_84782acf",
+    "title": "《求是》杂志发表习近平总书记重要文章《携手共建亚太命运共同体》",
+    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_7d34ab1f403a411995786c796100549b.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-11-16",
+    "fetchedAt": "2026-11-16T03:53:35.498Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
+    "id": "news_20261116_7cacab5b",
+    "title": "| 文章全文",
+    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_1034129473fd414c9d51032d2d701a01.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-11-16",
+    "fetchedAt": "2026-11-16T03:53:35.790Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
+    "id": "news_20261116_ef9f84f5",
+    "title": "缺陷产品 召回查询",
+    "url": "http://qxzh.samr.gov.cn/qxzh/qxxxcx/web.jsp",
+    "source": "市场监管总局",
+    "sourceType": "html-list",
+    "category": "企业合规",
+    "date": "2026-11-16",
+    "fetchedAt": "2026-11-16T03:53:37.449Z",
+    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "市场监管总局"
+    ]
+  },
+  {
+    "id": "news_20261116_2c3826d7",
+    "title": "缺陷线索 报告",
+    "url": "http://qxzh.samr.gov.cn/qxzh/qxxxbg/web.jsp?sour=samr",
+    "source": "市场监管总局",
+    "sourceType": "html-list",
+    "category": "企业合规",
+    "date": "2026-11-16",
+    "fetchedAt": "2026-11-16T03:53:37.754Z",
+    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "市场监管总局"
+    ]
+  },
+  {
+    "id": "news_20261116_ca2c3b5e",
+    "title": "国产（进口）保健食品注册管理信息系统",
+    "url": "https://zwfw.samr.gov.cn/guideDetail?id=22d18e7b4dc749fa9d1a52d172c2b3f8",
+    "source": "市场监管总局",
+    "sourceType": "html-list",
+    "category": "企业合规",
+    "date": "2026-11-16",
+    "fetchedAt": "2026-11-16T03:53:38.045Z",
+    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "市场监管总局"
+    ]
+  },
+  {
+    "id": "news_20261116_cea4f50a",
+    "title": "特殊医学用途配方食品注册申请系统",
+    "url": "https://zwfw.samr.gov.cn/guideDetail?id=22d18e7b4dc749fa9d1a52d172c2b2f8",
+    "source": "市场监管总局",
+    "sourceType": "html-list",
+    "category": "企业合规",
+    "date": "2026-11-16",
+    "fetchedAt": "2026-11-16T03:53:38.341Z",
+    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "市场监管总局"
+    ]
+  },
+  {
+    "id": "news_20261116_a33a7030",
+    "title": "婴幼儿配方乳粉产品配方注册申请系统",
+    "url": "https://zwfw.samr.gov.cn/guideDetail?id=22d18e7b4dc749fa9d1a52d172c2b1f8",
+    "source": "市场监管总局",
+    "sourceType": "html-list",
+    "category": "企业合规",
+    "date": "2026-11-16",
+    "fetchedAt": "2026-11-16T03:53:38.643Z",
+    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "市场监管总局"
+    ]
+  },
+  {
     "id": "news_20261115_c2b2edae",
     "title": "习近平主席引领亚太大家庭扬帆前行",
     "url": "https://www.court.gov.cn/zixun/xiangqing/517031.html",
@@ -623,51 +893,6 @@
     "category": "政策法规",
     "date": "2026-11-09",
     "fetchedAt": "2026-11-09T03:44:20.394Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20261108_4cc80559",
-    "title": "《知识产权保护和运用“十五五”规划》",
-    "url": "https://www.cnipa.gov.cn/col/col3692/index.html",
-    "source": "国家知识产权局",
-    "sourceType": "html-list",
-    "category": "知识产权",
-    "date": "2026-11-08",
-    "fetchedAt": "2026-11-08T03:28:05.279Z",
-    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "国家知识产权局"
-    ]
-  },
-  {
-    "id": "news_20261108_c9a6384e",
-    "title": "《网信系统学习宣传贯彻党的二十届五中全会精神》专题",
-    "url": "https://www.cac.gov.cn//www.cac.gov.cn/gzzt/ztzl/zt/esjwzqh/A0920011316index_1.htm",
-    "source": "网信中国",
-    "sourceType": "html-list",
-    "category": "AI 与数据合规",
-    "date": "2026-11-08",
-    "fetchedAt": "2026-11-08T03:28:08.164Z",
-    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "网信中国"
-    ]
-  },
-  {
-    "id": "news_20261108_0d5ea346",
-    "title": "学习贯彻党的二十届五中全会精神",
-    "url": "https://www.miit.gov.cn/ztzl/rdzt/xxgcddesjwzqhjs/index.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-11-08",
-    "fetchedAt": "2026-11-08T03:28:11.093Z",
     "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
     "legalPoint": "",
     "tags": [
