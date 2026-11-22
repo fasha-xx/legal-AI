@@ -1,5 +1,95 @@
 [
   {
+    "id": "news_20261122_e66938da",
+    "title": "国家知识产权局关于核准内蒙古修齐生态农业有限公司等185家企业使用地理标志专用标志的公告（第702号）",
+    "url": "https://www.cnipa.gov.cn/art/2026/11/11/art_74_209070.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-11-22",
+    "fetchedAt": "2026-11-22T04:07:17.438Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
+    "id": "news_20261122_952c491b",
+    "title": "习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
+    "url": "https://www.gov.cn/home/toutu/202611/content_7086679.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-11-22",
+    "fetchedAt": "2026-11-22T04:07:18.116Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20261122_68620e2d",
+    "title": "学习贯彻党的二十届五中全会精神专栏",
+    "url": "https://www.gov.cn/zhuanti/ddesjwzqh/index.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-11-22",
+    "fetchedAt": "2026-11-22T04:07:18.827Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20261122_f2052ed5",
+    "title": "习近平会见马来西亚总理安瓦尔",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-11/20/c_1796918620383232.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-11-22",
+    "fetchedAt": "2026-11-22T04:07:20.391Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
+    "id": "news_20261122_65d23acc",
+    "title": "习近平会见泰国总理阿努廷",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-11/20/c_1796918620379214.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-11-22",
+    "fetchedAt": "2026-11-22T04:07:20.650Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
+    "id": "news_20261122_93d43340",
+    "title": "《2026年世界互联网大会乌镇峰会》专题",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/gzzt/ztzl/zt/wicinternet/A0920011317index_1.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-11-22",
+    "fetchedAt": "2026-11-22T04:07:20.906Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
     "id": "news_20261121_42fa388f",
     "title": "特写：大国外交的“深圳时刻”",
     "url": "https://www.court.gov.cn/zixun/xiangqing/518091.html",
@@ -1257,66 +1347,6 @@
     "legalPoint": "",
     "tags": [
       "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20261114_1a4f0461",
-    "title": "习近平将出席亚太经合组织第三十三次领导人非正式会议及相关活动",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/517001.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-11-14",
-    "fetchedAt": "2026-11-14T04:07:20.274Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20261114_ff658e85",
-    "title": "习近平对国有企业党的建设工作作出重要指示",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/517011.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-11-14",
-    "fetchedAt": "2026-11-14T04:07:21.418Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20261114_aeeff98b",
-    "title": "习近平对国有企业党的建设工作作出重要指示",
-    "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7085945.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-11-14",
-    "fetchedAt": "2026-11-14T04:07:24.470Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20261114_f9bf49fc",
-    "title": "习近平对国有企业党的建设工作作出重要指示",
-    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_5453a36cd4604e8aa9c54996c36c295e.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-11-14",
-    "fetchedAt": "2026-11-14T04:07:28.105Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
     ]
   }
 ]
