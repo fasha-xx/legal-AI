@@ -1,5 +1,65 @@
 [
   {
+    "id": "news_20261123_ad59d769",
+    "title": "习近平主席出席亚太经合组织深圳会议及相关活动纪实",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/518141.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-11-23",
+    "fetchedAt": "2026-11-23T04:49:07.898Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20261123_2a0af32b",
+    "title": "习近平主席出席亚太经合组织深圳会议及相关活动纪实",
+    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_7c91436877904ceba4129f84590f51ef.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-11-23",
+    "fetchedAt": "2026-11-23T04:49:13.793Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
+    "id": "news_20261123_de9b2991",
+    "title": "习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
+    "url": "http://www.miit.gov.cn/xwfb/szyw/art/2026/art_3578ec2b4ebb405ab66dec98863e127e.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-11-23",
+    "fetchedAt": "2026-11-23T04:49:14.541Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
+    "id": "news_20261123_7134d71a",
+    "title": "中国代表团在国际电联2026年全权代表大会期间举行招待会",
+    "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_7850fd1ef79c420a9cecb70cb3fcf6b2.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-11-23",
+    "fetchedAt": "2026-11-23T04:49:14.830Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
     "id": "news_20261122_e66938da",
     "title": "国家知识产权局关于核准内蒙古修齐生态农业有限公司等185家企业使用地理标志专用标志的公告（第702号）",
     "url": "https://www.cnipa.gov.cn/art/2026/11/11/art_74_209070.html",
@@ -1302,51 +1362,6 @@
     "legalPoint": "",
     "tags": [
       "市场监管总局"
-    ]
-  },
-  {
-    "id": "news_20261115_c2b2edae",
-    "title": "习近平主席引领亚太大家庭扬帆前行",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/517031.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-11-15",
-    "fetchedAt": "2026-11-15T03:53:12.934Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20261115_edd926a3",
-    "title": "习近平主席引领亚太大家庭扬帆前行",
-    "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7086015.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-11-15",
-    "fetchedAt": "2026-11-15T03:53:15.665Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20261115_c5f8a9b1",
-    "title": "以中国式现代化新成就为亚太和世界提供新机遇",
-    "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7086024.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-11-15",
-    "fetchedAt": "2026-11-15T03:53:17.034Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
     ]
   }
 ]
