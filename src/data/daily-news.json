@@ -1,5 +1,140 @@
 [
   {
+    "id": "news_20261125_9faad794",
+    "title": "知识产权强国建设纲要（2021－2035年）",
+    "url": "https://www.cnipa.gov.cn/col/col2741/index.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-11-25",
+    "fetchedAt": "2026-11-25T06:08:23.694Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
+    "id": "news_20261125_26950eda",
+    "title": "国家知识产权强国建设工作部际联席会议第三次全体会议召开",
+    "url": "https://www.cnipa.gov.cn/art/2026/11/24/art_51_209355.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-11-25",
+    "fetchedAt": "2026-11-25T06:08:24.728Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
+    "id": "news_20261125_1692b8a1",
+    "title": "第十五届中国国际专利技术与产品交易会开幕式暨第二十六届中国专利奖颁奖大会在无锡举办",
+    "url": "https://www.cnipa.gov.cn/art/2026/11/7/art_51_209001.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-11-25",
+    "fetchedAt": "2026-11-25T06:08:24.991Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
+    "id": "news_20261125_56f513f9",
+    "title": "习近平对党内法规工作作出重要指示",
+    "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7087275.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-11-25",
+    "fetchedAt": "2026-11-25T06:08:25.715Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20261125_ef9f84f5",
+    "title": "缺陷产品 召回查询",
+    "url": "http://qxzh.samr.gov.cn/qxzh/qxxxcx/web.jsp",
+    "source": "市场监管总局",
+    "sourceType": "html-list",
+    "category": "企业合规",
+    "date": "2026-11-25",
+    "fetchedAt": "2026-11-25T06:08:32.362Z",
+    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "市场监管总局"
+    ]
+  },
+  {
+    "id": "news_20261125_2c3826d7",
+    "title": "缺陷线索 报告",
+    "url": "http://qxzh.samr.gov.cn/qxzh/qxxxbg/web.jsp?sour=samr",
+    "source": "市场监管总局",
+    "sourceType": "html-list",
+    "category": "企业合规",
+    "date": "2026-11-25",
+    "fetchedAt": "2026-11-25T06:08:33.141Z",
+    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "市场监管总局"
+    ]
+  },
+  {
+    "id": "news_20261125_ca2c3b5e",
+    "title": "国产（进口）保健食品注册管理信息系统",
+    "url": "https://zwfw.samr.gov.cn/guideDetail?id=22d18e7b4dc749fa9d1a52d172c2b3f8",
+    "source": "市场监管总局",
+    "sourceType": "html-list",
+    "category": "企业合规",
+    "date": "2026-11-25",
+    "fetchedAt": "2026-11-25T06:08:33.427Z",
+    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "市场监管总局"
+    ]
+  },
+  {
+    "id": "news_20261125_cea4f50a",
+    "title": "特殊医学用途配方食品注册申请系统",
+    "url": "https://zwfw.samr.gov.cn/guideDetail?id=22d18e7b4dc749fa9d1a52d172c2b2f8",
+    "source": "市场监管总局",
+    "sourceType": "html-list",
+    "category": "企业合规",
+    "date": "2026-11-25",
+    "fetchedAt": "2026-11-25T06:08:33.703Z",
+    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "市场监管总局"
+    ]
+  },
+  {
+    "id": "news_20261125_a33a7030",
+    "title": "婴幼儿配方乳粉产品配方注册申请系统",
+    "url": "https://zwfw.samr.gov.cn/guideDetail?id=22d18e7b4dc749fa9d1a52d172c2b1f8",
+    "source": "市场监管总局",
+    "sourceType": "html-list",
+    "category": "企业合规",
+    "date": "2026-11-25",
+    "fetchedAt": "2026-11-25T06:08:33.981Z",
+    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "市场监管总局"
+    ]
+  },
+  {
     "id": "news_20261124_5721ece7",
     "title": "亚太经合组织深圳会议蕴含深刻启迪",
     "url": "https://www.court.gov.cn/zixun/xiangqing/518311.html",
@@ -972,216 +1107,6 @@
     "legalPoint": "",
     "tags": [
       "网信中国"
-    ]
-  },
-  {
-    "id": "news_20261117_60787f96",
-    "title": "习近平总书记引领推动粤港澳大湾区高质量发展",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/517281.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-11-17",
-    "fetchedAt": "2026-11-17T05:45:57.311Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20261117_9f2e35e2",
-    "title": "习近平会见加拿大总理卡尼",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/517291.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-11-17",
-    "fetchedAt": "2026-11-17T05:45:58.101Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20261117_0fd47b45",
-    "title": "习近平在广东中山考察",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/517221.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-11-17",
-    "fetchedAt": "2026-11-17T05:45:58.359Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20261117_4cc80559",
-    "title": "《知识产权保护和运用“十五五”规划》",
-    "url": "https://www.cnipa.gov.cn/col/col3692/index.html",
-    "source": "国家知识产权局",
-    "sourceType": "html-list",
-    "category": "知识产权",
-    "date": "2026-11-17",
-    "fetchedAt": "2026-11-17T05:45:59.511Z",
-    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "国家知识产权局"
-    ]
-  },
-  {
-    "id": "news_20261117_ad4f76c2",
-    "title": "习近平在广东中山考察",
-    "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7086198.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-11-17",
-    "fetchedAt": "2026-11-17T05:46:00.399Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20261117_55598560",
-    "title": "习近平在广东中山考察",
-    "url": "https://www.gov.cn/home/toutu/202611/content_7086233.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-11-17",
-    "fetchedAt": "2026-11-17T05:46:00.650Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20261117_8273871b",
-    "title": "习近平会见越共中央总书记、国家主席苏林",
-    "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7086310.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-11-17",
-    "fetchedAt": "2026-11-17T05:46:00.922Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20261117_d3d5bdeb",
-    "title": "习近平在广东中山考察",
-    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-11/16/c_1796587992694644.htm",
-    "source": "网信中国",
-    "sourceType": "html-list",
-    "category": "AI 与数据合规",
-    "date": "2026-11-17",
-    "fetchedAt": "2026-11-17T05:46:02.395Z",
-    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "网信中国"
-    ]
-  },
-  {
-    "id": "news_20261117_c9a6384e",
-    "title": "《网信系统学习宣传贯彻党的二十届五中全会精神》专题",
-    "url": "https://www.cac.gov.cn//www.cac.gov.cn/gzzt/ztzl/zt/esjwzqh/A0920011316index_1.htm",
-    "source": "网信中国",
-    "sourceType": "html-list",
-    "category": "AI 与数据合规",
-    "date": "2026-11-17",
-    "fetchedAt": "2026-11-17T05:46:02.655Z",
-    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "网信中国"
-    ]
-  },
-  {
-    "id": "news_20261117_70a3e40a",
-    "title": "《深入学习贯彻习近平总书记在网络安全和信息化工作座谈会上的重要讲话精神》专题",
-    "url": "https://www.cac.gov.cn//www.cac.gov.cn/gzzt/ztzl/zt/tenth/A0920011307index_1.htm",
-    "source": "网信中国",
-    "sourceType": "html-list",
-    "category": "AI 与数据合规",
-    "date": "2026-11-17",
-    "fetchedAt": "2026-11-17T05:46:02.915Z",
-    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "网信中国"
-    ]
-  },
-  {
-    "id": "news_20261117_cc07d816",
-    "title": "习近平在广东中山考察",
-    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_1312fc2c73914aa7909e84986f509f78.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-11-17",
-    "fetchedAt": "2026-11-17T05:46:04.411Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20261117_dc6c8cef",
-    "title": "习近平在广东中山考察时强调 深入学习贯彻党的二十届五中全会精神 奋力开创粤港澳大湾区高质量发展新局面",
-    "url": "http://www.miit.gov.cn/xwfb/szyw/art/2026/art_1312fc2c73914aa7909e84986f509f78.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-11-17",
-    "fetchedAt": "2026-11-17T05:46:04.670Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20261117_0d5ea346",
-    "title": "学习贯彻党的二十届五中全会精神",
-    "url": "https://www.miit.gov.cn/ztzl/rdzt/xxgcddesjwzqhjs/index.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-11-17",
-    "fetchedAt": "2026-11-17T05:46:04.924Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20261117_68c77052",
-    "title": "工业和信息化部组织召开汽车产业国际合作圆桌会",
-    "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_c0de857d7adc4bb9a00894714ee2993f.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-11-17",
-    "fetchedAt": "2026-11-17T05:46:05.177Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
     ]
   }
 ]
