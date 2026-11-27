@@ -1,5 +1,65 @@
 [
   {
+    "id": "news_20261127_bc23d592",
+    "title": "习近平对党内法规工作作出重要指示",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/518491.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-11-27",
+    "fetchedAt": "2026-11-27T05:53:57.393Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20261127_40e6438b",
+    "title": "牢固树立大抓基层的鲜明导向 着力夯实中国式现代化的基层基础",
+    "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7087406.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-11-27",
+    "fetchedAt": "2026-11-27T05:53:59.564Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20261127_89bf44c3",
+    "title": "《习近平关于尊重和保障人权论述摘编》学术研讨会在泰国曼谷举行",
+    "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7087421.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-11-27",
+    "fetchedAt": "2026-11-27T05:54:00.266Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20261127_a38e4ddf",
+    "title": "牢固树立大抓基层的鲜明导向 着力夯实中国式现代化的基层基础",
+    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_514bd9de0e6d4f99ac20017cf57aaac4.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-11-27",
+    "fetchedAt": "2026-11-27T05:54:02.808Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
     "id": "news_20261126_06d1dee3",
     "title": "习近平同巴基斯坦总统扎尔达里就中巴航天员执行联合飞行任务互致贺电",
     "url": "https://www.court.gov.cn/zixun/xiangqing/518501.html",
@@ -788,246 +848,6 @@
     "category": "政策法规",
     "date": "2026-11-20",
     "fetchedAt": "2026-11-20T04:55:41.319Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20261119_e986953f",
-    "title": "习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/517881.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-11-19",
-    "fetchedAt": "2026-11-19T05:05:57.151Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20261119_5db2976a",
-    "title": "习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/517611.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-11-19",
-    "fetchedAt": "2026-11-19T05:05:57.899Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20261119_9e410c75",
-    "title": "习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的...",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/517741.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-11-19",
-    "fetchedAt": "2026-11-19T05:05:58.155Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20261119_693938db",
-    "title": "习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/517691.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-11-19",
-    "fetchedAt": "2026-11-19T05:05:58.421Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20261119_46be6afd",
-    "title": "习近平迎接美国总统特朗普",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/517721.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-11-19",
-    "fetchedAt": "2026-11-19T05:05:58.686Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20261119_f9f89ac5",
-    "title": "习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
-    "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7086665.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-11-19",
-    "fetchedAt": "2026-11-19T05:06:03.901Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20261119_d09906cc",
-    "title": "习近平谈建设亚太共同体",
-    "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7086626.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-11-19",
-    "fetchedAt": "2026-11-19T05:06:04.705Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20261119_3d613179",
-    "title": "习近平：携手搭建亚太共同体的“四梁八柱”",
-    "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7086627.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-11-19",
-    "fetchedAt": "2026-11-19T05:06:04.982Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20261119_d3691fe6",
-    "title": "习近平主持亚太经合组织第三十三次领导人非正式会议",
-    "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7086658.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-11-19",
-    "fetchedAt": "2026-11-19T05:06:05.237Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20261119_254a9547",
-    "title": "习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲",
-    "url": "https://www.gov.cn/home/toutu/202611/content_7086534.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-11-19",
-    "fetchedAt": "2026-11-19T05:06:05.489Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20261119_3d7e1946",
-    "title": "习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
-    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-11/19/c_1796848393614406.htm",
-    "source": "网信中国",
-    "sourceType": "html-list",
-    "category": "AI 与数据合规",
-    "date": "2026-11-19",
-    "fetchedAt": "2026-11-19T05:06:06.615Z",
-    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "网信中国"
-    ]
-  },
-  {
-    "id": "news_20261119_18500486",
-    "title": "习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会",
-    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-11/18/c_1796758591499307.htm",
-    "source": "网信中国",
-    "sourceType": "html-list",
-    "category": "AI 与数据合规",
-    "date": "2026-11-19",
-    "fetchedAt": "2026-11-19T05:06:06.861Z",
-    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "网信中国"
-    ]
-  },
-  {
-    "id": "news_20261119_d545030e",
-    "title": "习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲",
-    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_bd444ed36d244fb1a4c074f3a9550b57.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-11-19",
-    "fetchedAt": "2026-11-19T05:06:08.500Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20261119_9ec9509b",
-    "title": "主旨演讲全文",
-    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_b4efa8d8b4204b08931046c646009ff9.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-11-19",
-    "fetchedAt": "2026-11-19T05:06:08.766Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20261119_1184b9e5",
-    "title": "| 习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会",
-    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_bc5221b72c224b3fb793e3385a9c00fe.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-11-19",
-    "fetchedAt": "2026-11-19T05:06:09.025Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20261119_ff8ea0d3",
-    "title": "习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲",
-    "url": "http://www.miit.gov.cn/xwfb/szyw/art/2026/art_bd444ed36d244fb1a4c074f3a9550b57.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-11-19",
-    "fetchedAt": "2026-11-19T05:06:09.295Z",
     "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
     "legalPoint": "",
     "tags": [
